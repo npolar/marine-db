@@ -9,6 +9,7 @@
       "enum": [
         "Baited trap",
         "Bottle",
+        "Bottom trawl",
         "Bucket",
         "Diver",
         "Go-Flo",
@@ -20,6 +21,8 @@
         "Ice corer 18 cm",
         "Ice corer 22 cm",
         "Knife",
+        "Krill trawl",
+        "Pelagic trawl",
         "Limnos water sampler",
         "MIK-net 1500 µm",
         "Macro zooplankton net",
