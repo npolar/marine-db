@@ -1,7 +1,7 @@
 {
   "definitions": {},
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://data.npolar.no/marine-db/vocab/gear.json",
+  "$id": "https://data.npolar.no/marine/vocab/gear.json",
   "type": "object",
   "properties": {
     "gear": {
