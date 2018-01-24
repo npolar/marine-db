@@ -181,7 +181,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Fragilariopsis+nana&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Goniaulax ",
+    "name": "Goniaulax",
     "gbif": {
       "usageKey": 7691281,
       "scientificName": "Goniaulax Rauschenplat, 1901",
@@ -204,7 +204,7 @@
       "synonym": true,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Goniaulax+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Goniaulax&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Gonyaulax digitale",
