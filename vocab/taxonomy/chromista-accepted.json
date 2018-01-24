@@ -56,7 +56,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Actiniscus+pentasterias&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Actinocyclus ",
+    "name": "Actinocyclus",
     "gbif": {
       "usageKey": 3191666,
       "scientificName": "Actinocyclus",
@@ -79,10 +79,10 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Actinocyclus+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Actinocyclus&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Alexandrium ",
+    "name": "Alexandrium",
     "gbif": {
       "usageKey": 8252640,
       "scientificName": "Alexandrium Halim, 1960",
@@ -105,7 +105,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Alexandrium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Alexandrium&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Algirosphaera robusta",
@@ -136,7 +136,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Algirosphaera+robusta&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Algirosphaera ",
+    "name": "Algirosphaera",
     "gbif": {
       "usageKey": 9196678,
       "scientificName": "Algirosphaera Schlauder, 1945",
@@ -159,7 +159,7 @@
       "synonym": false,
       "class": "Prymnesiophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Algirosphaera+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Algirosphaera&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Amphidinium crassum",
@@ -218,7 +218,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Amphidinium+longum&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Amphidinium ",
+    "name": "Amphidinium",
     "gbif": {
       "usageKey": 8033867,
       "scientificName": "Amphidinium Claparède & Lachmann, 1859",
@@ -241,7 +241,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Amphidinium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Amphidinium&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Amphidinium sphenoides",
@@ -384,7 +384,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Asteromphalus+hyalinus&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Asteromphalus ",
+    "name": "Asteromphalus",
     "gbif": {
       "usageKey": 3193853,
       "scientificName": "Asteromphalus Ehrenberg, 1844",
@@ -407,7 +407,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Asteromphalus+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Asteromphalus&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Attheya decora",
@@ -488,7 +488,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Attheya+septentrionalis&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Azadinium ",
+    "name": "Azadinium",
     "gbif": {
       "usageKey": 7444697,
       "scientificName": "Azadinium Elbrächter & Tillmann, 2009",
@@ -511,7 +511,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Azadinium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Azadinium&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Azadinium spinosum",
@@ -590,7 +590,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Bacterosira+bathyomphala&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Bacterosira ",
+    "name": "Bacterosira",
     "gbif": {
       "usageKey": 7957574,
       "scientificName": "Bacterosira Gran, 1900",
@@ -609,10 +609,10 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Bacterosira+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Bacterosira&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Calycomonas ",
+    "name": "Calycomonas",
     "gbif": {
       "usageKey": 3195279,
       "scientificName": "Calycomonas Lohmann, 1908",
@@ -635,7 +635,7 @@
       "synonym": false,
       "class": "Chrysophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Calycomonas+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Calycomonas&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Ceratium arcticum",
@@ -666,7 +666,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Ceratium+arcticum&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Ceratium ",
+    "name": "Ceratium",
     "gbif": {
       "usageKey": 7492422,
       "scientificName": "Ceratium Schrank, 1793",
@@ -689,7 +689,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Ceratium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Ceratium&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Chaetoceros affinis",
@@ -1134,7 +1134,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Chaetoceros+socialis&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Chaetoceros ",
+    "name": "Chaetoceros",
     "gbif": {
       "usageKey": 3192923,
       "scientificName": "Chaetoceros Ehrenberg, 1844",
@@ -1155,7 +1155,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Chaetoceros+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Chaetoceros&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Chaetoceros tenuissimus",
@@ -1236,7 +1236,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Chaetoceros+wighamii&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Chrysochromulina ",
+    "name": "Chrysochromulina",
     "gbif": {
       "usageKey": 3202213,
       "scientificName": "Chrysochromulina Lackey, 1939",
@@ -1259,7 +1259,7 @@
       "synonym": false,
       "class": "Prymnesiophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Chrysochromulina+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Chrysochromulina&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Chrysophyceae",
@@ -1378,7 +1378,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Cochlodinium+pulchellum&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Cochlodinium ",
+    "name": "Cochlodinium",
     "gbif": {
       "usageKey": 7565797,
       "scientificName": "Cochlodinium Schütt, 1896",
@@ -1401,10 +1401,10 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Cochlodinium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Cochlodinium&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Conticribra ",
+    "name": "Conticribra",
     "gbif": {
       "usageKey": 8131159,
       "scientificName": "Conticribra K.Stachura-Suchoples & D.M.Williams, 2009",
@@ -1427,7 +1427,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Conticribra+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Conticribra&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Conticribra weissflogii",
@@ -1510,7 +1510,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Corethron+hystrix&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Corethron ",
+    "name": "Corethron",
     "gbif": {
       "usageKey": 3193834,
       "scientificName": "Corethron Castracane, 1886",
@@ -1533,10 +1533,10 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Corethron+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Corethron&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Coscinodiscus ",
+    "name": "Coscinodiscus",
     "gbif": {
       "usageKey": 3191512,
       "scientificName": "Coscinodiscus Ehrenberg, 1839",
@@ -1559,7 +1559,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Coscinodiscus+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Coscinodiscus&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Cryptomonas",
@@ -1608,7 +1608,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Cryptophyceae&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Cyclotella ",
+    "name": "Cyclotella",
     "gbif": {
       "usageKey": 3193095,
       "scientificName": "Cyclotella (Kützing) Brébisson, 1838",
@@ -1631,7 +1631,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Cyclotella+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Cyclotella&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Cylindrotheca closterium",
@@ -1662,7 +1662,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Cylindrotheca+closterium&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Detonula ",
+    "name": "Detonula",
     "gbif": {
       "usageKey": 3193386,
       "scientificName": "Detonula F.Schütt ex De Toni, 1894",
@@ -1685,7 +1685,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Detonula+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Detonula&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Dicroerisma psilonereiella",
@@ -1716,7 +1716,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Dicroerisma+psilonereiella&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Dicroerisma ",
+    "name": "Dicroerisma",
     "gbif": {
       "usageKey": 7400059,
       "scientificName": "Dicroerisma F.J.R.Taylor & S.A.Cattell, 1970",
@@ -1739,7 +1739,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Dicroerisma+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Dicroerisma&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Dictyocha speculum",
@@ -1818,7 +1818,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Didinium+nasutum&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Didinium ",
+    "name": "Didinium",
     "gbif": {
       "usageKey": 7857530,
       "scientificName": "Didinium Stein, 1859",
@@ -1841,7 +1841,7 @@
       "synonym": false,
       "class": "Gymnostomatea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Didinium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Didinium&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Dinobryon",
@@ -1926,7 +1926,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Dinobryon+faculiferum&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Dinobryon ",
+    "name": "Dinobryon",
     "gbif": {
       "usageKey": 3194946,
       "scientificName": "Dinobryon Ehrenberg, 1834",
@@ -1949,7 +1949,7 @@
       "synonym": false,
       "class": "Chrysophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Dinobryon+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Dinobryon&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Dinophyceae",
@@ -2112,7 +2112,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Dinophysis+norvegica&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Dinophysis ",
+    "name": "Dinophysis",
     "gbif": {
       "usageKey": 8327141,
       "scientificName": "Dinophysis Ehrenberg, 1839",
@@ -2135,7 +2135,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Dinophysis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Dinophysis&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Diplopelta bomba",
@@ -2166,7 +2166,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Diplopelta+bomba&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Ditylum ",
+    "name": "Ditylum",
     "gbif": {
       "usageKey": 3193745,
       "scientificName": "Ditylum J.W. Bailey",
@@ -2189,7 +2189,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Ditylum+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Ditylum&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Emiliania huxleyi",
@@ -2276,7 +2276,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Entomoneis+paludosa&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Entomoneis ",
+    "name": "Entomoneis",
     "gbif": {
       "usageKey": 8287685,
       "scientificName": "Entomoneis Ehrenberg, 1845",
@@ -2299,7 +2299,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Entomoneis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Entomoneis&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Eucampia groenlandica",
@@ -2330,7 +2330,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Eucampia+groenlandica&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Euplotes ",
+    "name": "Euplotes",
     "gbif": {
       "usageKey": 8410027,
       "scientificName": "Euplotes O.F. Müller, 1786",
@@ -2353,7 +2353,7 @@
       "synonym": false,
       "class": "Hypotrichea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Euplotes+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Euplotes&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Eutintinnus inguilinus",
@@ -2568,7 +2568,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Fragilariopsis+pseudonana&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Fragilariopsis ",
+    "name": "Fragilariopsis",
     "gbif": {
       "usageKey": 8120978,
       "scientificName": "Fragilariopsis Hustedt, 1913",
@@ -2591,7 +2591,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Fragilariopsis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Fragilariopsis&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Gonyaulax gracilis",
@@ -2650,7 +2650,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Gonyaulax+scrippsae&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Gonyaulax ",
+    "name": "Gonyaulax",
     "gbif": {
       "usageKey": 7849713,
       "scientificName": "Gonyaulax Diesing, 1866",
@@ -2673,7 +2673,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Gonyaulax+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Gonyaulax&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Gymnodiniales",
@@ -2864,7 +2864,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Gymnodinium+simplex&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Gymnodinium ",
+    "name": "Gymnodinium",
     "gbif": {
       "usageKey": 8661776,
       "scientificName": "Gymnodinium Stein, 1878",
@@ -2887,7 +2887,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Gymnodinium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Gymnodinium&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Gymnodinium wulffii",
@@ -3196,7 +3196,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Gyrodinium+pingue&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Gyrodinium ",
+    "name": "Gyrodinium",
     "gbif": {
       "usageKey": 8140448,
       "scientificName": "Gyrodinium Kofoid & Swezy, 1921",
@@ -3219,7 +3219,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Gyrodinium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Gyrodinium&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Gyrodinium spirale",
@@ -3306,7 +3306,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Haslea+crucigeroides&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Helicostomella ",
+    "name": "Helicostomella",
     "gbif": {
       "usageKey": 7552180,
       "scientificName": "Helicostomella Jörgensen, 1924",
@@ -3329,7 +3329,7 @@
       "synonym": false,
       "class": "Oligotrichea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Helicostomella+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Helicostomella&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Hemiselmis rufescens",
@@ -3498,7 +3498,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Heterocapsa+rotundata&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Heterocapsa ",
+    "name": "Heterocapsa",
     "gbif": {
       "usageKey": 8022260,
       "scientificName": "Heterocapsa Stein, 1883",
@@ -3521,10 +3521,10 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Heterocapsa+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Heterocapsa&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Hillea ",
+    "name": "Hillea",
     "gbif": {
       "usageKey": 3202411,
       "scientificName": "Hillea Schiller, 1925",
@@ -3547,7 +3547,7 @@
       "synonym": false,
       "class": "Cryptophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Hillea+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Hillea&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Katodinium glaucum",
@@ -3770,7 +3770,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Licmophora+gracilis&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Licmophora ",
+    "name": "Licmophora",
     "gbif": {
       "usageKey": 3195666,
       "scientificName": "Licmophora C.Agardh, 1827",
@@ -3793,7 +3793,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Licmophora+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Licmophora&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Lohmanniella oviformis",
@@ -3880,7 +3880,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Melosira+nummuloides&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Meringosphaera ",
+    "name": "Meringosphaera",
     "gbif": {
       "usageKey": 3201429,
       "scientificName": "Meringosphaera Lohmann, 1932",
@@ -3903,7 +3903,7 @@
       "synonym": false,
       "class": "Xanthophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Meringosphaera+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Meringosphaera&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Mesodinium rubrum",
@@ -4128,7 +4128,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Navicula+septentrionalis&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Navicula ",
+    "name": "Navicula",
     "gbif": {
       "usageKey": 7855840,
       "scientificName": "Navicula Bory de Saint-Vincent, 1822",
@@ -4151,7 +4151,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Navicula+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Navicula&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Navicula transitans",
@@ -4348,7 +4348,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Nitzschia+promare&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Nitzschia ",
+    "name": "Nitzschia",
     "gbif": {
       "usageKey": 7935952,
       "scientificName": "Nitzschia Hassall, 1845",
@@ -4371,7 +4371,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Nitzschia+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Nitzschia&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Odontella aurita",
@@ -4424,7 +4424,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Oligotrichida&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Olisthodiscus ",
+    "name": "Olisthodiscus",
     "gbif": {
       "usageKey": 3194246,
       "scientificName": "Olisthodiscus N.Carter, 1937",
@@ -4447,7 +4447,7 @@
       "synonym": false,
       "class": "Raphidophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Olisthodiscus+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Olisthodiscus&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Ollicola vangoorii",
@@ -4478,7 +4478,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Ollicola+vangoorii&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Oxyrrhis ",
+    "name": "Oxyrrhis",
     "gbif": {
       "usageKey": 9085924,
       "scientificName": "Oxyrrhis Dujardin, 1841",
@@ -4501,7 +4501,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Oxyrrhis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Oxyrrhis&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Oxytoxum gracile",
@@ -4532,7 +4532,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Oxytoxum+gracile&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Oxytoxum ",
+    "name": "Oxytoxum",
     "gbif": {
       "usageKey": 7573332,
       "scientificName": "Oxytoxum Stein, 1883",
@@ -4555,7 +4555,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Oxytoxum+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Oxytoxum&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Parafavella elegans",
@@ -4642,7 +4642,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Parafavella+obtusangula&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Parafavella ",
+    "name": "Parafavella",
     "gbif": {
       "usageKey": 7696361,
       "scientificName": "Parafavella Kofoid & Campbell, 1929",
@@ -4665,10 +4665,10 @@
       "synonym": false,
       "class": "Oligotrichea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Parafavella+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Parafavella&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Parapedinella ",
+    "name": "Parapedinella",
     "gbif": {
       "usageKey": 3195262,
       "scientificName": "Parapedinella S.M.Pedersen, P.L.Beech & H.A.Thomsen, 1986",
@@ -4691,7 +4691,7 @@
       "synonym": false,
       "class": "Dictyochophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Parapedinella+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Parapedinella&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Pauliella taeniata",
@@ -4722,7 +4722,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Pauliella+taeniata&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Pavlova ",
+    "name": "Pavlova",
     "gbif": {
       "usageKey": 3202275,
       "scientificName": "Pavlova Butcher, 1952",
@@ -4745,7 +4745,7 @@
       "synonym": false,
       "class": "Pavlovophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Pavlova+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Pavlova&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Peridiniella catenata",
@@ -4830,7 +4830,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Phaeocystis+pouchetii&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Phaeocystis ",
+    "name": "Phaeocystis",
     "gbif": {
       "usageKey": 3202265,
       "scientificName": "Phaeocystis Lagerheim, 1893",
@@ -4853,7 +4853,7 @@
       "synonym": false,
       "class": "Prymnesiophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Phaeocystis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Phaeocystis&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Phalacroma rotundatum",
@@ -4968,7 +4968,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Plagioselmis+prolonga&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Plagioselmis ",
+    "name": "Plagioselmis",
     "gbif": {
       "usageKey": 3202470,
       "scientificName": "Plagioselmis Butcher ex G.Novarino, I.A.N.Lucas & S.Morrall, 1994",
@@ -4991,10 +4991,10 @@
       "synonym": false,
       "class": "Cryptophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Plagioselmis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Plagioselmis&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Pleurosigma ",
+    "name": "Pleurosigma",
     "gbif": {
       "usageKey": 7650819,
       "scientificName": "Pleurosigma W.Smith, 1852",
@@ -5017,7 +5017,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Pleurosigma+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Pleurosigma&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Pleurosigma stuxbergii",
@@ -5048,7 +5048,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Pleurosigma+stuxbergii&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Podolampas ",
+    "name": "Podolampas",
     "gbif": {
       "usageKey": 7905171,
       "scientificName": "Podolampas Stein, 1883",
@@ -5071,7 +5071,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Podolampas+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Podolampas&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Polarella glacialis",
@@ -5102,7 +5102,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Polarella+glacialis&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Polykrikos ",
+    "name": "Polykrikos",
     "gbif": {
       "usageKey": 7728817,
       "scientificName": "Polykrikos Bütschli, 1873",
@@ -5125,7 +5125,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Polykrikos+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Polykrikos&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Porosira glacialis",
@@ -5212,7 +5212,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Pronoctiluca+pelagica&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Pronoctiluca ",
+    "name": "Pronoctiluca",
     "gbif": {
       "usageKey": 8286115,
       "scientificName": "Pronoctiluca Fabre-Domergue, 1889",
@@ -5235,10 +5235,10 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Pronoctiluca+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Pronoctiluca&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Prorocentrum ",
+    "name": "Prorocentrum",
     "gbif": {
       "usageKey": 8069717,
       "scientificName": "Prorocentrum Ehrenberg, 1834",
@@ -5261,10 +5261,10 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Prorocentrum+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Prorocentrum&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Prorodon ",
+    "name": "Prorodon",
     "gbif": {
       "usageKey": 7352338,
       "scientificName": "Prorodon Ehrenberg, 1834",
@@ -5287,7 +5287,7 @@
       "synonym": false,
       "class": "Prostomatea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Prorodon+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Prorodon&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Prostomatea",
@@ -5702,7 +5702,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Protoperidinium+pyriforme&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Protoperidinium ",
+    "name": "Protoperidinium",
     "gbif": {
       "usageKey": 7901001,
       "scientificName": "Protoperidinium Bergh, 1882",
@@ -5725,10 +5725,10 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Protoperidinium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Protoperidinium&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Protoperidinium ",
+    "name": "Protoperidinium",
     "gbif": {
       "usageKey": 7901001,
       "scientificName": "Protoperidinium Bergh, 1882",
@@ -5751,7 +5751,7 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Protoperidinium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Protoperidinium&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Protoperidinium steinii",
@@ -5782,7 +5782,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Protoperidinium+steinii&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Prymnesiophyceae ",
+    "name": "Prymnesiophyceae",
     "gbif": {
       "usageKey": 258,
       "scientificName": "Prymnesiophyceae",
@@ -5799,10 +5799,10 @@
       "synonym": false,
       "class": "Prymnesiophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Prymnesiophyceae+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Prymnesiophyceae&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Pseudogomphonema ",
+    "name": "Pseudogomphonema",
     "gbif": {
       "usageKey": 8066446,
       "scientificName": "Pseudogomphonema L.K.Medlin, 1986",
@@ -5825,7 +5825,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Pseudogomphonema+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Pseudogomphonema&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Pseudo-nitzschia delicatissima",
@@ -5940,7 +5940,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Pseudo-nitzschia+seriata&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Pseudo-nitzschia ",
+    "name": "Pseudo-nitzschia",
     "gbif": {
       "usageKey": 7402345,
       "scientificName": "Pseudo-nitzschia H.Peragallo, 1900",
@@ -5963,7 +5963,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Pseudo-nitzschia+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Pseudo-nitzschia&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Pseudo-nitzschia turgidula",
@@ -6022,7 +6022,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Pseudopedinella+pyriformis&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Pseudopedinella ",
+    "name": "Pseudopedinella",
     "gbif": {
       "usageKey": 3195266,
       "scientificName": "Pseudopedinella N.Carter, 1937",
@@ -6045,7 +6045,7 @@
       "synonym": false,
       "class": "Dictyochophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Pseudopedinella+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Pseudopedinella&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Ptychocylis acuta",
@@ -6178,7 +6178,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Rhizosolenia+setigera&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Rhizosolenia ",
+    "name": "Rhizosolenia",
     "gbif": {
       "usageKey": 3236591,
       "scientificName": "Rhizosolenia Brightwell, 1858",
@@ -6201,10 +6201,10 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Rhizosolenia+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Rhizosolenia&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Rhizosolenia ",
+    "name": "Rhizosolenia",
     "gbif": {
       "usageKey": 3236591,
       "scientificName": "Rhizosolenia Brightwell, 1858",
@@ -6227,7 +6227,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Rhizosolenia+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Rhizosolenia&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Salpingella acuminata",
@@ -6446,7 +6446,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Skeletonema+marinoi&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Stauroneis ",
+    "name": "Stauroneis",
     "gbif": {
       "usageKey": 8209821,
       "scientificName": "Stauroneis Ehrenberg, 1843",
@@ -6469,10 +6469,10 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Stauroneis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Stauroneis&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Stenoneis ",
+    "name": "Stenoneis",
     "gbif": {
       "usageKey": 8160808,
       "scientificName": "Stenoneis Cleve, 1894",
@@ -6495,7 +6495,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Stenoneis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Stenoneis&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Strombidium conicum",
@@ -6554,7 +6554,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Strombidium+constrictum&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Strombidium ",
+    "name": "Strombidium",
     "gbif": {
       "usageKey": 7404521,
       "scientificName": "Strombidium Claparède & Lachmann, 1859",
@@ -6577,7 +6577,7 @@
       "synonym": false,
       "class": "Oligotrichea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Strombidium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Strombidium&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Strombidium sulcatum",
@@ -6636,7 +6636,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Synedropsis+hyperborea&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Synedropsis ",
+    "name": "Synedropsis",
     "gbif": {
       "usageKey": 7560335,
       "scientificName": "Synedropsis G.R.Hasle, L.K.Medlin & E.E.Syvertsen, 1994",
@@ -6659,7 +6659,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Synedropsis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Synedropsis&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Teleaulax acuta",
@@ -6718,7 +6718,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Teleaulax+amphioxeia&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Teleaulax ",
+    "name": "Teleaulax",
     "gbif": {
       "usageKey": 3202524,
       "scientificName": "Teleaulax Hill, 1991",
@@ -6741,10 +6741,10 @@
       "synonym": false,
       "class": "Cryptophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Teleaulax+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Teleaulax&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Telonema ",
+    "name": "Telonema",
     "gbif": {
       "usageKey": 3202490,
       "scientificName": "Telonema Griessmann, 1913",
@@ -6765,7 +6765,7 @@
       "synonym": false,
       "class": "Telonemea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Telonema+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Telonema&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Telonema subtile",
@@ -7074,7 +7074,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Thalassiosira+pacifica&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Thalassiosira ",
+    "name": "Thalassiosira",
     "gbif": {
       "usageKey": 3193396,
       "scientificName": "Thalassiosira Cleve, 1873",
@@ -7097,7 +7097,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Thalassiosira+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Thalassiosira&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Tiarina fusus",
@@ -7128,7 +7128,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Tiarina+fusus&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Tiarina ",
+    "name": "Tiarina",
     "gbif": {
       "usageKey": 7383924,
       "scientificName": "Tiarina Berg, 1881",
@@ -7151,7 +7151,7 @@
       "synonym": false,
       "class": "Prostomatea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Tiarina+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Tiarina&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Tintinnidae",
@@ -7206,7 +7206,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Tintinnopsis+beroidea&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Tintinnopsis ",
+    "name": "Tintinnopsis",
     "gbif": {
       "usageKey": 7997881,
       "scientificName": "Tintinnopsis Stein, 1867",
@@ -7229,10 +7229,10 @@
       "synonym": false,
       "class": "Oligotrichea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Tintinnopsis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Tintinnopsis&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Tintinnus ",
+    "name": "Tintinnus",
     "gbif": {
       "usageKey": 8398935,
       "scientificName": "Tintinnus",
@@ -7255,10 +7255,10 @@
       "synonym": false,
       "class": "Oligotrichea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Tintinnus+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Tintinnus&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Tontonia ",
+    "name": "Tontonia",
     "gbif": {
       "usageKey": 7364408,
       "scientificName": "Tontonia Fauré-Fremiet, 1914",
@@ -7281,7 +7281,7 @@
       "synonym": false,
       "class": "Oligotrichea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Tontonia+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Tontonia&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Torodinium robustum",
@@ -7312,7 +7312,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Torodinium+robustum&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Torodinium ",
+    "name": "Torodinium",
     "gbif": {
       "usageKey": 8100015,
       "scientificName": "Torodinium Kofoid & Swezy, 1921",
@@ -7335,10 +7335,10 @@
       "synonym": false,
       "class": "Dinophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Torodinium+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Torodinium&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Tropidoneis ",
+    "name": "Tropidoneis",
     "gbif": {
       "usageKey": 7943500,
       "scientificName": "Tropidoneis Cleve, 1891",
@@ -7361,7 +7361,7 @@
       "synonym": false,
       "class": "Bacillariophyceae"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Tropidoneis+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Tropidoneis&kingdom=Chromista&verbose=false"
   },
   {
     "name": "Uronema marinum",
@@ -7392,7 +7392,7 @@
     "uri": "https://api.gbif.org/v1/species/match?name=Uronema+marinum&kingdom=Chromista&verbose=false"
   },
   {
-    "name": "Urotricha ",
+    "name": "Urotricha",
     "gbif": {
       "usageKey": 8167188,
       "scientificName": "Urotricha Claparède & Lachmann, 1959",
@@ -7415,6 +7415,6 @@
       "synonym": false,
       "class": "Prostomatea"
     },
-    "uri": "https://api.gbif.org/v1/species/match?name=Urotricha+&kingdom=Chromista&verbose=false"
+    "uri": "https://api.gbif.org/v1/species/match?name=Urotricha&kingdom=Chromista&verbose=false"
   }
 ]
