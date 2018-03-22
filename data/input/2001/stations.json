@@ -1,0 +1,1436 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "fd45462a-ed3f-5900-8f17-67dc2c3ffb5f",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-07-23"
+        ],
+        "times": [
+          "2001-07-23T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41,
+          79.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "866b3efe-4871-5bd9-95fd-14eb65d7651e",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-07-23"
+        ],
+        "times": [
+          "2001-07-23T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.66,
+          78.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca8dfcb2-e0dc-5af7-a470-e0bce7fb3790",
+      "properties": {
+        "station": "Kb21",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-21",
+          "2001-09-04"
+        ],
+        "times": [
+          "2001-05-21T00:00:00Z",
+          "2001-05-21T15:25:00Z",
+          "2001-09-04T00:00:00Z"
+        ],
+        "visits": 3,
+        "period_days": 106,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74,
+          79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16b28bac-77b5-5039-9a82-b6d10580ed79",
+      "properties": {
+        "station": "Kb52",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-21",
+          "2001-05-22",
+          "2001-09-04"
+        ],
+        "times": [
+          "2001-05-21T00:00:00Z",
+          "2001-05-21T12:45:00Z",
+          "2001-05-22T00:00:00Z",
+          "2001-09-04T00:00:00Z"
+        ],
+        "visits": 4,
+        "period_days": 106,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "distance_km": 0.18868210867503196
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.42,
+            79.04
+          ],
+          [
+            11.421667,
+            79.041667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b60b7aca-b61b-5e0f-a12b-4a9d8aa6701b",
+      "properties": {
+        "station": "Kb26",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-21",
+          "2001-05-22",
+          "2001-05-23",
+          "2001-09-03",
+          "2001-09-04"
+        ],
+        "times": [
+          "2001-05-21T00:00:00Z",
+          "2001-05-21T21:40:00Z",
+          "2001-05-22T00:00:00Z",
+          "2001-05-22T13:30:00Z",
+          "2001-05-23T00:00:00Z",
+          "2001-09-03T00:00:00Z",
+          "2001-09-04T00:00:00Z"
+        ],
+        "visits": 7,
+        "period_days": 106,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "area_km2": 1.7789556910346116
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.95,
+              78.98
+            ],
+            [
+              11.95,
+              78.95
+            ],
+            [
+              12,
+              78.945
+            ],
+            [
+              11.95,
+              78.98
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4dc320c6-7f8f-5187-b1f3-1c000d475f34",
+      "properties": {
+        "station": "Kb28",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-22",
+          "2001-09-03"
+        ],
+        "times": [
+          "2001-05-22T00:00:00Z",
+          "2001-05-22T01:05:00Z",
+          "2001-09-03T00:00:00Z"
+        ],
+        "visits": 3,
+        "period_days": 104,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "distance_km": 0.3723238043848641
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.18,
+            78.91
+          ],
+          [
+            12.181667,
+            78.913333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57b35746-8d52-509a-a394-4aca517264bf",
+      "properties": {
+        "station": "V15",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-20",
+          "2001-05-22"
+        ],
+        "times": [
+          "2001-05-20T03:20:00Z",
+          "2001-05-22T14:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 2,
+        "vessel": "Lance",
+        "distance_km": 66.87799413213732
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.821667,
+            78.908333
+          ],
+          [
+            10.9,
+            79.0305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "efa2bc08-172a-567f-a00c-d18a365d7892",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-07-23"
+        ],
+        "times": [
+          "2001-07-23T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93,
+          78.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "80a10c45-88b9-5ba1-8c65-a8ec11388101",
+      "properties": {
+        "station": "V10",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-20"
+        ],
+        "times": [
+          "2001-05-20T10:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          78.932167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "853742b6-0895-5b27-a0bf-eaf86334a429",
+      "properties": {
+        "station": "Kb10",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-20",
+          "2001-09-05"
+        ],
+        "times": [
+          "2001-05-20T00:00:00Z",
+          "2001-09-05T00:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 108,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          78.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "742021b3-fc0b-510d-a5b3-fb423c4245fe",
+      "properties": {
+        "station": "Kb15",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-20",
+          "2001-05-22"
+        ],
+        "times": [
+          "2001-05-20T00:00:00Z",
+          "2001-05-22T00:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 2,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9,
+          79.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "132c8f62-4523-55eb-b8e5-c349c510f8ca",
+      "properties": {
+        "station": "V12",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-20"
+        ],
+        "times": [
+          "2001-05-20T14:35:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5,
+          78.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db5424c1-1127-5ab5-b898-abe3cbe64277",
+      "properties": {
+        "station": "Forlandssundet",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-08-05"
+        ],
+        "times": [
+          "2001-08-05T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Zodiac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2,
+          78.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9bd3320d-c3ec-55f9-9a23-ac5a2b6f13c7",
+      "properties": {
+        "station": "Kb12",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-20"
+        ],
+        "times": [
+          "2001-05-20T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5,
+          78.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57826ced-01ef-583f-baa1-c8a579e6dd23",
+      "properties": {
+        "station": "old docks",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-27"
+        ],
+        "times": [
+          "2001-05-27T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Zodiac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11,
+          79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92edf7c2-1cc9-5d8a-b4bf-7c2d92753b06",
+      "properties": {
+        "station": "Gåsebu",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-05-25",
+          "2001-05-27"
+        ],
+        "times": [
+          "2001-05-25T00:00:00Z",
+          "2001-05-27T00:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 2,
+        "vessel": "Zodiac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11,
+          79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b2890602-f954-593f-b48a-7dc228fd0672",
+      "properties": {
+        "station": "Kongsfjordneset",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-07-27"
+        ],
+        "times": [
+          "2001-07-27T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Zodiac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35,
+          78.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7df3327f-7cdb-57f7-ab82-f282f7145e31",
+      "properties": {
+        "station": "Stuphallet",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-08-17"
+        ],
+        "times": [
+          "2001-08-17T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Zodiac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4,
+          78.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21d19a59-b7f1-53ba-b7b3-b7b163e4a120",
+      "properties": {
+        "station": "Kb6",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-09-05"
+        ],
+        "times": [
+          "2001-09-05T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Håkon Mosby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.82,
+          78.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b8d5cdf-e058-5dbd-8305-d80e520d00cb",
+      "properties": {
+        "station": "Stuphallet-Kongsfj.",
+        "expedition": "01M",
+        "year": 2001,
+        "dates": [
+          "2001-07-30"
+        ],
+        "times": [
+          "2001-07-30T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Zodiac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4,
+          78.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5863a7df-09f6-59bd-b7b1-38299ceacb70",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-07-23"
+        ],
+        "times": [
+          "2001-07-23T00:00:00Z",
+          "2001-07-23T20:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Oceania",
+        "distance_km": 0.391244137567061
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.427383,
+            79.013483
+          ],
+          [
+            11.43,
+            79.01
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "659fdf65-f477-5a00-8ae5-a238f13fb8ad",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-07-23"
+        ],
+        "times": [
+          "2001-07-23T00:00:00Z",
+          "2001-07-23T17:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Oceania",
+        "distance_km": 0.390791875658858
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.68,
+            78.98
+          ],
+          [
+            11.681667,
+            78.9835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3fb79ddc-4668-585a-a1ed-c2e68490bdf4",
+      "properties": {
+        "station": "Kb21",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-21",
+          "2001-05-25",
+          "2001-09-04"
+        ],
+        "times": [
+          "2001-05-21T15:25:00Z",
+          "2001-05-21T15:50:00Z",
+          "2001-05-21T16:10:00Z",
+          "2001-05-21T16:20:00Z",
+          "2001-05-21T16:40:00Z",
+          "2001-05-21T17:00:00Z",
+          "2001-05-21T17:15:00Z",
+          "2001-05-21T17:25:00Z",
+          "2001-05-25T15:00:00Z",
+          "2001-05-25T15:15:00Z",
+          "2001-05-25T15:30:00Z",
+          "2001-05-25T15:45:00Z",
+          "2001-05-25T16:00:00Z",
+          "2001-05-25T16:15:00Z",
+          "2001-05-25T16:30:00Z",
+          "2001-05-25T16:45:00Z",
+          "2001-09-04T03:45:00Z",
+          "2001-09-04T04:07:00Z",
+          "2001-09-04T04:20:00Z",
+          "2001-09-04T04:55:00Z",
+          "2001-09-04T05:07:00Z",
+          "2001-09-04T05:20:00Z",
+          "2001-09-04T05:39:00Z"
+        ],
+        "visits": 23,
+        "period_days": 105,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "area_km2": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.735,
+              79
+            ],
+            [
+              11.74,
+              79
+            ],
+            [
+              11.73,
+              79
+            ],
+            [
+              11.735,
+              79
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9ce1d2e3-04d2-554d-a989-8de9e4238317",
+      "properties": {
+        "station": "Kb52",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-21",
+          "2001-05-22",
+          "2001-09-04"
+        ],
+        "times": [
+          "2001-05-21T12:45:00Z",
+          "2001-05-21T12:50:00Z",
+          "2001-05-21T13:00:00Z",
+          "2001-05-21T13:10:00Z",
+          "2001-05-21T13:30:00Z",
+          "2001-05-21T13:55:00Z",
+          "2001-05-21T14:20:00Z",
+          "2001-05-21T14:30:00Z",
+          "2001-05-22T19:15:00Z",
+          "2001-05-22T19:35:00Z",
+          "2001-09-04T17:20:00Z",
+          "2001-09-04T17:45:00Z",
+          "2001-09-04T18:25:00Z",
+          "2001-09-04T18:40:00Z",
+          "2001-09-04T18:45:00Z",
+          "2001-09-04T19:20:00Z"
+        ],
+        "visits": 16,
+        "period_days": 106,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "distance_km": 0.18868210867503196
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.42,
+            79.04
+          ],
+          [
+            11.421667,
+            79.041667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35537ee5-0f36-5299-a4f4-e0a0a969139a",
+      "properties": {
+        "station": "Kb26",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-21",
+          "2001-05-22",
+          "2001-09-03",
+          "2001-09-04"
+        ],
+        "times": [
+          "2001-05-21T21:20:00Z",
+          "2001-05-21T21:45:00Z",
+          "2001-05-21T22:15:00Z",
+          "2001-05-21T22:30:00Z",
+          "2001-05-21T22:45:00Z",
+          "2001-05-21T23:25:00Z",
+          "2001-05-21T23:30:00Z",
+          "2001-05-21T23:35:00Z",
+          "2001-05-22T21:05:00Z",
+          "2001-05-22T21:20:00Z",
+          "2001-05-22T21:40:00Z",
+          "2001-09-03T23:15:00Z",
+          "2001-09-04T01:07:00Z",
+          "2001-09-04T01:40:00Z",
+          "2001-09-04T02:10:00Z",
+          "2001-09-04T02:25:00Z",
+          "2001-09-04T02:35:00Z",
+          "2001-09-04T02:45:00Z"
+        ],
+        "visits": 18,
+        "period_days": 105,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "area_km2": 0.2871877095563301
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.958333,
+              78.946667
+            ],
+            [
+              11.99,
+              78.94
+            ],
+            [
+              12,
+              78.943333
+            ],
+            [
+              12,
+              78.945
+            ],
+            [
+              11.958333,
+              78.946667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a10cfc91-c92f-5ec0-8550-fa35b5158c33",
+      "properties": {
+        "station": "Kb28",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-22",
+          "2001-09-03"
+        ],
+        "times": [
+          "2001-05-22T01:05:00Z",
+          "2001-05-22T01:15:00Z",
+          "2001-05-22T01:25:00Z",
+          "2001-05-22T01:30:00Z",
+          "2001-05-22T01:40:00Z",
+          "2001-09-03T20:20:00Z",
+          "2001-09-03T21:00:00Z",
+          "2001-09-03T21:35:00Z"
+        ],
+        "visits": 8,
+        "period_days": 104,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "distance_km": 0.3723238043848641
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.18,
+            78.91
+          ],
+          [
+            12.181667,
+            78.913333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37416162-87c9-5060-bb45-6e3c3ec7b43f",
+      "properties": {
+        "station": "V15",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-20",
+          "2001-05-21",
+          "2001-05-22",
+          "2001-05-26",
+          "2001-07-25",
+          "2001-09-05"
+        ],
+        "times": [
+          "2001-05-20T03:20:00Z",
+          "2001-05-20T03:40:00Z",
+          "2001-05-20T03:50:00Z",
+          "2001-05-20T04:00:00Z",
+          "2001-05-20T07:00:00Z",
+          "2001-05-20T07:10:00Z",
+          "2001-05-20T07:15:00Z",
+          "2001-05-20T08:15:00Z",
+          "2001-05-20T21:30:00Z",
+          "2001-05-20T21:45:00Z",
+          "2001-05-20T21:55:00Z",
+          "2001-05-20T22:15:00Z",
+          "2001-05-20T22:30:00Z",
+          "2001-05-20T23:00:00Z",
+          "2001-05-20T23:15:00Z",
+          "2001-05-21T00:00:00Z",
+          "2001-05-21T00:20:00Z",
+          "2001-05-21T00:25:00Z",
+          "2001-05-21T00:35:00Z",
+          "2001-05-22T14:00:00Z",
+          "2001-05-22T14:10:00Z",
+          "2001-05-22T15:15:00Z",
+          "2001-05-26T06:10:00Z",
+          "2001-05-26T06:45:00Z",
+          "2001-05-26T07:30:00Z",
+          "2001-05-26T07:55:00Z",
+          "2001-05-26T08:35:00Z",
+          "2001-05-26T08:40:00Z",
+          "2001-05-26T09:00:00Z",
+          "2001-07-25T06:30:00Z",
+          "2001-07-25T08:00:00Z",
+          "2001-09-05T04:15:00Z",
+          "2001-09-05T05:10:00Z",
+          "2001-09-05T06:00:00Z",
+          "2001-09-05T06:40:00Z",
+          "2001-09-05T07:10:00Z",
+          "2001-09-05T08:52:00Z"
+        ],
+        "visits": 37,
+        "period_days": 108,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Oceania",
+          "Håkon Mosby"
+        ],
+        "area_km2": 23.76841128376642
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.77,
+              78.9
+            ],
+            [
+              10.9,
+              79.0305
+            ],
+            [
+              10.905,
+              79.03
+            ],
+            [
+              7.821667,
+              78.908333
+            ],
+            [
+              7.883333,
+              78.908333
+            ],
+            [
+              8.14715,
+              78.9227
+            ],
+            [
+              7.77,
+              78.91
+            ],
+            [
+              7.77,
+              78.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cf555bd3-2b78-5e44-8750-6ac76ccaf348",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-07-23"
+        ],
+        "times": [
+          "2001-07-23T00:00:00Z",
+          "2001-07-23T12:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Oceania",
+        "distance_km": 0.13587393605010215
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.94,
+            78.96
+          ],
+          [
+            11.943667,
+            78.959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d644bf9c-10b4-59fc-96c9-57ce7144accc",
+      "properties": {
+        "station": "V10",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-02-20",
+          "2001-05-20",
+          "2001-05-26",
+          "2001-09-05",
+          "2001-12-01"
+        ],
+        "times": [
+          "2001-02-20T10:30:00Z",
+          "2001-05-20T10:00:00Z",
+          "2001-05-20T11:20:00Z",
+          "2001-05-20T12:10:00Z",
+          "2001-05-20T12:50:00Z",
+          "2001-05-20T13:10:00Z",
+          "2001-05-20T13:35:00Z",
+          "2001-05-26T00:55:00Z",
+          "2001-05-26T01:10:00Z",
+          "2001-05-26T01:30:00Z",
+          "2001-05-26T01:45:00Z",
+          "2001-05-26T02:10:00Z",
+          "2001-09-05T10:45:00Z",
+          "2001-09-05T11:05:00Z",
+          "2001-09-05T11:10:00Z",
+          "2001-09-05T11:52:00Z",
+          "2001-09-05T12:45:00Z",
+          "2001-09-05T13:10:00Z",
+          "2001-12-01T12:35:00Z"
+        ],
+        "visits": 19,
+        "period_days": 284,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "distance_km": 0.2409597388660691
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.55,
+            78.932167
+          ],
+          [
+            8.55,
+            78.93
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35a648a3-2d79-5578-b0ad-674a25e079dc",
+      "properties": {
+        "station": "Kb19",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-24",
+          "2001-05-25",
+          "2001-09-05",
+          "2001-09-06"
+        ],
+        "times": [
+          "2001-05-24T03:00:00Z",
+          "2001-05-24T19:00:00Z",
+          "2001-05-25T01:35:00Z",
+          "2001-09-05T21:25:00Z",
+          "2001-09-06T01:55:00Z"
+        ],
+        "visits": 5,
+        "period_days": 104,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "distance_km": 0.58330199341022
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.611667,
+            79.025
+          ],
+          [
+            11.62,
+            79.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "069942e5-3201-5ff5-9229-3c13b3a2af07",
+      "properties": {
+        "station": "Kb17",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-24",
+          "2001-05-25",
+          "2001-09-05",
+          "2001-09-06"
+        ],
+        "times": [
+          "2001-05-24T02:00:00Z",
+          "2001-05-24T18:25:00Z",
+          "2001-05-25T02:45:00Z",
+          "2001-09-05T20:10:00Z",
+          "2001-09-06T03:00:00Z"
+        ],
+        "visits": 5,
+        "period_days": 105,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "distance_km": 111.56569854949737
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.49,
+            79.99
+          ],
+          [
+            11.491667,
+            78.986667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a612995d-8c34-513d-b5df-1bd079e71741",
+      "properties": {
+        "station": "Kb18",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-24",
+          "2001-05-25",
+          "2001-09-06"
+        ],
+        "times": [
+          "2001-05-24T02:30:00Z",
+          "2001-05-24T18:45:00Z",
+          "2001-05-25T02:00:00Z",
+          "2001-09-06T02:30:00Z",
+          "2001-09-06T20:45:00Z"
+        ],
+        "visits": 5,
+        "period_days": 105,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "distance_km": 0.03536877492296455
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.558333,
+            79
+          ],
+          [
+            11.56,
+            79
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4710f433-e1b2-5728-8ebd-dbc21e0f4201",
+      "properties": {
+        "station": "V12",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-20"
+        ],
+        "times": [
+          "2001-05-20T14:35:00Z",
+          "2001-05-20T14:45:00Z",
+          "2001-05-20T15:00:00Z",
+          "2001-05-20T15:10:00Z",
+          "2001-05-20T15:30:00Z",
+          "2001-05-20T15:55:00Z",
+          "2001-05-20T16:10:00Z"
+        ],
+        "visits": 7,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 3.3358524070061133
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5,
+            78.95
+          ],
+          [
+            9.5,
+            78.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc9feb6f-079c-5078-83e3-accb436a9254",
+      "properties": {
+        "station": "Kb20",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-24",
+          "2001-09-05",
+          "2001-09-06"
+        ],
+        "times": [
+          "2001-05-24T03:30:00Z",
+          "2001-05-24T09:50:00Z",
+          "2001-05-24T19:30:00Z",
+          "2001-09-05T21:50:00Z",
+          "2001-09-06T01:30:00Z"
+        ],
+        "visits": 5,
+        "period_days": 104,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Håkon Mosby"
+        ],
+        "distance_km": 0.37725004267264634
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.67,
+            79.04
+          ],
+          [
+            11.673333,
+            79.043333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fccf56b4-9394-5461-81d9-dad5b225604d",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-07-25"
+        ],
+        "times": [
+          "2001-07-25T00:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1326,
+          79.042833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9d8bfa87-8a3b-56d6-95b5-96b8794c4616",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-07-22"
+        ],
+        "times": [
+          "2001-07-22T21:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.430367,
+          78.886117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bad42d70-0865-5b9d-8692-5b7ce9314e6b",
+      "properties": {
+        "station": "Kongsfjorden",
+        "expedition": "OAERRE-2001",
+        "year": 2001,
+        "dates": [
+          "2001-05-25",
+          "2001-07-24",
+          "2001-08-01",
+          "2001-09-03"
+        ],
+        "times": [
+          "2001-05-25T23:27:00Z",
+          "2001-07-24T23:31:00Z",
+          "2001-08-01T01:21:00Z",
+          "2001-09-03T03:06:00Z"
+        ],
+        "visits": 4,
+        "period_days": 100,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Zodiac",
+          "Håkon Mosby"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11,
+          79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9954fc4c-b974-52e6-b7fc-ec71d9cd8035",
+      "properties": {
+        "station": "BF1",
+        "expedition": "Billefjorden",
+        "year": 2001,
+        "dates": [
+          "2001-03-15",
+          "2001-03-22",
+          "2001-03-29",
+          "2001-04-13",
+          "2001-05-14",
+          "2001-06-11",
+          "2001-07-14",
+          "2001-08-01",
+          "2001-09-27"
+        ],
+        "times": [
+          "2001-03-15T00:00:00Z",
+          "2001-03-22T00:00:00Z",
+          "2001-03-29T00:00:00Z",
+          "2001-04-13T00:00:00Z",
+          "2001-05-14T00:00:00Z",
+          "2001-06-11T00:00:00Z",
+          "2001-07-14T00:00:00Z",
+          "2001-08-01T00:00:00Z",
+          "2001-09-27T00:00:00Z"
+        ],
+        "visits": 9,
+        "period_days": 196,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Snowmobile",
+          "Lance",
+          "Fram",
+          "Jan Mayen"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43,
+          78.39
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    7.77,
+    78.39,
+    16.43,
+    79.99
+  ]
+}

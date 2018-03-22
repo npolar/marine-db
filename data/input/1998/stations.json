@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "cf093e81-7a8f-59c2-a6ec-06f33f007f03",
+      "properties": {
+        "station": "Ice1, North of Kvitoya",
+        "expedition": "UNIS-AB310-1998",
+        "year": 1998,
+        "dates": [
+          "1998-09-14"
+        ],
+        "times": [
+          "1998-09-14T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.26,
+          81.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e82ef61d-467a-5f82-9591-f2b9d899dca7",
+      "properties": {
+        "station": "Ice2, North Svalbard",
+        "expedition": "UNIS-AB310-1998",
+        "year": 1998,
+        "dates": [
+          "1998-09-17"
+        ],
+        "times": [
+          "1998-09-17T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.06,
+          80.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b0958b1-8182-5f1c-8517-f9fbb9c0319f",
+      "properties": {
+        "station": "Ice3, Fram Strait",
+        "expedition": "UNIS-AB310-1998",
+        "year": 1998,
+        "dates": [
+          "1998-09-20"
+        ],
+        "times": [
+          "1998-09-20T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15,
+          80.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b985ae2c-cc5e-5117-85de-f114c68540b4",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "UNIS-AB310-1998",
+        "year": 1998,
+        "dates": [
+          "1998-09-10"
+        ],
+        "times": [
+          "1998-09-10T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.44,
+          79.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77fe83b2-4e9d-592b-a939-6f1013ba989a",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "UNIS-AB310-1998",
+        "year": 1998,
+        "dates": [
+          "1998-09-10"
+        ],
+        "times": [
+          "1998-09-10T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.66,
+          78.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33a75514-7666-58ec-b10d-ac30f91baed9",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "UNIS-AB310-1998",
+        "year": 1998,
+        "dates": [
+          "1998-09-10"
+        ],
+        "times": [
+          "1998-09-10T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93,
+          78.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2d07550-90de-5a87-a312-9d9b75340138",
+      "properties": {
+        "station": "Kvadehuken",
+        "expedition": "UNIS-AB310-1998",
+        "year": 1998,
+        "dates": [
+          "1998-09-10"
+        ],
+        "times": [
+          "1998-09-10T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.44,
+          78.91
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    0.15,
+    78.91,
+    29.26,
+    81.5
+  ]
+}

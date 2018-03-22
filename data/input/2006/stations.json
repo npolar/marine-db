@@ -1,0 +1,2093 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "44766b7d-3b0b-5658-89d5-439fe7637c28",
+      "properties": {
+        "station": "V6",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-26",
+          "2006-04-27",
+          "2006-06-01",
+          "2006-06-06"
+        ],
+        "times": [
+          "2006-04-26T19:35:00Z",
+          "2006-04-26T20:34:00Z",
+          "2006-04-26T20:50:00Z",
+          "2006-04-26T22:08:00Z",
+          "2006-04-26T22:56:00Z",
+          "2006-04-26T23:12:00Z",
+          "2006-04-26T23:23:00Z",
+          "2006-04-27T01:03:00Z",
+          "2006-04-27T01:30:00Z",
+          "2006-04-27T02:00:00Z",
+          "2006-04-27T02:23:00Z",
+          "2006-04-27T02:44:00Z",
+          "2006-06-01T07:00:00Z",
+          "2006-06-01T07:20:00Z",
+          "2006-06-01T07:25:00Z",
+          "2006-06-01T07:30:00Z",
+          "2006-06-01T07:45:00Z",
+          "2006-06-01T09:00:00Z",
+          "2006-06-01T10:15:00Z",
+          "2006-06-01T12:00:00Z",
+          "2006-06-01T13:00:00Z",
+          "2006-06-01T14:15:00Z",
+          "2006-06-01T17:45:00Z",
+          "2006-06-01T19:15:00Z",
+          "2006-06-01T19:40:00Z",
+          "2006-06-01T19:45:00Z",
+          "2006-06-06T20:45:00Z",
+          "2006-06-06T22:00:00Z"
+        ],
+        "visits": 28,
+        "period_days": 41,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "area_km2": 40.38403046302262
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.835,
+              78.909
+            ],
+            [
+              7.77,
+              78.9
+            ],
+            [
+              8.54,
+              78.9
+            ],
+            [
+              7.755,
+              78.946
+            ],
+            [
+              7.782,
+              78.928
+            ],
+            [
+              7.778,
+              78.907
+            ],
+            [
+              7.835,
+              78.909
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7acc9106-c2db-5f36-9d85-d3434268707d",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-25",
+          "2006-05-30",
+          "2006-06-01",
+          "2006-06-04"
+        ],
+        "times": [
+          "2006-04-25T06:43:00Z",
+          "2006-04-25T08:15:00Z",
+          "2006-04-25T08:25:00Z",
+          "2006-04-25T08:40:00Z",
+          "2006-04-25T09:10:00Z",
+          "2006-04-25T09:40:00Z",
+          "2006-04-25T10:05:00Z",
+          "2006-04-25T10:25:00Z",
+          "2006-04-25T11:10:00Z",
+          "2006-04-25T11:30:00Z",
+          "2006-04-25T12:00:00Z",
+          "2006-04-25T12:40:00Z",
+          "2006-04-25T13:20:00Z",
+          "2006-04-25T15:56:00Z",
+          "2006-04-25T16:25:00Z",
+          "2006-04-25T16:40:00Z",
+          "2006-04-25T18:43:00Z",
+          "2006-04-25T19:00:00Z",
+          "2006-04-25T19:20:00Z",
+          "2006-04-25T19:41:00Z",
+          "2006-05-30T10:00:00Z",
+          "2006-05-30T10:15:00Z",
+          "2006-05-30T10:30:00Z",
+          "2006-05-30T11:00:00Z",
+          "2006-05-30T11:40:00Z",
+          "2006-05-30T12:00:00Z",
+          "2006-05-30T12:20:00Z",
+          "2006-05-30T13:30:00Z",
+          "2006-05-30T15:00:00Z",
+          "2006-05-30T15:45:00Z",
+          "2006-05-30T17:30:00Z",
+          "2006-06-01T17:45:00Z",
+          "2006-06-04T16:45:00Z"
+        ],
+        "visits": 33,
+        "period_days": 40,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "area_km2": 8.183511707534198
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.962,
+              78.953
+            ],
+            [
+              11.94,
+              78.96
+            ],
+            [
+              11.485,
+              79.012
+            ],
+            [
+              11.481,
+              79.01
+            ],
+            [
+              11.718,
+              78.977
+            ],
+            [
+              11.956,
+              78.948
+            ],
+            [
+              11.952,
+              78.953
+            ],
+            [
+              11.969,
+              78.952
+            ],
+            [
+              11.962,
+              78.953
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "036043c3-16d1-5b63-b9a5-b2010b04dee6",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-25",
+          "2006-04-26",
+          "2006-05-31"
+        ],
+        "times": [
+          "2006-04-25T22:37:00Z",
+          "2006-04-25T23:14:00Z",
+          "2006-04-25T23:44:00Z",
+          "2006-04-26T00:06:00Z",
+          "2006-04-26T00:40:00Z",
+          "2006-04-26T00:48:00Z",
+          "2006-04-26T02:45:00Z",
+          "2006-04-26T03:38:00Z",
+          "2006-05-31T07:00:00Z",
+          "2006-05-31T07:15:00Z",
+          "2006-05-31T08:50:00Z",
+          "2006-05-31T09:15:00Z",
+          "2006-05-31T09:50:00Z",
+          "2006-05-31T11:26:00Z",
+          "2006-05-31T12:30:00Z",
+          "2006-05-31T13:00:00Z",
+          "2006-05-31T13:20:00Z",
+          "2006-05-31T13:40:00Z",
+          "2006-05-31T14:00:00Z",
+          "2006-05-31T14:30:00Z"
+        ],
+        "visits": 20,
+        "period_days": 35,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "area_km2": 0.010589179961863524
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.127,
+              79.054
+            ],
+            [
+              11.13,
+              79.04
+            ],
+            [
+              11.127,
+              79.053
+            ],
+            [
+              11.139,
+              79.046
+            ],
+            [
+              11.127,
+              79.054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5bcc57d-e3e0-590c-9af6-b1dd6e9b6aac",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-25",
+          "2006-05-31"
+        ],
+        "times": [
+          "2006-04-25T18:14:00Z",
+          "2006-04-25T20:51:00Z",
+          "2006-05-31T02:15:00Z",
+          "2006-05-31T02:50:00Z",
+          "2006-05-31T03:20:00Z"
+        ],
+        "visits": 5,
+        "period_days": 35,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "area_km2": 10.972427921883456
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.718,
+              79.006
+            ],
+            [
+              11.579,
+              79.038
+            ],
+            [
+              11.41,
+              79.01
+            ],
+            [
+              11.718,
+              79.006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ab93d10-936c-5bc2-86e9-27e87b6b4198",
+      "properties": {
+        "station": "V10",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-26",
+          "2006-06-01"
+        ],
+        "times": [
+          "2006-04-26T12:32:00Z",
+          "2006-04-26T13:12:00Z",
+          "2006-04-26T13:40:00Z",
+          "2006-04-26T14:00:00Z",
+          "2006-04-26T14:40:00Z",
+          "2006-04-26T15:00:00Z",
+          "2006-06-01T00:30:00Z",
+          "2006-06-01T00:50:00Z",
+          "2006-06-01T01:15:00Z"
+        ],
+        "visits": 9,
+        "period_days": 35,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "area_km2": 0.06421339065961612
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.532,
+              78.941
+            ],
+            [
+              8.55,
+              78.932
+            ],
+            [
+              8.54,
+              78.94
+            ],
+            [
+              8.532,
+              78.941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b16abb0b-7bfb-5346-8f11-b71706632367",
+      "properties": {
+        "station": "V12",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-26",
+          "2006-05-31"
+        ],
+        "times": [
+          "2006-04-26T08:10:00Z",
+          "2006-04-26T08:32:00Z",
+          "2006-04-26T08:45:00Z",
+          "2006-04-26T09:07:00Z",
+          "2006-04-26T09:22:00Z",
+          "2006-05-31T20:00:00Z",
+          "2006-05-31T20:30:00Z",
+          "2006-05-31T20:45:00Z"
+        ],
+        "visits": 8,
+        "period_days": 35,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 0.8958819913030459
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5,
+            78.98
+          ],
+          [
+            9.505,
+            78.988
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d37bad3f-39a7-535c-ae59-7213668dedf3",
+      "properties": {
+        "station": "D0",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-05-28"
+        ],
+        "times": [
+          "2006-05-28T17:15:00Z",
+          "2006-05-28T18:00:00Z",
+          "2006-05-28T20:15:00Z",
+          "2006-05-28T20:25:00Z",
+          "2006-05-28T20:35:00Z",
+          "2006-05-28T20:50:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7374,
+          78.6615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "634c3e3e-ca21-5ac8-88a3-7c1e6f7c9ae7",
+      "properties": {
+        "station": "D4b",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-05-29",
+          "2006-06-08"
+        ],
+        "times": [
+          "2006-05-29T03:00:00Z",
+          "2006-05-29T03:20:00Z",
+          "2006-05-29T03:40:00Z",
+          "2006-05-29T04:05:00Z",
+          "2006-05-29T04:15:00Z",
+          "2006-05-29T04:30:00Z",
+          "2006-05-29T04:50:00Z",
+          "2006-05-29T05:05:00Z",
+          "2006-05-29T05:30:00Z",
+          "2006-06-08T01:20:00Z"
+        ],
+        "visits": 10,
+        "period_days": 9,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3904,
+          78.1555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4c58e006-d92c-5c54-af02-48d06e9c64c8",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-25",
+          "2006-05-30"
+        ],
+        "times": [
+          "2006-04-25T02:09:00Z",
+          "2006-04-25T02:36:00Z",
+          "2006-04-25T06:09:00Z",
+          "2006-04-25T06:43:00Z",
+          "2006-04-25T07:28:00Z",
+          "2006-04-25T07:50:00Z",
+          "2006-05-30T06:15:00Z",
+          "2006-05-30T06:40:00Z",
+          "2006-05-30T06:55:00Z"
+        ],
+        "visits": 9,
+        "period_days": 35,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "area_km2": 3.006229879869822
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.424,
+              78.895
+            ],
+            [
+              12.439,
+              78.896
+            ],
+            [
+              11.956,
+              78.953
+            ],
+            [
+              11.97,
+              78.953
+            ],
+            [
+              11.962,
+              78.953
+            ],
+            [
+              11.969,
+              78.952
+            ],
+            [
+              11.969,
+              78.953
+            ],
+            [
+              12.43,
+              78.89
+            ],
+            [
+              12.424,
+              78.895
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "553ec690-3833-5af6-9102-82faee2b30d1",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-25",
+          "2006-05-30",
+          "2006-05-31"
+        ],
+        "times": [
+          "2006-04-25T15:20:00Z",
+          "2006-05-30T23:00:00Z",
+          "2006-05-31T00:00:00Z",
+          "2006-05-31T00:15:00Z"
+        ],
+        "visits": 4,
+        "period_days": 35,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 1.9092605790577841
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.66,
+            78.99
+          ],
+          [
+            11.729,
+            78.979
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06ed9da7-11d9-56b0-9a6d-8f59fe8821c1",
+      "properties": {
+        "station": "Chyp2",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-07"
+        ],
+        "times": [
+          "2006-06-07T04:25:00Z",
+          "2006-06-07T04:35:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7621,
+          78.4175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6865f5e-8167-58f2-ae88-ffcae46d0d92",
+      "properties": {
+        "station": "D7",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-05-29"
+        ],
+        "times": [
+          "2006-05-29T14:05:00Z",
+          "2006-05-29T14:40:00Z",
+          "2006-05-29T16:50:00Z",
+          "2006-05-29T16:55:00Z",
+          "2006-05-29T17:33:00Z",
+          "2006-05-29T17:55:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1822,
+          78.0615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e128e1e-17ec-57e8-9339-77b06385185c",
+      "properties": {
+        "station": "D2b",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-05-28",
+          "2006-05-29"
+        ],
+        "times": [
+          "2006-05-28T21:45:00Z",
+          "2006-05-28T21:55:00Z",
+          "2006-05-28T22:05:00Z",
+          "2006-05-28T22:45:00Z",
+          "2006-05-28T23:20:00Z",
+          "2006-05-29T00:00:00Z",
+          "2006-05-29T23:20:00Z"
+        ],
+        "visits": 7,
+        "period_days": 1,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.965,
+          78.4145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3c7fdc92-7464-5c2a-881c-024d2d739556",
+      "properties": {
+        "station": "D10",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-07"
+        ],
+        "times": [
+          "2006-06-07T14:30:00Z",
+          "2006-06-07T14:50:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0333,
+          78.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4282075-9670-5567-8083-6849de439a25",
+      "properties": {
+        "station": "D12",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-07"
+        ],
+        "times": [
+          "2006-06-07T08:35:00Z",
+          "2006-06-07T09:05:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9117,
+          78.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e7b82ad-4031-5d0b-8452-d14a35017cc9",
+      "properties": {
+        "station": "D8",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-07"
+        ],
+        "times": [
+          "2006-06-07T21:15:00Z",
+          "2006-06-07T21:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3261,
+          78.0617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5cafe7a5-a80c-5979-804c-739f3053890c",
+      "properties": {
+        "station": "D9",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-07"
+        ],
+        "times": [
+          "2006-06-07T17:20:00Z",
+          "2006-06-07T17:40:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1283,
+          78.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5457ef91-d076-5c11-bb69-8e8cd6270443",
+      "properties": {
+        "station": "Kb4",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-28"
+        ],
+        "times": [
+          "2006-04-28T01:29:00Z",
+          "2006-04-28T01:38:00Z",
+          "2006-04-28T01:55:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "area_km2": 0.01191521173137874
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.196,
+              78.911
+            ],
+            [
+              12.198,
+              78.915
+            ],
+            [
+              12.194,
+              78.912
+            ],
+            [
+              12.196,
+              78.911
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27963d4c-08f6-5939-b151-ba32a09f94ae",
+      "properties": {
+        "station": "p",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-04"
+        ],
+        "times": [
+          "2006-06-04T03:40:00Z",
+          "2006-06-04T04:00:00Z",
+          "2006-06-04T04:30:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0078,
+          78.7603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f1417de-38e5-5a14-9cd9-0c12c9710f0f",
+      "properties": {
+        "station": "Chyp1",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-07"
+        ],
+        "times": [
+          "2006-06-07T01:30:00Z",
+          "2006-06-07T01:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3068,
+          78.5861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ecf4b086-4cae-58bb-81b5-1f52cb4b4426",
+      "properties": {
+        "station": "D11",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-07"
+        ],
+        "times": [
+          "2006-06-07T11:50:00Z",
+          "2006-06-07T12:10:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.29,
+          78.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f07ee05-096e-5026-9ba1-4f38b1c42165",
+      "properties": {
+        "station": "Alke2",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T01:05:00Z",
+          "2006-06-05T01:20:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8718,
+          78.969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d719bce2-a54a-52d1-bb95-3f3f45ae3106",
+      "properties": {
+        "station": "Alke1",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T00:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9748,
+          78.9773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9aea626-06ec-5b3e-8519-52ef27d03eda",
+      "properties": {
+        "station": "Alke3",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T01:40:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7455,
+          78.9592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b9f4900c-87c2-53bf-aec5-617d204768e7",
+      "properties": {
+        "station": "Alke4",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T02:05:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6014,
+          78.9486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "772f9f75-4359-58a5-9abe-f380ad92663b",
+      "properties": {
+        "station": "Alke5",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T02:40:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3621,
+          78.9308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "220c3063-7b90-5543-9c59-0f893265ff24",
+      "properties": {
+        "station": "TR1",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-03"
+        ],
+        "times": [
+          "2006-06-03T06:55:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          79.0033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85942977-cf0d-5077-9709-e16aa710a2cf",
+      "properties": {
+        "station": "TR1 (80)",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-28"
+        ],
+        "times": [
+          "2006-04-28T07:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.782,
+          78.928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e3eb8b9-135f-59ba-866b-d4cd09d1b607",
+      "properties": {
+        "station": "TR2",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-03"
+        ],
+        "times": [
+          "2006-06-03T08:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7435,
+          78.9869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f33f1b57-2894-5572-8cd0-f8cc229b20f2",
+      "properties": {
+        "station": "TR2 (81)",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-28"
+        ],
+        "times": [
+          "2006-04-28T09:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.086,
+          78.946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5d117890-4ad7-515e-8c4a-24d1f69804f3",
+      "properties": {
+        "station": "TR3",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-03"
+        ],
+        "times": [
+          "2006-06-03T10:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7541,
+          78.9857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52143bf8-8413-59ed-8353-f3ee7c7e954b",
+      "properties": {
+        "station": "TR3 (82)",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-28"
+        ],
+        "times": [
+          "2006-04-28T13:48:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.897,
+          79.033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0fb972cf-a6eb-5b21-8e39-49765d30db69",
+      "properties": {
+        "station": "TR4",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T05:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2215,
+          78.9611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5b3ab0b6-48a1-5041-bd29-8ae8e13a23e3",
+      "properties": {
+        "station": "TR4 (83)",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-28"
+        ],
+        "times": [
+          "2006-04-28T21:37:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.293,
+          79.018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f49984bd-4f35-5331-abd3-64f3c9c1ea5b",
+      "properties": {
+        "station": "TR5",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T09:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.313,
+          79.018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "abed23bb-33f8-5080-9538-42c6716a0f64",
+      "properties": {
+        "station": "TR5 (84)",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-28"
+        ],
+        "times": [
+          "2006-04-28T23:22:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2043,
+          79.009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a71c41a-be10-5abf-bbc2-da0084329e87",
+      "properties": {
+        "station": "TR6",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T11:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7392,
+          78.9656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6602e23f-a414-57c9-9305-95b53867f7a1",
+      "properties": {
+        "station": "TR6 (85)",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-04-29"
+        ],
+        "times": [
+          "2006-04-29T08:03:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.618,
+          79.976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bfda378e-7ae8-5462-8094-f15d495bcb65",
+      "properties": {
+        "station": "TR7",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T12:50:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8951,
+          78.9563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae40769b-a7bf-554d-9924-4c9306445103",
+      "properties": {
+        "station": "TR8",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T19:40:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5206,
+          78.8689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43875b46-9fea-5b68-a2a5-3926a84e64a8",
+      "properties": {
+        "station": "TR9",
+        "expedition": "MariClim-2006",
+        "year": 2006,
+        "dates": [
+          "2006-06-05"
+        ],
+        "times": [
+          "2006-06-05T21:40:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4983,
+          78.8665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0436d05b-a238-51c9-ad43-e3bd01892b66",
+      "properties": {
+        "station": "V6",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-08-27"
+        ],
+        "times": [
+          "2006-08-27T09:27:00Z",
+          "2006-08-27T09:38:00Z",
+          "2006-08-27T09:50:00Z",
+          "2006-08-27T10:05:00Z",
+          "2006-08-27T10:50:00Z",
+          "2006-08-27T12:30:00Z",
+          "2006-08-27T13:30:00Z",
+          "2006-08-27T14:05:00Z",
+          "2006-08-27T15:20:00Z"
+        ],
+        "visits": 9,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 3.314569963499877
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.7133,
+            78.911
+          ],
+          [
+            7.7492,
+            78.94
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e301ea96-ffe1-594f-b394-6fff0c53718c",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-08-28"
+        ],
+        "times": [
+          "2006-08-28T00:32:00Z",
+          "2006-08-28T02:00:00Z",
+          "2006-08-28T02:25:00Z",
+          "2006-08-28T02:45:00Z",
+          "2006-08-28T02:55:00Z",
+          "2006-08-28T03:10:00Z",
+          "2006-08-28T03:20:00Z",
+          "2006-08-28T04:15:00Z",
+          "2006-08-28T05:10:00Z"
+        ],
+        "visits": 9,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9502,
+          78.9536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de36981a-d4a9-5b33-bd2c-f2930c81ef94",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-08-27"
+        ],
+        "times": [
+          "2006-08-27T23:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1205,
+          79.046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38380a92-f1e8-5cd3-b30c-29a267c90884",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-08-28",
+          "2006-08-29"
+        ],
+        "times": [
+          "2006-08-28T11:00:00Z",
+          "2006-08-29T01:10:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 0.9346383802440917
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3897,
+            79.0087
+          ],
+          [
+            11.4216,
+            79.0029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "91a2de4c-1405-59ee-98c4-576f89928955",
+      "properties": {
+        "station": "V10",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-08-27"
+        ],
+        "times": [
+          "2006-08-27T18:26:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5156,
+          78.923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d37a8fe-0a75-53fe-a276-40579e321564",
+      "properties": {
+        "station": "V12",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-08-27"
+        ],
+        "times": [
+          "2006-08-27T20:09:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5036,
+          78.973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3593e617-c23d-5624-a6c8-5e88e6c03ee9",
+      "properties": {
+        "station": "D0",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-09-09"
+        ],
+        "times": [
+          "2006-09-09T02:10:00Z",
+          "2006-09-09T02:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7176,
+          78.6606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22aef0f0-db01-5de2-bbd2-304106e14469",
+      "properties": {
+        "station": "D4b",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-09-08"
+        ],
+        "times": [
+          "2006-09-08T05:05:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.36,
+          78.1572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9352fd31-976e-5a36-878d-62998f3f36a5",
+      "properties": {
+        "station": "Chyp2",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-08-27",
+          "2006-09-07"
+        ],
+        "times": [
+          "2006-08-27T04:00:00Z",
+          "2006-09-07T07:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 11,
+        "vessel": "Jan Mayen",
+        "distance_km": 0.9974375674359893
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7247,
+            78.435
+          ],
+          [
+            8.765,
+            78.4389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d198268f-32d8-50c0-b1f2-59d8e8ada025",
+      "properties": {
+        "station": "D7",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-09-07"
+        ],
+        "times": [
+          "2006-09-07T17:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3121,
+          78.0603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8ac6a6c-87ad-57b2-8a1c-4de23248fa8b",
+      "properties": {
+        "station": "D2b",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-09-08"
+        ],
+        "times": [
+          "2006-09-08T19:55:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8049,
+          78.3919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b59b988-2e37-5614-8f6e-23d574e6e16d",
+      "properties": {
+        "station": "D10",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-09-07"
+        ],
+        "times": [
+          "2006-09-07T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0836,
+          78.2301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e180c0f-fd9e-54a6-9c60-fc801060a9d7",
+      "properties": {
+        "station": "D12",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-09-07"
+        ],
+        "times": [
+          "2006-09-07T09:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.895,
+          78.2459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "941e98ac-3983-5251-8b9d-3aa60ebecf90",
+      "properties": {
+        "station": "D8",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-09-07"
+        ],
+        "times": [
+          "2006-09-07T15:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1112,
+          78.0641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b5df217-ef63-5904-9d0c-5e79e2d72457",
+      "properties": {
+        "station": "D9",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-09-07"
+        ],
+        "times": [
+          "2006-09-07T13:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1112,
+          78.2323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc826145-ed69-564f-8fd7-2ecdaac9b9da",
+      "properties": {
+        "station": "Rjip",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-08-31"
+        ],
+        "times": [
+          "2006-08-31T13:25:00Z",
+          "2006-08-31T22:04:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1343,
+          80.3669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e291dca4-f26e-5f21-b809-f7b1459093b2",
+      "properties": {
+        "station": "V14",
+        "expedition": "06ABS",
+        "year": 2006,
+        "dates": [
+          "2006-08-27"
+        ],
+        "times": [
+          "2006-08-27T21:41:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4922,
+          79.018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "daaaae25-e11d-5d9d-84b5-7559d68aca67",
+      "properties": {
+        "station": "V6",
+        "expedition": "MariClim-2006-Oceania",
+        "year": 2006,
+        "dates": [
+          "2006-07-27"
+        ],
+        "times": [
+          "2006-07-27T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.77,
+          78.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "078c86e5-f398-508a-bb61-e3f12a98b7a8",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "MariClim-2006-Oceania",
+        "year": 2006,
+        "dates": [
+          "2006-07-28"
+        ],
+        "times": [
+          "2006-07-28T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.94,
+          78.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34bbb031-df31-5223-bc6b-9b6ccf00ca20",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "MariClim-2006-Oceania",
+        "year": 2006,
+        "dates": [
+          "2006-07-28"
+        ],
+        "times": [
+          "2006-07-28T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.13,
+          79.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89f1b6be-c246-5c56-b2ea-bd26b2ccc990",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "MariClim-2006-Oceania",
+        "year": 2006,
+        "dates": [
+          "2006-07-28"
+        ],
+        "times": [
+          "2006-07-28T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41,
+          79.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b4ff585-c17c-5826-b972-6897b1bc2820",
+      "properties": {
+        "station": "V10",
+        "expedition": "MariClim-2006-Oceania",
+        "year": 2006,
+        "dates": [
+          "2006-07-27"
+        ],
+        "times": [
+          "2006-07-27T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          78.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d0040e5-6bd7-52d4-a22f-fccffdbe962e",
+      "properties": {
+        "station": "V12",
+        "expedition": "MariClim-2006-Oceania",
+        "year": 2006,
+        "dates": [
+          "2006-07-27"
+        ],
+        "times": [
+          "2006-07-27T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania",
+        "distance_km": 0.0765184375033748
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5,
+            78.98
+          ],
+          [
+            9.5036,
+            78.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc3587ba-77a6-5354-a414-d5f858ced912",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "MariClim-2006-Oceania",
+        "year": 2006,
+        "dates": [
+          "2006-07-28"
+        ],
+        "times": [
+          "2006-07-28T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.43,
+          78.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "393fd5b8-0ca4-5ab6-8a49-3359c17ff88c",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "MariClim-2006-Oceania",
+        "year": 2006,
+        "dates": [
+          "2006-07-28"
+        ],
+        "times": [
+          "2006-07-28T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.66,
+          78.99
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    7.7133,
+    78.0603,
+    22.1343,
+    80.3669
+  ]
+}

@@ -1,0 +1,1340 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "5793afd5-8d78-502c-aab7-c62a9ea91515",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-18",
+          "2008-08-19"
+        ],
+        "times": [
+          "2008-08-18T18:16:00Z",
+          "2008-08-18T18:25:00Z",
+          "2008-08-18T18:57:00Z",
+          "2008-08-18T21:01:00Z",
+          "2008-08-19T06:00:00Z",
+          "2008-08-19T06:25:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.94,
+          78.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a301733-bd74-578c-ac94-0f2035096fad",
+      "properties": {
+        "station": "Lander stn.2 (MIZ station)",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-08",
+          "2008-08-09",
+          "2008-08-10"
+        ],
+        "times": [
+          "2008-08-08T22:06:00Z",
+          "2008-08-08T22:32:00Z",
+          "2008-08-09T09:09:00Z",
+          "2008-08-09T09:43:00Z",
+          "2008-08-09T11:04:00Z",
+          "2008-08-09T11:59:00Z",
+          "2008-08-10T11:32:00Z",
+          "2008-08-10T11:50:00Z",
+          "2008-08-10T21:54:00Z",
+          "2008-08-10T22:24:00Z"
+        ],
+        "visits": 10,
+        "period_days": 2,
+        "vessel": "RRS James Clarck Ross",
+        "area_km2": 4.776267621977498
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.263,
+              80.3472
+            ],
+            [
+              16.376,
+              80.4033
+            ],
+            [
+              16.376,
+              80.4013
+            ],
+            [
+              16.233,
+              80.3616
+            ],
+            [
+              16.179,
+              80.3508
+            ],
+            [
+              16.193,
+              80.3478
+            ],
+            [
+              16.232,
+              80.3445
+            ],
+            [
+              16.249,
+              80.3438
+            ],
+            [
+              16.263,
+              80.3472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b77ec9ac-001b-5516-9135-b47cda1ad796",
+      "properties": {
+        "station": "2008D33",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-03-24",
+          "2008-03-25",
+          "2008-04-01"
+        ],
+        "times": [
+          "2008-03-24T14:15:00Z",
+          "2008-03-25T13:05:00Z",
+          "2008-03-25T13:39:00Z",
+          "2008-04-01T13:37:00Z",
+          "2008-04-01T14:05:00Z"
+        ],
+        "visits": 5,
+        "period_days": 7,
+        "vessel": "CCGS Amundsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79,
+          71.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42b4257e-3050-508c-93d6-1832eb5352a1",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-20"
+        ],
+        "times": [
+          "2008-08-20T00:55:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.137,
+          79.038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "922c9a8e-0de2-5d77-bf2b-53c12028af6b",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-19"
+        ],
+        "times": [
+          "2008-08-19T22:43:00Z",
+          "2008-08-19T23:23:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.428,
+          79.0117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a46cebb2-f368-55ee-89c2-63084ef0b452",
+      "properties": {
+        "station": "V12",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-20"
+        ],
+        "times": [
+          "2008-08-20T04:14:00Z",
+          "2008-08-20T04:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.499,
+          78.9753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d40e2a6-888b-54c2-8b5e-9efd664d4316",
+      "properties": {
+        "station": "2008D29",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-03-16",
+          "2008-03-18"
+        ],
+        "times": [
+          "2008-03-16T00:51:00Z",
+          "2008-03-16T14:51:00Z",
+          "2008-03-16T14:55:00Z",
+          "2008-03-18T13:23:00Z",
+          "2008-03-18T13:40:00Z",
+          "2008-03-18T18:15:00Z"
+        ],
+        "visits": 6,
+        "period_days": 2,
+        "vessel": "CCGS Amundsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.48,
+          70.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7838757e-d88f-552a-bd6f-7845cdc8069e",
+      "properties": {
+        "station": "Shelfbrake stn.",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-12"
+        ],
+        "times": [
+          "2008-08-12T14:08:00Z",
+          "2008-08-12T14:52:00Z",
+          "2008-08-12T15:32:00Z",
+          "2008-08-12T16:36:00Z",
+          "2008-08-12T21:37:00Z",
+          "2008-08-12T22:34:00Z",
+          "2008-08-12T23:31:00Z"
+        ],
+        "visits": 7,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross",
+        "area_km2": 1.091693822749067
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.287,
+              80.491
+            ],
+            [
+              11.239,
+              80.4872
+            ],
+            [
+              11.247,
+              80.4935
+            ],
+            [
+              11.246,
+              80.4935
+            ],
+            [
+              11.244,
+              80.4977
+            ],
+            [
+              11.283,
+              80.4086
+            ],
+            [
+              11.262,
+              80.4943
+            ],
+            [
+              11.287,
+              80.491
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac25aa14-5078-57a7-9a1a-12b5d09bd856",
+      "properties": {
+        "station": "Rjipfjord mooring",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-14",
+          "2008-08-15"
+        ],
+        "times": [
+          "2008-08-14T20:04:00Z",
+          "2008-08-14T20:20:00Z",
+          "2008-08-14T20:48:00Z",
+          "2008-08-14T21:33:00Z",
+          "2008-08-15T09:30:00Z",
+          "2008-08-15T09:50:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross",
+        "area_km2": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.304,
+              80.285
+            ],
+            [
+              22.304,
+              80.2848
+            ],
+            [
+              22.304,
+              18.09
+            ],
+            [
+              22.304,
+              80.2847
+            ],
+            [
+              22.304,
+              80.285
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ebb26cbb-ae14-567f-adfe-a99e38d32b17",
+      "properties": {
+        "station": "2008D36",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-06",
+          "2008-04-08"
+        ],
+        "times": [
+          "2008-04-06T15:42:00Z",
+          "2008-04-06T19:37:00Z",
+          "2008-04-08T21:00:00Z"
+        ],
+        "visits": 3,
+        "period_days": 2,
+        "vessel": "CCGS Amundsen",
+        "area_km2": 10.757639103612345
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.13,
+              71.2
+            ],
+            [
+              124.19,
+              71.2
+            ],
+            [
+              124.55,
+              71.29
+            ],
+            [
+              124.13,
+              71.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d8287935-ccc4-5420-b7c8-ca3383cab8a8",
+      "properties": {
+        "station": "2008D35",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-02"
+        ],
+        "times": [
+          "2008-04-02T16:30:00Z",
+          "2008-04-02T17:15:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "CCGS Amundsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.94,
+          71.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5213ef8-4a16-58ba-a351-a37e3516e16c",
+      "properties": {
+        "station": "Shelf station 1",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-02"
+        ],
+        "times": [
+          "2008-08-02T14:57:00Z",
+          "2008-08-02T15:30:00Z",
+          "2008-08-02T22:55:00Z",
+          "2008-08-02T23:30:00Z"
+        ],
+        "visits": 4,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross",
+        "distance_km": 0.5301788176754603
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.825,
+            79.7247
+          ],
+          [
+            8.849,
+            79.7268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3632dcfa-2a8c-57f5-9e58-54ecf1cc75de",
+      "properties": {
+        "station": "Ice station",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-06",
+          "2008-08-07"
+        ],
+        "times": [
+          "2008-08-06T13:55:00Z",
+          "2008-08-06T14:18:00Z",
+          "2008-08-06T14:47:00Z",
+          "2008-08-06T22:53:00Z",
+          "2008-08-06T23:14:00Z",
+          "2008-08-07T06:30:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross",
+        "area_km2": 0.013170063542797544
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.198,
+              80.8047
+            ],
+            [
+              19.199,
+              80.8047
+            ],
+            [
+              19.199,
+              80.8048
+            ],
+            [
+              19.192,
+              80.8047
+            ],
+            [
+              18.92,
+              80.8026
+            ],
+            [
+              19.198,
+              80.8047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7aca599a-0b6f-57dc-b8fb-a166ea4a171e",
+      "properties": {
+        "station": "R1 (Rjipfjord inner bassin)",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-16"
+        ],
+        "times": [
+          "2008-08-16T14:26:00Z",
+          "2008-08-16T14:54:00Z",
+          "2008-08-16T15:09:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.153,
+          80.1237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "353d11c2-fa1f-5faf-89b4-036a6dc9cec0",
+      "properties": {
+        "station": "R2 (RIB)",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-16"
+        ],
+        "times": [
+          "2008-08-16T20:05:00Z",
+          "2008-08-16T20:37:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.168,
+          80.1699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8fdd24f-f712-5a28-a724-4ed1e28a39a2",
+      "properties": {
+        "station": "R4 (outer)",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-08-17"
+        ],
+        "times": [
+          "2008-08-17T05:55:00Z",
+          "2008-08-17T06:15:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "RRS James Clarck Ross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.121,
+          80.6023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d65f347-6640-559a-be0a-6184592aa155",
+      "properties": {
+        "station": "2008D41",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-16"
+        ],
+        "times": [
+          "2008-04-16T12:40:00Z",
+          "2008-04-16T12:53:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "CCGS Amundsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36,
+          70.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c24b569-d5b2-5750-ae54-cb879e728175",
+      "properties": {
+        "station": "2008D38",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-12"
+        ],
+        "times": [
+          "2008-04-12T21:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "CCGS Amundsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.61,
+          71.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5d3e0273-17ff-55e1-81e5-45c7c437173d",
+      "properties": {
+        "station": "STATION-MISSING",
+        "expedition": "Cleopatra-2008",
+        "year": 2008,
+        "dates": [
+          "2008-09-04"
+        ],
+        "times": [
+          "2008-09-04T13:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "CONVEYANCE-MISSING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4,
+          44.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d5bdc54-f6b1-56bd-958b-a43396adf642",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-18",
+          "2008-07-18"
+        ],
+        "times": [
+          "2008-04-18T15:00:00Z",
+          "2008-07-18T21:26:00Z",
+          "2008-07-18T21:59:00Z",
+          "2008-07-18T22:15:00Z",
+          "2008-07-18T22:27:00Z",
+          "2008-07-18T22:36:00Z",
+          "2008-07-18T22:43:00Z",
+          "2008-07-18T23:07:00Z"
+        ],
+        "visits": 8,
+        "period_days": 91,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 0.30440068005898
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.956,
+            78.954
+          ],
+          [
+            11.9693,
+            78.953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96a2f859-ee58-530d-9164-e2a2adc678c3",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-19",
+          "2008-07-18"
+        ],
+        "times": [
+          "2008-04-19T08:30:00Z",
+          "2008-07-18T12:20:00Z",
+          "2008-07-18T12:55:00Z",
+          "2008-07-18T13:19:00Z",
+          "2008-07-18T13:36:00Z",
+          "2008-07-18T13:51:00Z",
+          "2008-07-18T14:05:00Z",
+          "2008-07-18T14:32:00Z"
+        ],
+        "visits": 8,
+        "period_days": 90,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 0.4286810658689456
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1333,
+            79.05
+          ],
+          [
+            11.139,
+            79.0463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9148a8b1-88b6-57c3-9826-ca5bae718538",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-19",
+          "2008-07-18"
+        ],
+        "times": [
+          "2008-04-19T07:00:00Z",
+          "2008-07-18T15:30:00Z",
+          "2008-07-18T16:01:00Z",
+          "2008-07-18T16:37:00Z",
+          "2008-07-18T16:51:00Z",
+          "2008-07-18T16:59:00Z",
+          "2008-07-18T17:07:00Z",
+          "2008-07-18T17:40:00Z"
+        ],
+        "visits": 8,
+        "period_days": 90,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 0.621799689662238
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.428,
+            79.0112
+          ],
+          [
+            11.4333,
+            79.0167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4fa59d27-8e35-5ec5-b4d9-16053aade1f1",
+      "properties": {
+        "station": "V12",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-22",
+          "2008-07-16",
+          "2008-07-17"
+        ],
+        "times": [
+          "2008-04-22T07:30:00Z",
+          "2008-07-16T20:40:00Z",
+          "2008-07-17T00:14:00Z",
+          "2008-07-17T00:34:00Z",
+          "2008-07-17T00:50:00Z",
+          "2008-07-17T01:05:00Z"
+        ],
+        "visits": 6,
+        "period_days": 85,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 0.6200290171994285
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.496,
+            78.9798
+          ],
+          [
+            9.5008,
+            78.9743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c9d9aa6-3d57-53f8-bc9c-a0679c302741",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-18",
+          "2008-07-18"
+        ],
+        "times": [
+          "2008-04-18T16:50:00Z",
+          "2008-07-18T18:30:00Z",
+          "2008-07-18T19:17:00Z",
+          "2008-07-18T19:35:00Z",
+          "2008-07-18T19:51:00Z",
+          "2008-07-18T19:59:00Z",
+          "2008-07-18T20:05:00Z",
+          "2008-07-18T20:32:00Z"
+        ],
+        "visits": 8,
+        "period_days": 91,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 0.1384468237178476
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.732,
+            78.9781
+          ],
+          [
+            11.7365,
+            78.9772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "396fe316-01f4-59ee-8ea1-6068bd676b2f",
+      "properties": {
+        "station": "V10",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-22",
+          "2008-07-18"
+        ],
+        "times": [
+          "2008-04-22T04:00:00Z",
+          "2008-07-18T00:40:00Z",
+          "2008-07-18T01:37:00Z",
+          "2008-07-18T02:04:00Z",
+          "2008-07-18T02:25:00Z",
+          "2008-07-18T02:40:00Z",
+          "2008-07-18T02:54:00Z",
+          "2008-07-18T03:25:00Z"
+        ],
+        "visits": 8,
+        "period_days": 86,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "area_km2": 0.05553178427180425
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.547,
+              78.9326
+            ],
+            [
+              8.55,
+              78.9333
+            ],
+            [
+              8.4833,
+              78.9333
+            ],
+            [
+              8.547,
+              78.9326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "445a906c-025d-5fa4-bab2-d3d9f3038a90",
+      "properties": {
+        "station": "V6",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-21",
+          "2008-07-17"
+        ],
+        "times": [
+          "2008-04-21T22:30:00Z",
+          "2008-07-17T16:00:00Z",
+          "2008-07-17T17:10:00Z",
+          "2008-07-17T18:07:00Z",
+          "2008-07-17T18:49:00Z",
+          "2008-07-17T19:10:00Z",
+          "2008-07-17T19:20:00Z",
+          "2008-07-17T20:38:00Z"
+        ],
+        "visits": 8,
+        "period_days": 86,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 0.25467404479038325
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.7652,
+            78.9045
+          ],
+          [
+            7.771,
+            78.9065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e03984d7-d813-5b58-8b9f-4dbeb8e0f2e4",
+      "properties": {
+        "station": "Kb4",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-18",
+          "2008-07-19"
+        ],
+        "times": [
+          "2008-04-18T13:00:00Z",
+          "2008-07-19T00:01:00Z",
+          "2008-07-19T00:13:00Z",
+          "2008-07-19T00:20:00Z",
+          "2008-07-19T00:25:00Z",
+          "2008-07-19T00:39:00Z"
+        ],
+        "visits": 6,
+        "period_days": 91,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 0.6946943329222258
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.196,
+            78.9105
+          ],
+          [
+            12.2,
+            78.9167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dfe346de-6dae-5e9c-aa94-fb2f55f0cb57",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-18",
+          "2008-07-19",
+          "2008-07-21"
+        ],
+        "times": [
+          "2008-04-18T11:00:00Z",
+          "2008-07-19T01:40:00Z",
+          "2008-07-19T01:55:00Z",
+          "2008-07-19T02:00:00Z",
+          "2008-07-19T02:08:00Z",
+          "2008-07-21T18:05:00Z"
+        ],
+        "visits": 6,
+        "period_days": 94,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 1.5573889330110797
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4167,
+            78.8833
+          ],
+          [
+            12.441,
+            78.8965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9a2e30e8-3ee0-5879-8ed2-0db95c57ab0b",
+      "properties": {
+        "station": "Svalbard north ice edge",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-20"
+        ],
+        "times": [
+          "2008-04-20T11:00:00Z",
+          "2008-04-20T22:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.015,
+          79.7648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5db70c13-357a-5578-a60d-9e4b32c2f9cd",
+      "properties": {
+        "station": "Kb3 repeated",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-22"
+        ],
+        "times": [
+          "2008-04-22T12:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.956,
+          78.954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6daae273-e61d-5036-a573-1df236068ad7",
+      "properties": {
+        "station": "D2",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-16"
+        ],
+        "times": [
+          "2008-04-16T23:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.815,
+          78.3846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ff0903d-0e6a-57aa-b8a3-30a89bff335d",
+      "properties": {
+        "station": "D2-&gt;D1",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-16"
+        ],
+        "times": [
+          "2008-04-16T19:25:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.459,
+          78.5319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "159c59f1-b4fa-55e5-9623-21e3b041f2b1",
+      "properties": {
+        "station": "D4B",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-17"
+        ],
+        "times": [
+          "2008-04-17T06:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.426,
+          78.1616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "141b8cb3-bb56-52e4-9156-a9b6cf3828da",
+      "properties": {
+        "station": "D7",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-04-23"
+        ],
+        "times": [
+          "2008-04-23T00:50:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.182,
+          78.0615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ceab529b-7de8-53cc-aef6-51f1bbcfde5f",
+      "properties": {
+        "station": "V12(new)",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-07-18"
+        ],
+        "times": [
+          "2008-07-18T08:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5,
+          78.975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b3a56bc-2ac4-576d-869f-db793a70c36f",
+      "properties": {
+        "station": "WL6",
+        "expedition": "MariClim-2008",
+        "year": 2008,
+        "dates": [
+          "2008-07-23"
+        ],
+        "times": [
+          "2008-07-23T09:02:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9095,
+          79.6083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be1d3074-821b-5c9d-a7ff-7889ec83e5c7",
+      "properties": {
+        "station": "420",
+        "expedition": "2008-08-EXPEDITION-MISSING",
+        "year": 2008,
+        "dates": [
+          "2008-08-21"
+        ],
+        "times": [
+          "2008-08-21T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "CONVEYANCE-MISSING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5,
+          72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60c001b7-8130-5e28-a15a-e56d5e15597f",
+      "properties": {
+        "station": "443",
+        "expedition": "2008-08-EXPEDITION-MISSING",
+        "year": 2008,
+        "dates": [
+          "2008-08-23"
+        ],
+        "times": [
+          "2008-08-23T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "CONVEYANCE-MISSING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32,
+          71
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    -124.61,
+    18.09,
+    124.55,
+    80.8048
+  ]
+}

@@ -1,0 +1,1674 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "91177288-91bc-5266-acb3-1f4e03369266",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14",
+          "2002-04-15",
+          "2002-04-18"
+        ],
+        "times": [
+          "2002-04-14T12:34:00Z",
+          "2002-04-14T13:20:00Z",
+          "2002-04-15T00:00:00Z",
+          "2002-04-15T19:27:00Z",
+          "2002-04-15T20:08:00Z",
+          "2002-04-18T06:33:00Z"
+        ],
+        "visits": 6,
+        "period_days": 3,
+        "vessel": "Lance",
+        "area_km2": 0.014835337020962782
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.9425,
+              78.126667
+            ],
+            [
+              11.94,
+              78.958333
+            ],
+            [
+              11.95,
+              78.958333
+            ],
+            [
+              11.94,
+              78.96
+            ],
+            [
+              11.9425,
+              78.126667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "01104a7a-ec68-58eb-a182-2c7961b260e3",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-16"
+        ],
+        "times": [
+          "2002-04-16T00:00:00Z",
+          "2002-04-16T10:33:00Z",
+          "2002-04-16T10:48:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 0.2135212181587765
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.43,
+            79.01
+          ],
+          [
+            11.435,
+            79.011667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c5b8825e-6296-539a-9f21-1c8250b034e3",
+      "properties": {
+        "station": "V15",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-16",
+          "2002-04-17"
+        ],
+        "times": [
+          "2002-04-16T20:48:00Z",
+          "2002-04-17T00:00:00Z",
+          "2002-04-17T05:43:00Z",
+          "2002-04-17T13:21:00Z"
+        ],
+        "visits": 4,
+        "period_days": 0,
+        "vessel": "Lance",
+        "area_km2": 79.42028898693667
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.9,
+              79.025
+            ],
+            [
+              7.768333,
+              78.906667
+            ],
+            [
+              7.766667,
+              78.906667
+            ],
+            [
+              11.77,
+              79.01
+            ],
+            [
+              10.9,
+              78.93
+            ],
+            [
+              10.9,
+              79.025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22f074f6-d0b4-5a97-8fa4-f07d8c636fc0",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15",
+          "2002-04-18"
+        ],
+        "times": [
+          "2002-04-15T00:00:00Z",
+          "2002-04-18T09:06:00Z"
+        ],
+        "visits": 2,
+        "period_days": 3,
+        "vessel": "Lance",
+        "area_km2": 0.4146252874498698
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.75,
+              78.98
+            ],
+            [
+              11.68,
+              78.98
+            ],
+            [
+              11.726667,
+              78.975
+            ],
+            [
+              11.75,
+              78.98
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e2446ef-c70a-56bc-9721-54fb98acbd68",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-10",
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-10T13:16:00Z",
+          "2002-04-15T00:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 4,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.462,
+          78.8925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f78c1538-2f81-5628-9876-1aca3985172d",
+      "properties": {
+        "station": "V10",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-17"
+        ],
+        "times": [
+          "2002-04-17T00:00:00Z",
+          "2002-04-17T01:59:00Z",
+          "2002-04-17T15:02:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance",
+        "area_km2": 0.15858977479870454
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.55,
+              78.93
+            ],
+            [
+              8.566667,
+              78.933333
+            ],
+            [
+              8.535,
+              78.935
+            ],
+            [
+              8.55,
+              78.93
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7e0c0076-c76d-5e0a-b21c-a0b417e40ba0",
+      "properties": {
+        "station": "V52",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14",
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-14T00:08:00Z",
+          "2002-04-15T02:57:00Z",
+          "2002-04-15T09:00:00Z"
+        ],
+        "visits": 3,
+        "period_days": 1,
+        "vessel": "Lance",
+        "area_km2": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.388333,
+              79.041667
+            ],
+            [
+              11.391667,
+              79.041667
+            ],
+            [
+              11.39,
+              79.041667
+            ],
+            [
+              11.388333,
+              79.041667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "099b2e32-6619-5783-afb2-b81afe0317a9",
+      "properties": {
+        "station": "52old",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14",
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-14T23:50:00Z",
+          "2002-04-15T09:29:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 0.1409246301685167
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.423333,
+            79.041667
+          ],
+          [
+            11.43,
+            79.041667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd973a0b-e4a1-5e5a-9ee9-00f3083f5df9",
+      "properties": {
+        "station": "RIGG",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-16",
+          "2002-04-18"
+        ],
+        "times": [
+          "2002-04-16T18:40:00Z",
+          "2002-04-18T16:37:00Z"
+        ],
+        "visits": 2,
+        "period_days": 1,
+        "vessel": "Lance",
+        "distance_km": 0.3773434825520759
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.286667,
+            79.053333
+          ],
+          [
+            11.29,
+            79.056667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5231a32c-4136-5351-95d9-222e65488b0e",
+      "properties": {
+        "station": "V50",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14",
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-14T04:34:00Z",
+          "2002-04-15T00:47:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 0.28036376294921794
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.42,
+            79.095
+          ],
+          [
+            11.43,
+            79.096667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee9abdce-23da-582b-8482-b5305da03e8c",
+      "properties": {
+        "station": "Kb6",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-10"
+        ],
+        "times": [
+          "2002-04-10T11:07:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.362667,
+          78.933833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "02287a9c-9d30-5764-80a5-f4d98c0589b4",
+      "properties": {
+        "station": "Kb7",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-10"
+        ],
+        "times": [
+          "2002-04-10T11:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.351,
+          78.934833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3cf5e52a-9ebe-576b-94e2-d33d66bd59d6",
+      "properties": {
+        "station": "V11",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-17"
+        ],
+        "times": [
+          "2002-04-17T01:01:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.946667,
+          78.956667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c4e85e9-bec5-53c2-a5b8-efe91cd06a2b",
+      "properties": {
+        "station": "V12",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-16"
+        ],
+        "times": [
+          "2002-04-16T23:56:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.511667,
+          78.978333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4f816de0-59d8-5cd1-a2b2-b3f3f1fa5b8e",
+      "properties": {
+        "station": "V13",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-16"
+        ],
+        "times": [
+          "2002-04-16T22:43:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.006667,
+          79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "356a6b39-18e7-551c-aafe-152e097607bf",
+      "properties": {
+        "station": "V14",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-16"
+        ],
+        "times": [
+          "2002-04-16T21:38:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.478333,
+          79.025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5137b4bc-6d81-5465-86c3-6b6f74423fcc",
+      "properties": {
+        "station": "V16",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-16"
+        ],
+        "times": [
+          "2002-04-16T19:58:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.299333,
+          79.033333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eca411ac-85c6-5716-afaf-53ccf5ff69b9",
+      "properties": {
+        "station": "V17",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T04:47:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.493333,
+          78.986667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e1a555e2-fa37-581b-a7c0-542583f7ab28",
+      "properties": {
+        "station": "V18",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T05:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.558333,
+          79.001667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "55da1800-5dfe-56cd-a7d4-b81c1fdcc855",
+      "properties": {
+        "station": "V19",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T05:43:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625,
+          79.023333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f8f87721-428b-52a2-b895-283815227a7f",
+      "properties": {
+        "station": "V20",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T06:13:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.673333,
+          79.043333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53c0d10f-c4f9-5e70-886e-177c6a5bb278",
+      "properties": {
+        "station": "V22",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T06:56:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.906667,
+          79.005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1d14105e-16ac-5987-8ce5-2db7ecbe4336",
+      "properties": {
+        "station": "V23",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T07:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.851667,
+          78.985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ccdee25-e886-582b-82d3-6bd8e6a4e9e7",
+      "properties": {
+        "station": "V24",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T07:44:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.813333,
+          78.963333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5b74b8c-5336-5956-beae-dea14603de74",
+      "properties": {
+        "station": "V25",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T13:26:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.038333,
+          78.955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31759b83-8193-5af8-bbc4-9afdf04c04c8",
+      "properties": {
+        "station": "V26",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T13:44:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9975,
+          78.945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9deb08f0-1353-5d03-8062-722ef6bf4204",
+      "properties": {
+        "station": "V42",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14"
+        ],
+        "times": [
+          "2002-04-14T08:48:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.67,
+          79.158333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d18600a4-a30c-5604-912e-c48f728d551b",
+      "properties": {
+        "station": "V43",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14"
+        ],
+        "times": [
+          "2002-04-14T08:20:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.73,
+          79.163333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf80ed0c-45ff-532a-92b0-06473f370077",
+      "properties": {
+        "station": "V44",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14"
+        ],
+        "times": [
+          "2002-04-14T07:52:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.79,
+          79.146667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2684223e-8df0-5005-8b8f-3448f8225ad5",
+      "properties": {
+        "station": "V45",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14"
+        ],
+        "times": [
+          "2002-04-14T07:19:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.741667,
+          79.111667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44860189-193d-52ce-906b-b3552e0cc25f",
+      "properties": {
+        "station": "V46",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14"
+        ],
+        "times": [
+          "2002-04-14T06:48:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.666667,
+          79.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "458cf766-5e2b-5c76-bc56-74e70625fbd2",
+      "properties": {
+        "station": "V47",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14"
+        ],
+        "times": [
+          "2002-04-14T06:21:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.573333,
+          79.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f5881f95-f3f2-5e84-83d3-71017004e16a",
+      "properties": {
+        "station": "V48",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14"
+        ],
+        "times": [
+          "2002-04-14T05:38:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.653333,
+          79.083333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e7c2fe5a-0c70-5946-8dc8-95bd2fa20b90",
+      "properties": {
+        "station": "V49",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-14"
+        ],
+        "times": [
+          "2002-04-14T05:08:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.558333,
+          79.091667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d55bca7-ac94-5fbe-968c-667685ebd267",
+      "properties": {
+        "station": "V51",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T02:12:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.387333,
+          79.071667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5ff07670-97c5-5f27-8704-e153995fd85f",
+      "properties": {
+        "station": "V53",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T03:39:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.385,
+          79.013333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2c56f7d-83ff-5585-b328-ea1692f4ac46",
+      "properties": {
+        "station": "V54",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-15"
+        ],
+        "times": [
+          "2002-04-15T04:18:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.396667,
+          78.983333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ac96277-0829-53d5-9614-80d4c965fc9d",
+      "properties": {
+        "station": "V7",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-17"
+        ],
+        "times": [
+          "2002-04-17T04:27:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.196667,
+          78.911667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9b1bbd91-dfc6-56b5-8544-bef0e4f49bd3",
+      "properties": {
+        "station": "V8",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-17"
+        ],
+        "times": [
+          "2002-04-17T03:34:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.371667,
+          78.926667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "00c6ac11-1ca0-5145-8b85-54bf3d7327e0",
+      "properties": {
+        "station": "V9",
+        "expedition": "OAERRE-2002",
+        "year": 2002,
+        "dates": [
+          "2002-04-17"
+        ],
+        "times": [
+          "2002-04-17T02:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.488333,
+          78.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20ffbe69-4037-55f3-9e6a-b99e2ea1d9f9",
+      "properties": {
+        "station": "1149",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-14"
+        ],
+        "times": [
+          "2002-09-14T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.306,
+          81.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48f7a56a-7cc7-5681-9829-f4fb7242faae",
+      "properties": {
+        "station": "1156",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-14"
+        ],
+        "times": [
+          "2002-09-14T22:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.241667,
+          81.2205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a3ed578-d261-5a5a-998d-b9fda2c2b441",
+      "properties": {
+        "station": "1168",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-16"
+        ],
+        "times": [
+          "2002-09-16T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119167,
+          79.595833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ede955bd-0a52-53ba-8852-1a8e119dc797",
+      "properties": {
+        "station": "1176",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-17"
+        ],
+        "times": [
+          "2002-09-17T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1525,
+          79.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c426b3cf-e1cc-5514-a942-62f048f8e30c",
+      "properties": {
+        "station": "1190",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-18"
+        ],
+        "times": [
+          "2002-09-18T03:24:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.258333,
+          80.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c855481b-f2fc-5a6e-b6e2-52292f586f55",
+      "properties": {
+        "station": "1136",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-12"
+        ],
+        "times": [
+          "2002-09-12T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.51,
+          78.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6e4528d-5484-5304-aae4-e045705feebf",
+      "properties": {
+        "station": "1162",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-15"
+        ],
+        "times": [
+          "2002-09-15T16:13:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.261667,
+          81.025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a614443-b491-5b0c-b892-4547e2058483",
+      "properties": {
+        "station": "1198",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-18"
+        ],
+        "times": [
+          "2002-09-18T15:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.46,
+          81.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9eb2fff8-f06d-5268-ba1b-9844c5c174b1",
+      "properties": {
+        "station": "1205",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-19"
+        ],
+        "times": [
+          "2002-09-19T15:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.528333,
+          81.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d13ad76e-a729-582e-8c7c-fb9b51a5a929",
+      "properties": {
+        "station": "1213",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-20"
+        ],
+        "times": [
+          "2002-09-20T12:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.525667,
+          80.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b0e0e372-3d4d-5da3-8b55-cd77e6d40313",
+      "properties": {
+        "station": "1127",
+        "expedition": "UNIS-AB310-2002",
+        "year": 2002,
+        "dates": [
+          "2002-09-11"
+        ],
+        "times": [
+          "2002-09-11T13:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.735,
+          81.210833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc857146-17e2-50bd-a5fa-0c997df5f080",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "Kongsfjorden-2002",
+        "year": 2002,
+        "dates": [
+          "2002-07-30"
+        ],
+        "times": [
+          "2002-07-30T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.943833,
+          78.959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef4d2bfc-8642-5a82-a375-9f3b22f8b670",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "Kongsfjorden-2002",
+        "year": 2002,
+        "dates": [
+          "2002-07-30"
+        ],
+        "times": [
+          "2002-07-30T21:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.427383,
+          79.013483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "abc67329-79bc-5ff8-86b3-be2354dcc48e",
+      "properties": {
+        "station": "V15",
+        "expedition": "Kongsfjorden-2002",
+        "year": 2002,
+        "dates": [
+          "2002-07-29"
+        ],
+        "times": [
+          "2002-07-29T07:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766667,
+          78.906667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fbaa336a-da62-5934-9ec7-6957b675f9e7",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "Kongsfjorden-2002",
+        "year": 2002,
+        "dates": [
+          "2002-07-30"
+        ],
+        "times": [
+          "2002-07-30T13:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681667,
+          78.983333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b897cca4-2752-5be3-9880-106818fab7de",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "Kongsfjorden-2002",
+        "year": 2002,
+        "dates": [
+          "2002-07-30"
+        ],
+        "times": [
+          "2002-07-30T05:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.430367,
+          78.886117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c16d7ec-d5ea-5c18-8919-64bae450fb43",
+      "properties": {
+        "station": "V10",
+        "expedition": "Kongsfjorden-2002",
+        "year": 2002,
+        "dates": [
+          "2002-07-29"
+        ],
+        "times": [
+          "2002-07-29T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.551,
+          78.932667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20e63955-a4f8-5152-92a2-9d3e458dd50d",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "Kongsfjorden-2002",
+        "year": 2002,
+        "dates": [
+          "2002-07-29"
+        ],
+        "times": [
+          "2002-07-29T14:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1326,
+          79.042833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fdf04021-63e3-5fcd-8c01-0ac247e4dfa7",
+      "properties": {
+        "station": "KF",
+        "expedition": "UNIS-2002-09",
+        "year": 2002,
+        "dates": [
+          "2002-09-22",
+          "2002-09-23"
+        ],
+        "times": [
+          "2002-09-22T06:00:00Z",
+          "2002-09-22T11:00:00Z",
+          "2002-09-22T14:00:00Z",
+          "2002-09-22T18:00:00Z",
+          "2002-09-22T23:00:00Z",
+          "2002-09-23T02:00:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01,
+          78.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea71a394-00d4-5594-949a-4f44b7c8eca1",
+      "properties": {
+        "station": "BF1",
+        "expedition": "Billefjorden-2002",
+        "year": 2002,
+        "dates": [
+          "2002-03-21",
+          "2002-04-04",
+          "2002-04-25"
+        ],
+        "times": [
+          "2002-03-21T00:00:00Z",
+          "2002-04-04T00:00:00Z",
+          "2002-04-25T00:00:00Z"
+        ],
+        "visits": 3,
+        "period_days": 35,
+        "vessel": "Snowmobile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43,
+          78.39
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    1.241667,
+    78.126667,
+    19.1525,
+    81.66
+  ]
+}

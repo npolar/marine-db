@@ -1,0 +1,238 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "c0accd3f-18cd-5ba2-b2a0-0479967f1c22",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "BIODAFF-1997",
+        "year": 1997,
+        "dates": [
+          "1997-07-23",
+          "1997-07-24"
+        ],
+        "times": [
+          "1997-07-23T03:55:00Z",
+          "1997-07-24T21:10:00Z"
+        ],
+        "visits": 2,
+        "period_days": 1,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35,
+          79.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef815e44-0f94-5c5d-a30c-95bce6d9f08f",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "BIODAFF-1997",
+        "year": 1997,
+        "dates": [
+          "1997-07-23"
+        ],
+        "times": [
+          "1997-07-23T07:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.38,
+          79.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22fba274-bf6f-5e4d-9a13-75596b5299b2",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "BIODAFF-1997",
+        "year": 1997,
+        "dates": [
+          "1997-07-12"
+        ],
+        "times": [
+          "1997-07-12T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74,
+          78.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9ec67c0-ac3e-5bce-86d5-c7e2f2b590d7",
+      "properties": {
+        "station": "Kb6",
+        "expedition": "BIODAFF-1997",
+        "year": 1997,
+        "dates": [
+          "1997-07-22"
+        ],
+        "times": [
+          "1997-07-22T00:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.42,
+          78.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bcb7702d-def8-50e5-adbd-e758f63bdd85",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "BIODAFF-1997",
+        "year": 1997,
+        "dates": [
+          "1997-07-22"
+        ],
+        "times": [
+          "1997-07-22T06:40:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95,
+          78.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "773f36b3-4d2b-55ad-b58d-d2eb9fa24257",
+      "properties": {
+        "station": "Kb4",
+        "expedition": "BIODAFF-1997",
+        "year": 1997,
+        "dates": [
+          "1997-07-22"
+        ],
+        "times": [
+          "1997-07-22T06:40:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27,
+          78.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bda5a9ac-f185-5984-a9ba-d1142648c9a8",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "BIODAFF-1997",
+        "year": 1997,
+        "dates": [
+          "1997-07-22"
+        ],
+        "times": [
+          "1997-07-22T02:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47,
+          78.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef6c2b96-15d2-54a5-a352-e57ef4ec3ed4",
+      "properties": {
+        "station": "Kb7",
+        "expedition": "BIODAFF-1997",
+        "year": 1997,
+        "dates": [
+          "1997-07-21"
+        ],
+        "times": [
+          "1997-07-21T09:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39,
+          78.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ecfa4cd6-fc2c-5d2e-8c90-3434312edf7b",
+      "properties": {
+        "station": "Kongsfjorden",
+        "expedition": "BIODAFF-1997",
+        "year": 1997,
+        "dates": [
+          "1997-07-24"
+        ],
+        "times": [
+          "1997-07-24T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.38,
+          79
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    11.35,
+    78.9,
+    12.47,
+    79.04
+  ]
+}

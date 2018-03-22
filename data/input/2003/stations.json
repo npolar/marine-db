@@ -1,0 +1,2372 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "4dcefd3b-8f3c-571a-a5d1-4941c0b73b82",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-11",
+          "2003-09-04"
+        ],
+        "times": [
+          "2003-08-11T18:55:00Z",
+          "2003-09-04T16:15:00Z"
+        ],
+        "visits": 2,
+        "period_days": 23,
+        "vessel": "Lance",
+        "distance_km": 1.6978973383559488
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.4316,
+            79.015
+          ],
+          [
+            11.4466,
+            79.03
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7e5c34e8-06ea-554d-b5d9-422cb9315f09",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-04"
+        ],
+        "times": [
+          "2003-09-04T18:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7316,
+          78.976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18f11e43-a3cd-5c41-9ee6-19e5cbae5c9d",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-11",
+          "2003-09-04"
+        ],
+        "times": [
+          "2003-08-11T01:45:00Z",
+          "2003-09-04T19:50:00Z"
+        ],
+        "visits": 2,
+        "period_days": 24,
+        "vessel": "Lance",
+        "distance_km": 0.44869150493424637
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.93,
+            78.96
+          ],
+          [
+            11.9483,
+            78.958
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10e603bd-f8f5-5c43-9a33-4bc36eea20cf",
+      "properties": {
+        "station": "ICE 3",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-31",
+          "2003-09-01"
+        ],
+        "times": [
+          "2003-08-31T19:55:00Z",
+          "2003-09-01T00:30:00Z",
+          "2003-09-01T11:45:00Z",
+          "2003-09-01T15:10:00Z"
+        ],
+        "visits": 4,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 4.920963995156505
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8466,
+            80.8716
+          ],
+          [
+            13.03,
+            80.8383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5d81f330-28ba-521e-a224-13972deb1add",
+      "properties": {
+        "station": "EE4",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-19",
+          "2003-08-20"
+        ],
+        "times": [
+          "2003-08-19T07:37:00Z",
+          "2003-08-19T08:45:00Z",
+          "2003-08-19T16:00:00Z",
+          "2003-08-19T17:00:00Z",
+          "2003-08-20T01:20:00Z",
+          "2003-08-20T02:30:00Z",
+          "2003-08-20T06:35:00Z",
+          "2003-08-20T07:18:00Z"
+        ],
+        "visits": 8,
+        "period_days": 0,
+        "vessel": "Lance",
+        "area_km2": 0.06843693546119306
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.9633,
+              79.393
+            ],
+            [
+              28.9833,
+              79.392
+            ],
+            [
+              28.995,
+              79.391
+            ],
+            [
+              29.0133,
+              79.392
+            ],
+            [
+              28.9633,
+              79.393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e79d4e89-e797-59fc-ac37-c08876dc599c",
+      "properties": {
+        "station": "Flaket",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-12",
+          "2003-08-13"
+        ],
+        "times": [
+          "2003-08-12T00:00:00Z",
+          "2003-08-12T23:45:00Z",
+          "2003-08-13T02:00:00Z",
+          "2003-08-13T05:55:00Z",
+          "2003-08-13T07:32:00Z"
+        ],
+        "visits": 5,
+        "period_days": 1,
+        "vessel": "Lance",
+        "area_km2": 0.0797420924772135
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.786667,
+              80.117167
+            ],
+            [
+              8.786667,
+              80.121667
+            ],
+            [
+              8.77,
+              80.0116
+            ],
+            [
+              8.786667,
+              80.117167
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df28afbf-fc4e-5f03-8516-2634c197e167",
+      "properties": {
+        "station": "H",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-16",
+          "2003-08-17"
+        ],
+        "times": [
+          "2003-08-16T08:06:00Z",
+          "2003-08-16T14:22:00Z",
+          "2003-08-16T19:00:00Z",
+          "2003-08-17T02:15:00Z",
+          "2003-08-17T08:30:00Z",
+          "2003-08-17T13:27:00Z"
+        ],
+        "visits": 6,
+        "period_days": 1,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3,
+          79.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f7edae23-b210-5818-93c4-4a4211bf7223",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-24"
+        ],
+        "times": [
+          "2003-05-24T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1265,
+          79.043167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1cf2b67a-b3f8-5f01-b1c5-ccc1abdafab5",
+      "properties": {
+        "station": "ICE 1",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-22",
+          "2003-08-23"
+        ],
+        "times": [
+          "2003-08-22T14:11:00Z",
+          "2003-08-22T15:05:00Z",
+          "2003-08-23T00:07:00Z",
+          "2003-08-23T01:20:00Z"
+        ],
+        "visits": 4,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 4.414444685270844
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.558,
+            80.8533
+          ],
+          [
+            28.558,
+            80.893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eed381ec-8ab3-59af-987c-b6cf0277ca55",
+      "properties": {
+        "station": "Ice 1 (386)",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-15"
+        ],
+        "times": [
+          "2003-05-15T16:00:00Z",
+          "2003-05-15T16:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.083333,
+          80.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "445824e1-0a3b-5557-9d4c-b8e6f6462312",
+      "properties": {
+        "station": "Slope of Norskebanken (411)",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-17"
+        ],
+        "times": [
+          "2003-05-17T01:45:00Z",
+          "2003-05-17T02:35:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.759833,
+          79.777833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "726ea2a1-df81-56ea-ad18-4bcc0b0ecdbe",
+      "properties": {
+        "station": "Ice 1 (398)",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-16"
+        ],
+        "times": [
+          "2003-05-16T01:55:00Z",
+          "2003-05-16T03:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1505,
+          79.995667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34e5d762-88eb-540b-a416-da2e92ba8b65",
+      "properties": {
+        "station": "Ice 2 (419)",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-19"
+        ],
+        "times": [
+          "2003-05-19T16:35:00Z",
+          "2003-05-19T17:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.895167,
+          79.544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0672249e-fe4e-58f4-83aa-f8a94d1b0372",
+      "properties": {
+        "station": "N2",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-14"
+        ],
+        "times": [
+          "2003-08-14T04:55:00Z",
+          "2003-08-14T08:04:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.995,
+          80.511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f58d035a-022f-52ff-a067-a225ea556873",
+      "properties": {
+        "station": "N3",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-14"
+        ],
+        "times": [
+          "2003-08-14T15:15:00Z",
+          "2003-08-14T17:15:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01,
+          80.688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf283351-6d0d-540d-b472-4b1dad32bd3f",
+      "properties": {
+        "station": "R1",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-27"
+        ],
+        "times": [
+          "2003-08-27T15:20:00Z",
+          "2003-08-27T16:35:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.196,
+          80.543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ee74a2e-609c-582e-9e77-6f05489a48e9",
+      "properties": {
+        "station": "R2",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-28"
+        ],
+        "times": [
+          "2003-08-28T13:07:00Z",
+          "2003-08-28T13:56:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2366,
+          80.085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5856a852-a3fc-5acf-9d96-bd7cb164103f",
+      "properties": {
+        "station": "SMER",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-02",
+          "2003-09-03"
+        ],
+        "times": [
+          "2003-09-02T23:50:00Z",
+          "2003-09-03T00:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1133,
+          79.7166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "668d49fb-1577-5444-be93-a232170b664d",
+      "properties": {
+        "station": "Ice 3 (444)",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-21"
+        ],
+        "times": [
+          "2003-05-21T01:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.844833,
+          80.129333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18bc8d16-184b-5cfe-a8d4-b03f99c626cd",
+      "properties": {
+        "station": "N1",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-13"
+        ],
+        "times": [
+          "2003-08-13T19:30:00Z",
+          "2003-08-13T20:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.003,
+          80.3016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7df64a73-4a52-5ac6-ae2b-68d6e1792d57",
+      "properties": {
+        "station": "Slope of Norskebanken (406)",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-16"
+        ],
+        "times": [
+          "2003-05-16T22:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3585,
+          79.809833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "75cae4ff-3037-5899-baf4-770f88d23dec",
+      "properties": {
+        "station": "V10",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-24"
+        ],
+        "times": [
+          "2003-05-24T04:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.548,
+          78.937167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "553be092-37eb-58ca-b4c4-983ef8c00bc1",
+      "properties": {
+        "station": "V15",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-23",
+          "2003-09-03",
+          "2003-09-04"
+        ],
+        "times": [
+          "2003-05-23T23:35:00Z",
+          "2003-09-03T21:30:00Z",
+          "2003-09-04T00:10:00Z",
+          "2003-09-04T13:05:00Z",
+          "2003-09-04T14:10:00Z"
+        ],
+        "visits": 5,
+        "period_days": 103,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "area_km2": 12.447179887426955
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.908333,
+              79.0285
+            ],
+            [
+              7.7683,
+              78.8983
+            ],
+            [
+              10.905,
+              79.025
+            ],
+            [
+              10.908333,
+              79.0285
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "935fe94b-4c84-5042-8e10-84c8cf90a346",
+      "properties": {
+        "station": "ICE 2",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-25"
+        ],
+        "times": [
+          "2003-08-25T00:45:00Z",
+          "2003-08-25T02:55:00Z",
+          "2003-08-25T13:45:00Z",
+          "2003-08-25T14:55:00Z"
+        ],
+        "visits": 4,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 5.810759837581894
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.575,
+            81.0633
+          ],
+          [
+            28.905,
+            81.0533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ddedeffb-4576-5732-89e3-7ea979ee5228",
+      "properties": {
+        "station": "Ice 3 (454)",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-21"
+        ],
+        "times": [
+          "2003-05-21T00:00:00Z",
+          "2003-05-21T16:08:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.841667,
+          80.076667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03d73735-99b2-5b90-9529-c66106a0bfb2",
+      "properties": {
+        "station": "V12",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-24"
+        ],
+        "times": [
+          "2003-05-24T02:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.492667,
+          78.979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3735e316-7a6a-5063-9954-5a46ffd35fe9",
+      "properties": {
+        "station": "Hinlopen",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-16"
+        ],
+        "times": [
+          "2003-08-16T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.321667,
+          79.716667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "079a2087-2b0c-5d05-80ad-6ab2a37df364",
+      "properties": {
+        "station": "NNE of Storøya",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-22",
+          "2003-08-25"
+        ],
+        "times": [
+          "2003-08-22T00:00:00Z",
+          "2003-08-25T00:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 3,
+        "vessel": "Lance",
+        "distance_km": 21.29411589875261
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.465,
+            80.883333
+          ],
+          [
+            28.881667,
+            81.063333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66acea6c-266b-52c1-b7f3-e81c73ba20b0",
+      "properties": {
+        "station": "Outer Isfjorden",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-12-05"
+        ],
+        "times": [
+          "2003-12-05T00:00:00Z",
+          "2003-12-05T06:58:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 45.704892178888564
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.857167,
+            78.139667
+          ],
+          [
+            12.857167,
+            78.139667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bbeec728-98bb-5802-9949-395e1c49a881",
+      "properties": {
+        "station": "EE2",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-18"
+        ],
+        "times": [
+          "2003-08-18T02:35:00Z",
+          "2003-08-18T03:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2333,
+          79.218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b5960564-a43a-5201-b951-459e10c4dfd9",
+      "properties": {
+        "station": "EE3",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-18"
+        ],
+        "times": [
+          "2003-08-18T16:10:00Z",
+          "2003-08-18T16:55:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.868,
+          79.0183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8d6dcac-e975-5d9a-9ec5-b595915cc854",
+      "properties": {
+        "station": "EE4,2",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-20"
+        ],
+        "times": [
+          "2003-08-20T14:30:00Z",
+          "2003-08-20T15:05:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.492,
+          79.481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9a7b9a16-bebd-5550-bd6c-e1d19cba0db0",
+      "properties": {
+        "station": "Erik Erksen Strait",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-18",
+          "2003-08-19"
+        ],
+        "times": [
+          "2003-08-18T00:00:00Z",
+          "2003-08-19T00:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 1,
+        "vessel": "Lance",
+        "distance_km": 78.28722143580357
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.776667,
+            79.026667
+          ],
+          [
+            28.998333,
+            79.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ee887b9-a185-5a19-88f5-2c4155e89f2f",
+      "properties": {
+        "station": "HR1",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-29"
+        ],
+        "times": [
+          "2003-08-29T19:25:00Z",
+          "2003-08-29T23:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1616,
+          80.398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05e1cf91-7e03-5e2d-95eb-db6026ad3e3b",
+      "properties": {
+        "station": "Sofiadjupet",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-01"
+        ],
+        "times": [
+          "2003-09-01T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.815,
+          80.848333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a60213d4-da5f-5a4e-828c-e32ab5be0afc",
+      "properties": {
+        "station": "V9",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-04"
+        ],
+        "times": [
+          "2003-09-04T04:30:00Z",
+          "2003-09-04T06:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4866,
+          78.9233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53ae42d8-5083-5592-8ebc-941cc56bc505",
+      "properties": {
+        "station": "West Spitsbergen",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-12-03"
+        ],
+        "times": [
+          "2003-12-03T00:00:00Z",
+          "2003-12-03T21:05:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.450833,
+          77.562333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ca96d94-0c80-5686-bd69-51726928868a",
+      "properties": {
+        "station": "Erik Eriksen Strait",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-19"
+        ],
+        "times": [
+          "2003-08-19T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.998333,
+          79.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed991d9d-62b4-54e3-b704-c0a170ee637e",
+      "properties": {
+        "station": "Fram Strait",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-19"
+        ],
+        "times": [
+          "2003-05-19T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.895167,
+          79.544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61ae5afc-fc66-5f6c-a589-be8640482dec",
+      "properties": {
+        "station": "ICE 3 - North of Hinlopen",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-21"
+        ],
+        "times": [
+          "2003-05-21T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84,
+          80.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b961c94-d58a-5a9d-8b47-763ebab2ce46",
+      "properties": {
+        "station": "Ice 1 - North west of Svaldbard",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-15"
+        ],
+        "times": [
+          "2003-05-15T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08,
+          80.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90c33950-7259-56f3-8f08-e2e747dcef5b",
+      "properties": {
+        "station": "Inner Rijpfjorden",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-28"
+        ],
+        "times": [
+          "2003-08-28T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.236667,
+          80.085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f4d1d1af-34db-5138-a751-f66ca2edfbf0",
+      "properties": {
+        "station": "Norskebanken",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-15"
+        ],
+        "times": [
+          "2003-05-15T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.083,
+          80.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71b74918-a9f5-5cf0-8ab4-75854889b063",
+      "properties": {
+        "station": "Norskebanken slope",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-14"
+        ],
+        "times": [
+          "2003-08-14T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.003333,
+          80.511667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1191bc90-87f0-5367-8595-ccfe6de64fc2",
+      "properties": {
+        "station": "Slope of Norskebanken (430)",
+        "expedition": "OTI2003",
+        "year": 2003,
+        "dates": [
+          "2003-05-20"
+        ],
+        "times": [
+          "2003-05-20T02:35:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.067333,
+          79.494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "55695553-29ad-5b7f-83fd-612bd32087c1",
+      "properties": {
+        "station": "STATION-MISSING",
+        "expedition": "2003UV",
+        "year": 2003,
+        "dates": [
+          "2003-04-17",
+          "2003-04-23",
+          "2003-04-24",
+          "2003-04-26",
+          "2003-04-27",
+          "2003-04-29",
+          "2003-05-02",
+          "2003-05-03",
+          "2003-05-06",
+          "2003-05-07",
+          "2003-05-09",
+          "2003-05-10",
+          "2003-05-11",
+          "2003-05-14",
+          "2003-05-15",
+          "2003-05-18",
+          "2003-06-01",
+          "2003-06-08",
+          "2003-06-15",
+          "2003-06-24",
+          "2003-07-01",
+          "2003-07-08",
+          "2003-07-19"
+        ],
+        "times": [
+          "2003-04-17T13:40:00Z",
+          "2003-04-23T09:18:00Z",
+          "2003-04-24T16:41:00Z",
+          "2003-04-24T17:25:00Z",
+          "2003-04-24T17:54:00Z",
+          "2003-04-26T10:30:00Z",
+          "2003-04-26T11:23:00Z",
+          "2003-04-26T12:07:00Z",
+          "2003-04-27T10:56:00Z",
+          "2003-04-29T09:19:00Z",
+          "2003-04-29T11:15:00Z",
+          "2003-04-29T11:36:00Z",
+          "2003-04-29T13:39:00Z",
+          "2003-05-02T15:55:00Z",
+          "2003-05-03T14:22:00Z",
+          "2003-05-03T15:07:00Z",
+          "2003-05-03T15:33:00Z",
+          "2003-05-06T09:41:00Z",
+          "2003-05-07T10:03:00Z",
+          "2003-05-09T08:11:00Z",
+          "2003-05-09T09:26:00Z",
+          "2003-05-10T11:44:00Z",
+          "2003-05-11T11:08:00Z",
+          "2003-05-14T08:37:00Z",
+          "2003-05-14T09:40:00Z",
+          "2003-05-14T12:26:00Z",
+          "2003-05-15T12:16:00Z",
+          "2003-05-18T11:07:00Z",
+          "2003-06-01T12:00:00Z",
+          "2003-06-08T12:00:00Z",
+          "2003-06-15T12:00:00Z",
+          "2003-06-24T12:00:00Z",
+          "2003-07-01T12:00:00Z",
+          "2003-07-08T12:00:00Z",
+          "2003-07-19T12:00:00Z"
+        ],
+        "visits": 35,
+        "period_days": 92,
+        "vessel": "Haarek",
+        "area_km2": 10.24225408458363
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.942833,
+              78.934667
+            ],
+            [
+              11.95895,
+              78.9345
+            ],
+            [
+              11.944983,
+              78.9345
+            ],
+            [
+              11.962283,
+              78.940633
+            ],
+            [
+              12.03795,
+              78.947683
+            ],
+            [
+              11.955867,
+              78.933883
+            ],
+            [
+              11.945467,
+              78.934917
+            ],
+            [
+              12.292933,
+              78.973233
+            ],
+            [
+              11.93445,
+              78.9612
+            ],
+            [
+              11.941433,
+              78.936683
+            ],
+            [
+              11.885467,
+              78.952083
+            ],
+            [
+              11.946,
+              78.935967
+            ],
+            [
+              11.964667,
+              78.936033
+            ],
+            [
+              11.930533,
+              78.965167
+            ],
+            [
+              11.952983,
+              78.962833
+            ],
+            [
+              11.98175,
+              78.959117
+            ],
+            [
+              11.94765,
+              78.94385
+            ],
+            [
+              11.916683,
+              78.953817
+            ],
+            [
+              11.9458,
+              78.940233
+            ],
+            [
+              11.948,
+              78.9385
+            ],
+            [
+              11.94575,
+              78.937017
+            ],
+            [
+              12.29195,
+              78.9734
+            ],
+            [
+              11.989633,
+              78.9512
+            ],
+            [
+              11.972883,
+              78.94405
+            ],
+            [
+              11.945633,
+              78.9372
+            ],
+            [
+              11.908067,
+              78.952267
+            ],
+            [
+              11.913583,
+              78.950917
+            ],
+            [
+              11.906883,
+              78.947733
+            ],
+            [
+              12.271133,
+              78.912383
+            ],
+            [
+              11.942833,
+              78.934667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "80e24e6d-636c-5764-88b9-69bcfb9794b3",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "2003UV",
+        "year": 2003,
+        "dates": [
+          "2003-05-23"
+        ],
+        "times": [
+          "2003-05-23T00:00:00Z",
+          "2003-05-23T04:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 0.2680623803834068
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.427383,
+            79.013483
+          ],
+          [
+            11.4385,
+            79.012333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca3951c9-4f4e-57ad-b2d8-3a124f7736be",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "2003UV",
+        "year": 2003,
+        "dates": [
+          "2003-05-23"
+        ],
+        "times": [
+          "2003-05-23T00:00:00Z",
+          "2003-05-23T06:25:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 0.1812621254907916
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.681667,
+            78.9835
+          ],
+          [
+            11.689,
+            78.984333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9c56c81-c6bc-5cda-8901-48865b42719d",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "2003UV",
+        "year": 2003,
+        "dates": [
+          "2003-04-17",
+          "2003-04-23",
+          "2003-05-23"
+        ],
+        "times": [
+          "2003-04-17T13:40:00Z",
+          "2003-04-23T09:18:00Z",
+          "2003-05-23T00:00:00Z",
+          "2003-05-23T09:05:00Z"
+        ],
+        "visits": 4,
+        "period_days": 35,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Haarek",
+          "Jan Mayen"
+        ],
+        "area_km2": 10.197756405539987
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.942833,
+              78.934667
+            ],
+            [
+              12.271133,
+              78.912383
+            ],
+            [
+              11.943667,
+              78.959
+            ],
+            [
+              11.92,
+              78.961
+            ],
+            [
+              11.942833,
+              78.934667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1cc89972-31fc-57d8-995b-558e9358c790",
+      "properties": {
+        "station": "I",
+        "expedition": "CABANERA-2004",
+        "year": 2003,
+        "dates": [
+          "2003-07-10"
+        ],
+        "times": [
+          "2003-07-10T11:00:00Z",
+          "2003-07-10T22:57:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 9.697385160571944
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.161,
+            75.689
+          ],
+          [
+            30.230333,
+            75.6035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8b85684-c16e-5b0e-8414-252f1b23ee13",
+      "properties": {
+        "station": "II",
+        "expedition": "CABANERA-2004",
+        "year": 2003,
+        "dates": [
+          "2003-07-13",
+          "2003-07-14"
+        ],
+        "times": [
+          "2003-07-13T22:38:00Z",
+          "2003-07-14T09:46:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 1.9923975349616865
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.014333,
+            78.248167
+          ],
+          [
+            27.092667,
+            78.256333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c6ca920-c8bc-54b8-aaa1-0a1c710ef246",
+      "properties": {
+        "station": "III",
+        "expedition": "CABANERA-2004",
+        "year": 2003,
+        "dates": [
+          "2003-07-15",
+          "2003-07-16"
+        ],
+        "times": [
+          "2003-07-15T22:59:00Z",
+          "2003-07-16T10:05:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 1.0322389633715423
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.7775,
+            79.0495
+          ],
+          [
+            25.795,
+            79.040833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "94abec9e-c9f9-5073-a9d1-a8fa3aedda4f",
+      "properties": {
+        "station": "IV",
+        "expedition": "CABANERA-2004",
+        "year": 2003,
+        "dates": [
+          "2003-07-18"
+        ],
+        "times": [
+          "2003-07-18T10:47:00Z",
+          "2003-07-18T22:23:00Z",
+          "2003-07-18T23:23:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 4.446004788663283
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.307667,
+            77.035333
+          ],
+          [
+            29.472167,
+            77.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32fe38ba-d4ee-5a5f-8619-09197362517b",
+      "properties": {
+        "station": "Northern Barents Sea",
+        "expedition": "CABANERA-2004",
+        "year": 2003,
+        "dates": [
+          "2003-08-01"
+        ],
+        "times": [
+          "2003-08-01T01:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.955983,
+          80.022583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fa16ea2b-9c9d-57a3-adcc-80db4db738ab",
+      "properties": {
+        "station": "720",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-25"
+        ],
+        "times": [
+          "2003-08-25T16:20:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.43,
+          79.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9ae3227f-d0a4-57b5-bfb1-050f9ea3ce7a",
+      "properties": {
+        "station": "154",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-20"
+        ],
+        "times": [
+          "2003-09-20T10:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.29,
+          79.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6fef59a-3e5a-5efe-a885-37498e2ed79b",
+      "properties": {
+        "station": "187",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-22"
+        ],
+        "times": [
+          "2003-09-22T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.83,
+          79.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a18ed097-aaca-52c4-9e68-a2c38d567afa",
+      "properties": {
+        "station": "210",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-23"
+        ],
+        "times": [
+          "2003-09-23T23:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.13,
+          78.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6d09a2a-031b-5cb9-8f48-3062f54277e6",
+      "properties": {
+        "station": "218",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-24"
+        ],
+        "times": [
+          "2003-09-24T14:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.79,
+          79.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "94244185-d94a-577d-9bbb-6554f752aaa4",
+      "properties": {
+        "station": "224",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-26"
+        ],
+        "times": [
+          "2003-09-26T12:55:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.48,
+          80.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6adc20ad-c86e-5b68-94c6-f662d93a8625",
+      "properties": {
+        "station": "226",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-26"
+        ],
+        "times": [
+          "2003-09-26T14:41:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.59,
+          80.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dd250ba8-2111-5e4a-acbb-e65f5660695d",
+      "properties": {
+        "station": "233",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-09-26"
+        ],
+        "times": [
+          "2003-09-26T22:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26,
+          80.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4795c649-3a52-5956-aa38-88317f0281b5",
+      "properties": {
+        "station": "428",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-07-13"
+        ],
+        "times": [
+          "2003-07-13T09:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Johan Ruud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.686667,
+          79.131667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a021343-99ff-5824-a28a-ce4fb3b221ce",
+      "properties": {
+        "station": "430",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-07-13"
+        ],
+        "times": [
+          "2003-07-13T18:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Johan Ruud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.763333,
+          78.971667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b5407b3-1e8b-5201-9bc6-9f99636464ae",
+      "properties": {
+        "station": "431",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-07-13"
+        ],
+        "times": [
+          "2003-07-13T20:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Johan Ruud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.742,
+          79.001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "02edf8fe-4833-5d9b-9665-a143d3ec28b7",
+      "properties": {
+        "station": "432",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-07-13"
+        ],
+        "times": [
+          "2003-07-13T23:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Johan Ruud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.649333,
+          78.932833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14321d26-fa07-56ee-9ef0-8dbd0b2a3270",
+      "properties": {
+        "station": "722",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-27"
+        ],
+        "times": [
+          "2003-08-27T08:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.18,
+          80.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86aa5a82-0b1d-5eb0-b091-be2fc60a915f",
+      "properties": {
+        "station": "723",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-27"
+        ],
+        "times": [
+          "2003-08-27T17:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.05,
+          81.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c421db32-6410-5363-a3bc-69badf9b50b1",
+      "properties": {
+        "station": "724",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-27"
+        ],
+        "times": [
+          "2003-08-27T13:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.13,
+          81.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "725ea400-fb27-5269-a2fb-8b605b5d9590",
+      "properties": {
+        "station": "725",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-12-08"
+        ],
+        "times": [
+          "2003-12-08T16:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31,
+          80.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1501f071-9e4a-5bc8-be84-a4c28946b476",
+      "properties": {
+        "station": "727",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-29"
+        ],
+        "times": [
+          "2003-08-29T16:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          78.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "578e56f2-7ec9-55c8-8566-c79a19871658",
+      "properties": {
+        "station": "728",
+        "expedition": "UNIS-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-03"
+        ],
+        "times": [
+          "2003-08-03T12:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22,
+          78.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66d07876-1dee-5e8c-8dfd-9b119355fa50",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "BIODAFF-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-03"
+        ],
+        "times": [
+          "2003-08-03T11:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.420133,
+          79.013633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ddbf65f6-4cad-570e-bfef-9c04fb1d9c41",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "BIODAFF-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-03"
+        ],
+        "times": [
+          "2003-08-03T10:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.676783,
+          78.982867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2aae690e-ad06-596a-bffb-752c07c770e8",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "BIODAFF-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-03"
+        ],
+        "times": [
+          "2003-08-03T08:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.941383,
+          78.960783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a216fcd-f5df-5a46-9600-d854fe48ad75",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "BIODAFF-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-03"
+        ],
+        "times": [
+          "2003-08-03T15:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1265,
+          79.043167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17072bcd-d05a-5e60-84e0-bc210fa0bbe2",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "BIODAFF-2003",
+        "year": 2003,
+        "dates": [
+          "2003-08-03"
+        ],
+        "times": [
+          "2003-08-03T03:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.422167,
+          78.9205
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    4.067333,
+    75.6035,
+    30.955983,
+    81.14
+  ]
+}

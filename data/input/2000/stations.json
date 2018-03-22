@@ -1,0 +1,611 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "c05830e1-7e6c-503e-b5d1-d42df1ca462f",
+      "properties": {
+        "station": "MØ 032",
+        "expedition": "MARINØK-2000",
+        "year": 2000,
+        "dates": [
+          "2000-03-16"
+        ],
+        "times": [
+          "2000-03-16T19:10:00Z",
+          "2000-03-16T20:05:00Z",
+          "2000-03-16T21:00:00Z",
+          "2000-03-16T21:10:00Z",
+          "2000-03-16T21:20:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.01,
+          78.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13e8b633-787c-586c-91e7-44f83a40f54f",
+      "properties": {
+        "station": "MØ 033",
+        "expedition": "MARINØK-2000",
+        "year": 2000,
+        "dates": [
+          "2000-03-17"
+        ],
+        "times": [
+          "2000-03-17T11:30:00Z",
+          "2000-03-17T11:55:00Z",
+          "2000-03-17T12:50:00Z",
+          "2000-03-17T13:10:00Z",
+          "2000-03-17T13:30:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 3.4954539819605905
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.22,
+            78.33
+          ],
+          [
+            33.34,
+            78.35
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6d5239a1-8847-563e-ba16-c591c166e211",
+      "properties": {
+        "station": "MØ 049",
+        "expedition": "MARINØK-2000",
+        "year": 2000,
+        "dates": [
+          "2000-03-20"
+        ],
+        "times": [
+          "2000-03-20T07:00:00Z",
+          "2000-03-20T08:45:00Z",
+          "2000-03-20T12:15:00Z",
+          "2000-03-20T12:35:00Z",
+          "2000-03-20T12:55:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 6.671704814012227
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.43,
+            76.5
+          ],
+          [
+            31.43,
+            76.44
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0af75e02-c299-52ee-8b61-d50c30fa49a9",
+      "properties": {
+        "station": "MØ 034",
+        "expedition": "MARINØK-2000",
+        "year": 2000,
+        "dates": [
+          "2000-03-18"
+        ],
+        "times": [
+          "2000-03-18T09:00:00Z",
+          "2000-03-18T09:50:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85,
+          77.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3745a625-47ce-523e-a61a-39a0097d9cfc",
+      "properties": {
+        "station": "MØ 031",
+        "expedition": "MARINØK-2000",
+        "year": 2000,
+        "dates": [
+          "2000-03-16"
+        ],
+        "times": [
+          "2000-03-16T12:25:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.08,
+          78.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e8da1aa-0c0f-5409-be94-fd28c759bda5",
+      "properties": {
+        "station": "MØ 035",
+        "expedition": "MARINØK-2000",
+        "year": 2000,
+        "dates": [
+          "2000-03-18"
+        ],
+        "times": [
+          "2000-03-18T16:45:00Z",
+          "2000-03-18T17:00:00Z",
+          "2000-03-18T17:15:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85,
+          77.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0bb37538-4a9a-5c1f-97ad-cf4bbb043d17",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "BIODAFF-2000",
+        "year": 2000,
+        "dates": [
+          "2000-07-01"
+        ],
+        "times": [
+          "2000-07-01T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.13,
+          79.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5bb7e544-41ee-55ad-901d-fa8bbe6d2b32",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "BIODAFF-2000",
+        "year": 2000,
+        "dates": [
+          "2000-07-01"
+        ],
+        "times": [
+          "2000-07-01T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.43,
+          79.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8922ee94-11ef-58c3-916f-640c484aa35c",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "BIODAFF-2000",
+        "year": 2000,
+        "dates": [
+          "2000-07-01"
+        ],
+        "times": [
+          "2000-07-01T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.73,
+          78.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc22f5c5-1368-5b59-a6df-e94cd91e004d",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "BIODAFF-2000",
+        "year": 2000,
+        "dates": [
+          "2000-07-01"
+        ],
+        "times": [
+          "2000-07-01T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.97,
+          78.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53424597-ac14-5862-b6b9-95e87dae7a58",
+      "properties": {
+        "station": "B8",
+        "expedition": "BIODAFF-2000",
+        "year": 2000,
+        "dates": [
+          "2000-07-01"
+        ],
+        "times": [
+          "2000-07-01T07:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.59,
+          78.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ecdffabe-d5e0-5352-b34b-05517a434445",
+      "properties": {
+        "station": "Kb4",
+        "expedition": "BIODAFF-2000",
+        "year": 2000,
+        "dates": [
+          "2000-07-01"
+        ],
+        "times": [
+          "2000-07-01T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.18,
+          78.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a03ac54-0ee1-5e40-afea-f1848f1d895a",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "BIODAFF-2000",
+        "year": 2000,
+        "dates": [
+          "2000-07-01"
+        ],
+        "times": [
+          "2000-07-01T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47,
+          78.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0502ac3-c926-5e9d-9a6c-9d510b2bb0a9",
+      "properties": {
+        "station": "Kb6",
+        "expedition": "BIODAFF-2000",
+        "year": 2000,
+        "dates": [
+          "2000-07-01"
+        ],
+        "times": [
+          "2000-07-01T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.36,
+          78.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6cf51856-4594-5762-aec9-fac6e9ab6a58",
+      "properties": {
+        "station": "Kb7",
+        "expedition": "BIODAFF-2000",
+        "year": 2000,
+        "dates": [
+          "2000-07-01"
+        ],
+        "times": [
+          "2000-07-01T00:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          78.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3a2256c-aba8-59bb-a179-57765e764046",
+      "properties": {
+        "station": "1",
+        "expedition": "UNIS-AB310-2000",
+        "year": 2000,
+        "dates": [
+          "2000-09-22",
+          "2000-09-23"
+        ],
+        "times": [
+          "2000-09-22T19:34:00Z",
+          "2000-09-23T00:23:00Z",
+          "2000-09-23T03:31:00Z",
+          "2000-09-23T12:59:00Z",
+          "2000-09-23T14:50:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "area_km2": 30.380335482219866
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.13,
+              81.38
+            ],
+            [
+              15.65,
+              81.38
+            ],
+            [
+              15.6,
+              81.38
+            ],
+            [
+              15.49,
+              81.42
+            ],
+            [
+              15.23,
+              81.43
+            ],
+            [
+              15.13,
+              81.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1850355-beb7-50d2-a14e-a072982fd31a",
+      "properties": {
+        "station": "2",
+        "expedition": "UNIS-AB310-2000",
+        "year": 2000,
+        "dates": [
+          "2000-09-23",
+          "2000-09-24"
+        ],
+        "times": [
+          "2000-09-23T14:50:00Z",
+          "2000-09-23T23:05:00Z",
+          "2000-09-24T01:04:00Z",
+          "2000-09-24T05:42:00Z"
+        ],
+        "visits": 4,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "area_km2": 25.34706877567094
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.65,
+              81.38
+            ],
+            [
+              15.26,
+              81.15
+            ],
+            [
+              15.22,
+              81.13
+            ],
+            [
+              14.98,
+              80.93
+            ],
+            [
+              15.65,
+              81.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c2fd4044-0fc2-529f-a350-08a5f39178b4",
+      "properties": {
+        "station": "3",
+        "expedition": "UNIS-AB310-2000",
+        "year": 2000,
+        "dates": [
+          "2000-09-24"
+        ],
+        "times": [
+          "2000-09-24T13:14:00Z",
+          "2000-09-24T14:56:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 1.1257870269444565
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.99,
+            80.9
+          ],
+          [
+            15,
+            80.89
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9eaabc1e-5e55-5a2e-bf65-7a4f16f47a13",
+      "properties": {
+        "station": "4",
+        "expedition": "UNIS-AB310-2000",
+        "year": 2000,
+        "dates": [
+          "2000-09-24"
+        ],
+        "times": [
+          "2000-09-24T07:42:00Z",
+          "2000-09-24T08:36:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 0.5304662031477035
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.99,
+            80.85
+          ],
+          [
+            15.02,
+            80.85
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28ae83d5-d888-5b70-8f4c-4a4303b21dfe",
+      "properties": {
+        "station": "RIGG",
+        "expedition": "OAERRE-2000",
+        "year": 2000,
+        "dates": [
+          "2000-12-31"
+        ],
+        "times": [
+          "2000-12-31T16:58:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.29,
+          79.053333
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    9.59,
+    76.44,
+    33.34,
+    81.43
+  ]
+}

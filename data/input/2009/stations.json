@@ -1,0 +1,3349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ede7301f-7281-5e7c-be71-a312dd23135b",
+      "properties": {
+        "station": "V6",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-18",
+          "2009-07-19"
+        ],
+        "times": [
+          "2009-07-18T16:35:00Z",
+          "2009-07-18T22:17:00Z",
+          "2009-07-18T23:30:00Z",
+          "2009-07-18T23:45:00Z",
+          "2009-07-19T01:30:00Z",
+          "2009-07-19T03:30:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.77,
+          78.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32c8d3fe-6bd3-5bac-af58-9ede4dda0936",
+      "properties": {
+        "station": "KH",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-19"
+        ],
+        "times": [
+          "2009-07-19T08:27:00Z",
+          "2009-07-19T11:30:00Z",
+          "2009-07-19T13:30:00Z",
+          "2009-07-19T15:15:00Z",
+          "2009-07-19T15:30:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7,
+          79.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61f1d1cc-c50a-5220-a4c5-f6f64ac3ef8c",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-18"
+        ],
+        "times": [
+          "2009-07-18T01:50:00Z",
+          "2009-07-18T02:30:00Z",
+          "2009-07-18T03:45:00Z",
+          "2009-07-18T04:00:00Z",
+          "2009-07-18T04:15:00Z",
+          "2009-07-18T05:00:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Zodiac"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.13,
+          79.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90625770-2c37-53f2-9754-7b14d235b57a",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-17"
+        ],
+        "times": [
+          "2009-07-17T10:30:00Z",
+          "2009-07-17T11:00:00Z",
+          "2009-07-17T11:02:00Z",
+          "2009-07-17T12:30:00Z",
+          "2009-07-17T12:45:00Z",
+          "2009-07-17T13:00:00Z",
+          "2009-07-17T13:30:00Z"
+        ],
+        "visits": 7,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.94,
+          78.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c54272a0-7760-5145-a481-c23c0f183a4e",
+      "properties": {
+        "station": "HG-IV",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-19",
+          "2009-07-20"
+        ],
+        "times": [
+          "2009-07-19T22:18:00Z",
+          "2009-07-20T02:00:00Z",
+          "2009-07-20T10:30:00Z",
+          "2009-07-20T15:00:00Z",
+          "2009-07-20T15:15:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.18,
+          79.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eea711c8-e349-580d-86cb-42634bfb3baf",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-17",
+          "2009-07-18"
+        ],
+        "times": [
+          "2009-07-17T21:20:00Z",
+          "2009-07-17T22:30:00Z",
+          "2009-07-17T23:00:00Z",
+          "2009-07-17T23:15:00Z",
+          "2009-07-17T23:30:00Z",
+          "2009-07-18T00:30:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41,
+          79.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3999000-f342-5f29-8beb-f54d6aecc7ce",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-17"
+        ],
+        "times": [
+          "2009-07-17T15:56:00Z",
+          "2009-07-17T16:20:00Z",
+          "2009-07-17T17:25:00Z",
+          "2009-07-17T17:30:00Z",
+          "2009-07-17T18:30:00Z",
+          "2009-07-17T18:45:00Z",
+          "2009-07-17T19:15:00Z"
+        ],
+        "visits": 7,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.66,
+          78.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fb7c2d02-2b05-5481-8dd3-64854eafa07f",
+      "properties": {
+        "station": "V10",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-18"
+        ],
+        "times": [
+          "2009-07-18T13:55:00Z",
+          "2009-07-18T14:30:00Z",
+          "2009-07-18T15:00:00Z",
+          "2009-07-18T16:07:00Z",
+          "2009-07-18T16:35:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 4.447803209342012
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.54,
+            78.94
+          ],
+          [
+            8.54,
+            78.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d324eb9-e272-5372-b2e4-d342a673a115",
+      "properties": {
+        "station": "V12",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-18"
+        ],
+        "times": [
+          "2009-07-18T09:10:00Z",
+          "2009-07-18T10:00:00Z",
+          "2009-07-18T10:30:00Z",
+          "2009-07-18T11:00:00Z",
+          "2009-07-18T11:30:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 35.189683045455645
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5,
+            78.98
+          ],
+          [
+            11.13,
+            79.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a1cabe62-783d-560e-991a-fed12d0b768f",
+      "properties": {
+        "station": "Kb4",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-17"
+        ],
+        "times": [
+          "2009-07-17T00:00:00Z",
+          "2009-07-17T06:05:00Z",
+          "2009-07-17T07:00:00Z",
+          "2009-07-17T07:30:00Z",
+          "2009-07-17T07:50:00Z",
+          "2009-07-17T08:10:00Z",
+          "2009-07-17T08:30:00Z"
+        ],
+        "visits": 7,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2,
+          78.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c65a487a-4179-5b19-920b-bcfdac3cca20",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-17"
+        ],
+        "times": [
+          "2009-07-17T01:17:00Z",
+          "2009-07-17T02:13:00Z",
+          "2009-07-17T02:30:00Z",
+          "2009-07-17T03:00:00Z",
+          "2009-07-17T03:30:00Z",
+          "2009-07-17T03:45:00Z",
+          "2009-07-17T04:15:00Z"
+        ],
+        "visits": 7,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 0.11119508023406385
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.43,
+            78.89
+          ],
+          [
+            12.43,
+            78.889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27df93a5-4504-5670-94d1-8aa8f4846dc2",
+      "properties": {
+        "station": "AA17",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T22:45:00Z",
+          "2009-07-21T23:00:00Z",
+          "2009-07-21T23:15:00Z",
+          "2009-07-21T23:30:00Z"
+        ],
+        "visits": 4,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.887,
+          79.979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fbbd8e35-d1dc-5f53-a20e-4f1c5a55238f",
+      "properties": {
+        "station": "AA27",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T19:15:00Z",
+          "2009-07-22T19:40:00Z",
+          "2009-07-22T20:10:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.59,
+          79.664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2677257-15ce-58cc-8486-d00659b9a819",
+      "properties": {
+        "station": "AA1",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-20"
+        ],
+        "times": [
+          "2009-07-20T17:54:00Z",
+          "2009-07-20T19:00:00Z",
+          "2009-07-20T19:15:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.75,
+          79.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9d99db0e-6288-5dc8-a02f-e605eccb4fd2",
+      "properties": {
+        "station": "AA14",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T15:58:00Z",
+          "2009-07-21T17:30:00Z",
+          "2009-07-21T18:00:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.417,
+          79.883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "01437b76-929e-5271-8f87-339834d85683",
+      "properties": {
+        "station": "AA15",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T18:00:00Z",
+          "2009-07-21T19:00:00Z",
+          "2009-07-21T19:15:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.917,
+          79.933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e50ff4c4-06ba-5040-b212-5cceb065f522",
+      "properties": {
+        "station": "AA16",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T20:10:00Z",
+          "2009-07-21T20:45:00Z",
+          "2009-07-21T20:55:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.365,
+          79.979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3d6ec81e-a06c-5a21-b425-af210c411138",
+      "properties": {
+        "station": "AA18",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T00:40:00Z",
+          "2009-07-22T01:00:00Z",
+          "2009-07-22T01:15:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.107,
+          80.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b77a000-0a81-5c47-bb2c-557cf8bc2bf5",
+      "properties": {
+        "station": "AA19",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T02:36:00Z",
+          "2009-07-22T03:00:00Z",
+          "2009-07-22T03:15:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.656,
+          80.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9828cac8-af2e-5034-96b0-cdcbd862a4a6",
+      "properties": {
+        "station": "AA20",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T04:14:00Z",
+          "2009-07-22T04:50:00Z",
+          "2009-07-22T05:10:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 5.069613942184141
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.157,
+            80.054
+          ],
+          [
+            9.42,
+            80.058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88794b38-1800-59ea-9eb6-2082f54b20e4",
+      "properties": {
+        "station": "AA21",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T06:10:00Z",
+          "2009-07-22T06:30:00Z",
+          "2009-07-22T06:45:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.611,
+          80.023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9770b8b2-7d1b-54ea-8f0d-7a6d9fe4e6ea",
+      "properties": {
+        "station": "AA22",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T06:45:00Z",
+          "2009-07-22T07:59:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 0.8666607796295512
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.327,
+            80.026
+          ],
+          [
+            9.372,
+            80.026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c087df9f-871c-5a62-9cbc-e3b27c603114",
+      "properties": {
+        "station": "AA23",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T10:01:00Z",
+          "2009-07-22T10:30:00Z",
+          "2009-07-22T10:45:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.365,
+          80.142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb87a9c3-1a81-5dda-9b64-0b76486b287f",
+      "properties": {
+        "station": "AA24",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T12:01:00Z",
+          "2009-07-22T12:30:00Z",
+          "2009-07-22T12:45:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981,
+          80.146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d43ae662-7b97-55e4-8843-6b37cbfdfdd7",
+      "properties": {
+        "station": "AA25",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T14:06:00Z",
+          "2009-07-22T14:30:00Z",
+          "2009-07-22T14:45:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 6.2232282005097135
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.206,
+            80.053
+          ],
+          [
+            10.53,
+            80.053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cc86bc28-52b9-53dc-85e2-3afd683df9f7",
+      "properties": {
+        "station": "AA26",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T16:45:00Z",
+          "2009-07-22T17:30:00Z",
+          "2009-07-22T17:45:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53,
+          79.957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "83366144-2fc4-5c71-a458-03d10cc824ea",
+      "properties": {
+        "station": "AA10",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T10:43:00Z",
+          "2009-07-21T11:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.95,
+          79.667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb03f31b-e813-50e6-87f9-6975a2dd300a",
+      "properties": {
+        "station": "AA11",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T11:40:00Z",
+          "2009-07-21T12:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3,
+          79.733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1aa9d35c-37b3-5ac5-8113-106a56f76592",
+      "properties": {
+        "station": "AA12",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T12:00:00Z",
+          "2009-07-21T12:52:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.461,
+          79.778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b0fab9b6-882c-54b9-9da8-acae52e91daa",
+      "properties": {
+        "station": "AA13",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T12:52:00Z",
+          "2009-07-21T14:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.008,
+          79.831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43cb913f-18eb-51f9-9274-2903c1c6e2aa",
+      "properties": {
+        "station": "AA2",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-20"
+        ],
+        "times": [
+          "2009-07-20T20:44:00Z",
+          "2009-07-20T21:15:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.908,
+          79.281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32b7bd54-75e2-5596-9c4d-8b2053790ef6",
+      "properties": {
+        "station": "AA3",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-20"
+        ],
+        "times": [
+          "2009-07-20T22:20:00Z",
+          "2009-07-20T22:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.291,
+          79.339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3c44187-bd44-5c7e-b0e6-861cdc3ddcec",
+      "properties": {
+        "station": "AA4",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-20",
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-20T23:57:00Z",
+          "2009-07-21T00:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.682,
+          79.161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "094ba5b2-4025-5eb0-8fbb-324dfec35663",
+      "properties": {
+        "station": "AA5",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T01:56:00Z",
+          "2009-07-21T02:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.15,
+          79.411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "af7fbb3e-d003-50be-a347-e48695e66222",
+      "properties": {
+        "station": "AA6",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T03:29:00Z",
+          "2009-07-21T03:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.624,
+          79.402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e43e2a29-1902-5c7c-adbf-d0ad1c822407",
+      "properties": {
+        "station": "AA7",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T04:47:00Z",
+          "2009-07-21T05:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 21.49063847023302
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4,
+            79.402
+          ],
+          [
+            5,
+            79.463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da7102b0-0148-5f50-8d2f-e083b52faf3a",
+      "properties": {
+        "station": "AA8",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T07:42:00Z",
+          "2009-07-21T08:10:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45,
+          79.517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1804d758-c6d4-5607-b2b3-6f0ca0e11b8e",
+      "properties": {
+        "station": "AA9",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T08:35:00Z",
+          "2009-07-21T09:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.55,
+          79.617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a842a75-a252-506c-a71a-0cbf2701f4fb",
+      "properties": {
+        "station": "HG-I",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-19"
+        ],
+        "times": [
+          "2009-07-19T17:44:00Z",
+          "2009-07-19T19:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 21.21870546278089
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.092,
+            79.133
+          ],
+          [
+            7,
+            79.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac6e0ba-0d80-5903-83e1-084a1517aec6",
+      "properties": {
+        "station": "AA24b",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-22"
+        ],
+        "times": [
+          "2009-07-22T12:27:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.901,
+          80.143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a58c263-e14a-58a1-a446-d5be57d0e343",
+      "properties": {
+        "station": "AnnaAlexey",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-19"
+        ],
+        "times": [
+          "2009-07-19T06:05:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.387,
+          78.971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ab1d2cb-8216-59a2-9e0c-95c01fc77eb2",
+      "properties": {
+        "station": "Kb1a",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-17"
+        ],
+        "times": [
+          "2009-07-17T20:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58,
+          78.998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba7bea86-7211-5436-9d46-4bd448c9b8e6",
+      "properties": {
+        "station": "Kb2a",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-17"
+        ],
+        "times": [
+          "2009-07-17T15:11:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.888,
+          78.963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c82030fa-14ea-5b2d-9b59-92afc2d4f4c8",
+      "properties": {
+        "station": "Kb3a",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-17"
+        ],
+        "times": [
+          "2009-07-17T09:19:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.082,
+          78.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a7ea382-24f1-5c85-81dc-ddc76d43c118",
+      "properties": {
+        "station": "Kb4a",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-17"
+        ],
+        "times": [
+          "2009-07-17T05:07:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.31,
+          78.898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f549ffb7-4ea1-5e7a-ac1b-b49088892377",
+      "properties": {
+        "station": "V11",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-18"
+        ],
+        "times": [
+          "2009-07-18T12:50:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.94,
+          78.954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bbf3a2cb-dae4-5c9a-8276-780c818a450c",
+      "properties": {
+        "station": "V14",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-18"
+        ],
+        "times": [
+          "2009-07-18T07:01:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.48,
+          79.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "958d8899-0d59-5bc0-b2d7-26f5c6898ffc",
+      "properties": {
+        "station": "V7",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-18"
+        ],
+        "times": [
+          "2009-07-18T19:58:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2,
+          78.911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "062a264f-d21c-5c5f-8e04-0b28fea7354f",
+      "properties": {
+        "station": "V8",
+        "expedition": "Alkekonge-2009",
+        "year": 2009,
+        "dates": [
+          "2009-07-18"
+        ],
+        "times": [
+          "2009-07-18T18:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.37,
+          78.923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "253bc881-3d74-5a78-9b0e-4a26d1975f16",
+      "properties": {
+        "station": "V6",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-15"
+        ],
+        "times": [
+          "2009-06-15T09:30:00Z",
+          "2009-06-15T09:45:00Z",
+          "2009-06-15T10:30:00Z",
+          "2009-06-15T11:45:00Z",
+          "2009-06-15T12:00:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.77,
+          78.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f7d9cf5d-711a-546c-9a2d-f7bc2bcb4238",
+      "properties": {
+        "station": "KH",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-15"
+        ],
+        "times": [
+          "2009-06-15T12:15:00Z",
+          "2009-06-15T12:30:00Z",
+          "2009-06-15T14:30:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.259,
+          79.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e3b3318-da72-5e52-a734-e225d526b6af",
+      "properties": {
+        "station": "74",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-18",
+          "2009-06-19"
+        ],
+        "times": [
+          "2009-06-18T22:30:00Z",
+          "2009-06-18T23:00:00Z",
+          "2009-06-19T12:00:00Z",
+          "2009-06-19T14:30:00Z"
+        ],
+        "visits": 4,
+        "period_days": 0,
+        "vessel": "G.O. Sars",
+        "distance_km": 9.249322532669094
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.495,
+            76.996
+          ],
+          [
+            1.755,
+            76.937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e35ce310-1b18-5a87-8ab3-214f5638b2e0",
+      "properties": {
+        "station": "69",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-17"
+        ],
+        "times": [
+          "2009-06-17T09:30:00Z",
+          "2009-06-17T09:45:00Z",
+          "2009-06-17T10:00:00Z",
+          "2009-06-17T11:00:00Z",
+          "2009-06-17T11:15:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.003,
+          78.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42009488-c8cc-5b94-9475-2ee0bb2ac0c4",
+      "properties": {
+        "station": "62",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-15"
+        ],
+        "times": [
+          "2009-06-15T02:45:00Z",
+          "2009-06-15T03:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85,
+          78.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "883f386c-cd5c-5a12-b43e-ed272f2efd44",
+      "properties": {
+        "station": "71",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-18"
+        ],
+        "times": [
+          "2009-06-18T08:30:00Z",
+          "2009-06-18T08:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.002,
+          77.002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06b66f53-a647-5e84-8521-c4450be1d3ee",
+      "properties": {
+        "station": "73",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-18"
+        ],
+        "times": [
+          "2009-06-18T17:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.598,
+          76.999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc388944-682c-5ad2-b8fe-37988765b977",
+      "properties": {
+        "station": "82",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-21"
+        ],
+        "times": [
+          "2009-06-21T10:30:00Z",
+          "2009-06-21T10:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12,
+          77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db63edae-6d22-5fe3-8c43-36f99d87ba10",
+      "properties": {
+        "station": "76",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-20"
+        ],
+        "times": [
+          "2009-06-20T06:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.498,
+          77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79d6298b-a92d-5c1c-a42f-354621e030ce",
+      "properties": {
+        "station": "77",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-20"
+        ],
+        "times": [
+          "2009-06-20T06:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.005,
+          77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a305176-4713-5122-8491-d9851aa75677",
+      "properties": {
+        "station": "78",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-20"
+        ],
+        "times": [
+          "2009-06-20T16:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.501,
+          77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2079b10-1b34-5342-b62a-e4918e314bd8",
+      "properties": {
+        "station": "79",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-20"
+        ],
+        "times": [
+          "2009-06-20T22:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ccbcb14-ea60-5afe-b118-b1c83cd638d0",
+      "properties": {
+        "station": "80",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-21"
+        ],
+        "times": [
+          "2009-06-21T03:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ad6c9437-2c2a-5a95-bfbe-84e91db5b893",
+      "properties": {
+        "station": "81",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-21"
+        ],
+        "times": [
+          "2009-06-21T07:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11,
+          77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41072147-a9b8-5635-87d2-4b811fa6f7fe",
+      "properties": {
+        "station": "83",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-21"
+        ],
+        "times": [
+          "2009-06-21T13:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13,
+          77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1eca2069-901a-5731-9872-8bac60144ad2",
+      "properties": {
+        "station": "84",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-21"
+        ],
+        "times": [
+          "2009-06-21T15:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14,
+          77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66aeba36-2004-508b-9768-076d8b44f9a2",
+      "properties": {
+        "station": "85",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-22"
+        ],
+        "times": [
+          "2009-06-22T02:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5cb7936f-1ed3-5b51-88a9-e2296e6673ac",
+      "properties": {
+        "station": "86",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-22"
+        ],
+        "times": [
+          "2009-06-22T04:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5,
+          78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05f8170f-ced5-5fd5-bb63-b0f37ffe2eba",
+      "properties": {
+        "station": "87",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-22"
+        ],
+        "times": [
+          "2009-06-22T07:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12,
+          78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14518c9f-4891-5ee6-8e53-dfb551f67273",
+      "properties": {
+        "station": "88",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-22"
+        ],
+        "times": [
+          "2009-06-22T10:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.503,
+          78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07abbde0-c964-5e26-a05a-202b208069a4",
+      "properties": {
+        "station": "89",
+        "expedition": "MERCLIM-2009",
+        "year": 2009,
+        "dates": [
+          "2009-06-22"
+        ],
+        "times": [
+          "2009-06-22T13:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "G.O. Sars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.589,
+          78.332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f2ee80a-4369-5df9-94e1-d5ac1a422c35",
+      "properties": {
+        "station": "Punkt 3",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-26"
+        ],
+        "times": [
+          "2009-07-26T14:56:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4303,
+          79.6384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dbe6c779-f1f4-5d16-b3f0-16df9c7d9b4f",
+      "properties": {
+        "station": "Punkt 3+0.5",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-26"
+        ],
+        "times": [
+          "2009-07-26T15:16:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3982,
+          79.6435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a9a098bc-081b-57b8-a768-c356db1633b0",
+      "properties": {
+        "station": "Punkt 4",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-26"
+        ],
+        "times": [
+          "2009-07-26T15:47:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3982,
+          79.6569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "699aadb3-af49-5a12-a8fc-9b2de2017ae8",
+      "properties": {
+        "station": "Punkt 4+0.5",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-26"
+        ],
+        "times": [
+          "2009-07-26T16:05:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.245,
+          79.6616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3341559b-dad1-5225-90e8-ee1ba1c94357",
+      "properties": {
+        "station": "Punkt 6",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-26"
+        ],
+        "times": [
+          "2009-07-26T17:11:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8131,
+          79.6954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fae9405c-e22e-5d77-932f-1c96f202374e",
+      "properties": {
+        "station": "IF1",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T10:25:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8561,
+          78.1805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73ea29a0-12c0-5c13-8d3a-6a1bc81326ad",
+      "properties": {
+        "station": "IF10",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T13:29:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1304,
+          78.2236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d841298-7010-568d-8902-b399f8769b34",
+      "properties": {
+        "station": "IF11",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T13:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1571,
+          78.2357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "446549aa-7500-5a8d-a1aa-e9f4962217a7",
+      "properties": {
+        "station": "IF12",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T14:11:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1881,
+          78.2424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6968698-730a-5837-adb9-be98c7db30d1",
+      "properties": {
+        "station": "IF13",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T14:25:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2188,
+          78.2471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "047c6bc0-c952-5fcf-8695-f39ec99fa71c",
+      "properties": {
+        "station": "IF14",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T14:39:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2483,
+          78.2534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df1ba88e-d69d-51b9-96a7-b3a68f6dacf0",
+      "properties": {
+        "station": "IF15",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T14:52:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.278,
+          78.2586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12663e66-7423-5d18-a100-83489e967451",
+      "properties": {
+        "station": "IF16",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T15:05:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2984,
+          78.2661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85d655a7-b925-5068-8579-619268000334",
+      "properties": {
+        "station": "IF2",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T10:56:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.886,
+          78.1863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f5506093-941c-582c-baee-53b14f6dbc43",
+      "properties": {
+        "station": "IF3",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T11:07:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9159,
+          78.1914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cfe4168d-2f0e-5cf8-b55f-c27724c732e8",
+      "properties": {
+        "station": "IF4",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T11:31:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9483,
+          78.1971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7322887d-2af6-5e55-b357-6210c4319866",
+      "properties": {
+        "station": "IF5",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T11:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9794,
+          78.2015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8487a02e-6c03-5280-85ce-28f6f1f57952",
+      "properties": {
+        "station": "IF6",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T12:14:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0175,
+          78.2081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bdc60eb5-6a31-5f6a-ba02-a5fc89307193",
+      "properties": {
+        "station": "IF7",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T12:28:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0436,
+          78.2122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7587b03d-eb35-5490-a4c2-b2ac961d716e",
+      "properties": {
+        "station": "IF8",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T12:51:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0762,
+          78.2178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "621cf812-29c0-5bb6-8e24-7bfa55c59367",
+      "properties": {
+        "station": "IF9",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-28"
+        ],
+        "times": [
+          "2009-07-28T13:01:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1003,
+          78.2236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc49f1b8-f975-57fd-bc35-3e5035a8a3f9",
+      "properties": {
+        "station": "KF1",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T13:06:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1307,
+          78.946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ffcd5be-659b-5076-b5a7-22d6a7765cfe",
+      "properties": {
+        "station": "KF10",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T16:34:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7603,
+          78.974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "630ddf51-6b94-5e28-9e3c-10ac104a27a7",
+      "properties": {
+        "station": "KF11",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T16:49:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7216,
+          78.9782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f6380789-6004-5d45-b64f-397c55a4d23a",
+      "properties": {
+        "station": "KF12",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T17:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6831,
+          78.9822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2b39e98-d9fa-5b38-ac2d-ed5c3485aa71",
+      "properties": {
+        "station": "KF13",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T17:29:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6505,
+          78.9858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "94c1cd14-99f2-5f2c-9c03-1157b0003564",
+      "properties": {
+        "station": "KF14",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T17:56:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.612,
+          78.9853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2a85b59-bd58-57c7-8dde-17966b73d231",
+      "properties": {
+        "station": "KF15",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T18:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5738,
+          78.9945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e0dad68f-dbb7-55e2-8a61-d71fe3053da5",
+      "properties": {
+        "station": "KF16",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T18:35:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5374,
+          78.9984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10ced36f-106c-5738-a662-e4be6bda51af",
+      "properties": {
+        "station": "KF2",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T13:36:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0682,
+          78.941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40b2bbb8-64d0-50d5-b73c-8bbea3a2bb2b",
+      "properties": {
+        "station": "KF3",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T14:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0263,
+          78.9471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b61f19c4-f584-5c67-a81f-39d68adf6d52",
+      "properties": {
+        "station": "KF4",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T14:31:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9456,
+          78.9573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "907f8563-ea9a-5f95-930c-68574be542fa",
+      "properties": {
+        "station": "KF5",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T14:44:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9107,
+          78.9609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ce1e5b66-2663-5bec-b353-c0cbf3a5d040",
+      "properties": {
+        "station": "KF6",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T15:14:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.876,
+          78.9639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "676f20a1-d18f-5fe3-840b-10389ef350b3",
+      "properties": {
+        "station": "KF7",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T15:26:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8698,
+          78.9698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21fa3aa9-5a44-51bd-9533-10828558e4f1",
+      "properties": {
+        "station": "KF8",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T15:57:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8385,
+          78.9672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cf7cd792-1f54-592b-b848-2777ef66c43d",
+      "properties": {
+        "station": "KF9",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-24"
+        ],
+        "times": [
+          "2009-07-24T16:09:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7589,
+          78.9742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e510180a-f76a-5bd3-85d6-c39f14f8e75d",
+      "properties": {
+        "station": "MF1",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-25"
+        ],
+        "times": [
+          "2009-07-25T15:01:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0636,
+          79.5634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e6d4314-787c-5a96-9893-b609c87b4744",
+      "properties": {
+        "station": "MF2",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-25"
+        ],
+        "times": [
+          "2009-07-25T15:36:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0182,
+          79.566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11e86818-9fe7-5019-b637-0473147ead27",
+      "properties": {
+        "station": "MF3",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-25"
+        ],
+        "times": [
+          "2009-07-25T15:50:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9749,
+          79.5666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "557fd889-1eba-583d-8f57-73b9b565a8b6",
+      "properties": {
+        "station": "MF4",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-25"
+        ],
+        "times": [
+          "2009-07-25T16:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9167,
+          79.5677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6b0fb5b-6bfd-5171-adb3-84d802cef367",
+      "properties": {
+        "station": "MF5",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-25"
+        ],
+        "times": [
+          "2009-07-25T16:28:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.887,
+          79.569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9a5c9f99-83c0-508d-8961-8fa931da7860",
+      "properties": {
+        "station": "MF6",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-25"
+        ],
+        "times": [
+          "2009-07-25T17:01:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8225,
+          79.5767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "609a861a-e997-5765-8da1-d41a783c72c2",
+      "properties": {
+        "station": "MF7",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-25"
+        ],
+        "times": [
+          "2009-07-25T15:50:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9749,
+          79.5666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d73a5dff-3f51-57f9-85bc-a444098b8d97",
+      "properties": {
+        "station": "MF8",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-25"
+        ],
+        "times": [
+          "2009-07-25T16:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9329,
+          79.5677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c505fa7-5fbf-54ba-9574-0348933353f9",
+      "properties": {
+        "station": "SF1",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T15:15:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5,
+          79.627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95d00162-a93f-57b9-b146-92a5a9413fa0",
+      "properties": {
+        "station": "SF2",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T16:16:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4568,
+          79.6304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58f9f52c-19ec-5fae-b54c-d03339ad995d",
+      "properties": {
+        "station": "SF3",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T16:25:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4145,
+          79.6345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89cc6155-2566-50ab-abff-b3b0bd385432",
+      "properties": {
+        "station": "SF4",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T17:02:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3367,
+          79.6438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e8e7e64-45a9-5b91-9a62-c4252c2f8e5b",
+      "properties": {
+        "station": "SF5",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T17:23:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2917,
+          79.6466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "954ecac5-fe4e-5692-ac02-154472d20dc2",
+      "properties": {
+        "station": "SF6",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T18:19:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2533,
+          79.6502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d784587c-4cdc-5f65-bda1-0a9a9f124816",
+      "properties": {
+        "station": "SF7",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T18:38:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2138,
+          79.6543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e691e5e5-bb53-5429-9aef-3b38164ad7a8",
+      "properties": {
+        "station": "SF8",
+        "expedition": "Alkekonge-2009b",
+        "year": 2009,
+        "dates": [
+          "2009-07-21"
+        ],
+        "times": [
+          "2009-07-21T19:12:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2121,
+          79.6044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c6fea24e-0276-50f9-895a-6a08353cc697",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "SANA09",
+        "year": 2009,
+        "dates": [
+          "2009-07-21",
+          "2009-07-23"
+        ],
+        "times": [
+          "2009-07-21T12:00:00Z",
+          "2009-07-23T12:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 2,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.94,
+          78.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f546b317-30b6-5d2d-bc18-fcfd6afa2be4",
+      "properties": {
+        "station": "Smeerenburg",
+        "expedition": "SANA09",
+        "year": 2009,
+        "dates": [
+          "2009-07-26"
+        ],
+        "times": [
+          "2009-07-26T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.45,
+          79.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b6cdd615-d871-5460-8156-a6a0918d10a6",
+      "properties": {
+        "station": "Trygghamna",
+        "expedition": "SANA09",
+        "year": 2009,
+        "dates": [
+          "2009-07-27"
+        ],
+        "times": [
+          "2009-07-27T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Viking Explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.825,
+          78.215
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    0.002,
+    76.937,
+    15.2984,
+    80.146
+  ]
+}

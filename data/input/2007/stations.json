@@ -1,0 +1,1733 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "922a9839-0fcf-5576-9ac2-72079167fd66",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-13",
+          "2007-05-14",
+          "2007-07-26",
+          "2007-08-02",
+          "2007-10-03",
+          "2007-10-04",
+          "2007-10-05"
+        ],
+        "times": [
+          "2007-05-13T18:20:00Z",
+          "2007-05-13T18:47:00Z",
+          "2007-05-13T19:13:00Z",
+          "2007-05-13T19:39:00Z",
+          "2007-05-13T21:39:00Z",
+          "2007-05-13T22:11:00Z",
+          "2007-05-13T22:54:00Z",
+          "2007-05-14T04:49:00Z",
+          "2007-05-14T11:09:00Z",
+          "2007-07-26T05:45:00Z",
+          "2007-07-26T05:50:00Z",
+          "2007-08-02T22:00:00Z",
+          "2007-10-03T00:30:00Z",
+          "2007-10-03T19:00:00Z",
+          "2007-10-03T19:30:00Z",
+          "2007-10-03T23:00:00Z",
+          "2007-10-04T00:30:00Z",
+          "2007-10-05T03:00:00Z",
+          "2007-10-05T05:00:00Z"
+        ],
+        "visits": 19,
+        "period_days": 144,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Jan Mayen",
+          "Oceania"
+        ],
+        "area_km2": 0.45103867668310543
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.94,
+              78.96
+            ],
+            [
+              11.91,
+              78.95
+            ],
+            [
+              11.957,
+              78.953
+            ],
+            [
+              11.94,
+              78.96
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c2fef0d3-bac2-5db7-b1ea-f67850896e5c",
+      "properties": {
+        "station": "V6",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-12",
+          "2007-05-15",
+          "2007-07-24",
+          "2007-07-25",
+          "2007-07-28",
+          "2007-08-02",
+          "2007-10-06"
+        ],
+        "times": [
+          "2007-05-12T07:56:00Z",
+          "2007-05-12T09:12:00Z",
+          "2007-05-12T10:16:00Z",
+          "2007-05-12T11:45:00Z",
+          "2007-05-15T23:00:00Z",
+          "2007-07-24T21:45:00Z",
+          "2007-07-24T22:05:00Z",
+          "2007-07-24T22:15:00Z",
+          "2007-07-24T23:30:00Z",
+          "2007-07-25T00:00:00Z",
+          "2007-07-25T00:50:00Z",
+          "2007-07-28T06:53:00Z",
+          "2007-07-28T08:30:00Z",
+          "2007-08-02T00:10:00Z",
+          "2007-10-06T04:00:00Z",
+          "2007-10-06T05:00:00Z",
+          "2007-10-06T06:00:00Z",
+          "2007-10-06T07:00:00Z"
+        ],
+        "visits": 18,
+        "period_days": 146,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Jan Mayen",
+          "Oceania"
+        ],
+        "area_km2": 7.077109331399235
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.77,
+              78.9
+            ],
+            [
+              7.85,
+              78.872
+            ],
+            [
+              7.755,
+              78.911
+            ],
+            [
+              7.263,
+              78.9067
+            ],
+            [
+              7.77,
+              78.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "928c101d-d501-5dd9-9a72-a541cc4dfb18",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-13",
+          "2007-07-25",
+          "2007-07-26",
+          "2007-07-27",
+          "2007-08-02",
+          "2007-10-04"
+        ],
+        "times": [
+          "2007-05-13T10:30:00Z",
+          "2007-05-13T11:06:00Z",
+          "2007-05-13T11:35:00Z",
+          "2007-05-13T12:03:00Z",
+          "2007-07-25T18:40:00Z",
+          "2007-07-25T19:30:00Z",
+          "2007-07-25T20:15:00Z",
+          "2007-07-25T20:30:00Z",
+          "2007-07-26T23:23:00Z",
+          "2007-07-27T00:20:00Z",
+          "2007-08-02T16:00:00Z",
+          "2007-10-04T07:00:00Z",
+          "2007-10-04T09:30:00Z"
+        ],
+        "visits": 13,
+        "period_days": 143,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Jan Mayen",
+          "Oceania"
+        ],
+        "area_km2": 0.05419500769249145
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.44,
+              79.01
+            ],
+            [
+              11.415,
+              79.016
+            ],
+            [
+              11.427,
+              79.012
+            ],
+            [
+              11.42,
+              79.0117
+            ],
+            [
+              11.44,
+              79.01
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3fe251ad-e1f6-54e3-a86b-b256875f5c3c",
+      "properties": {
+        "station": "V10",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-12",
+          "2007-05-15",
+          "2007-07-27",
+          "2007-08-02",
+          "2007-10-05"
+        ],
+        "times": [
+          "2007-05-12T17:06:00Z",
+          "2007-05-12T17:16:00Z",
+          "2007-05-12T17:56:00Z",
+          "2007-05-12T18:39:00Z",
+          "2007-05-12T19:04:00Z",
+          "2007-05-15T06:56:00Z",
+          "2007-07-27T12:00:00Z",
+          "2007-07-27T14:05:00Z",
+          "2007-08-02T05:30:00Z",
+          "2007-10-05T22:00:00Z",
+          "2007-10-05T23:00:00Z"
+        ],
+        "visits": 11,
+        "period_days": 146,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Jan Mayen",
+          "Oceania"
+        ],
+        "area_km2": 0.11294076179477863
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.54,
+              78.94
+            ],
+            [
+              8.514,
+              78.933
+            ],
+            [
+              8.535,
+              78.935
+            ],
+            [
+              8.54,
+              78.94
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10e71901-7f80-5e39-a6cb-00ae0a0b7e42",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-13",
+          "2007-05-17",
+          "2007-07-26",
+          "2007-08-02",
+          "2007-10-04"
+        ],
+        "times": [
+          "2007-05-13T14:13:00Z",
+          "2007-05-13T14:30:00Z",
+          "2007-05-17T01:24:00Z",
+          "2007-05-17T02:02:00Z",
+          "2007-07-26T21:15:00Z",
+          "2007-07-26T21:45:00Z",
+          "2007-08-02T20:00:00Z",
+          "2007-10-04T01:30:00Z",
+          "2007-10-04T04:00:00Z",
+          "2007-10-04T05:00:00Z"
+        ],
+        "visits": 10,
+        "period_days": 143,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Jan Mayen",
+          "Oceania"
+        ],
+        "area_km2": 83.00034121991698
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.66,
+              78.99
+            ],
+            [
+              12.26,
+              78.99
+            ],
+            [
+              11.741,
+              78.979
+            ],
+            [
+              11.74,
+              78.9833
+            ],
+            [
+              11.66,
+              79.99
+            ],
+            [
+              11.66,
+              78.99
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b58a6c89-e338-5f0a-bbe9-149b4b0a63af",
+      "properties": {
+        "station": "V12",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-12",
+          "2007-07-27",
+          "2007-08-02",
+          "2007-10-05"
+        ],
+        "times": [
+          "2007-05-12T21:57:00Z",
+          "2007-05-12T22:30:00Z",
+          "2007-05-12T22:57:00Z",
+          "2007-05-12T23:28:00Z",
+          "2007-07-27T09:30:00Z",
+          "2007-08-02T08:45:00Z",
+          "2007-10-05T16:30:00Z",
+          "2007-10-05T17:00:00Z",
+          "2007-10-05T17:30:00Z"
+        ],
+        "visits": 9,
+        "period_days": 145,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Jan Mayen",
+          "Oceania"
+        ],
+        "area_km2": 0.050933516393867055
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.5,
+              78.98
+            ],
+            [
+              9.51,
+              78.9767
+            ],
+            [
+              9.51,
+              78.981
+            ],
+            [
+              9.5,
+              78.98
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df97a403-3394-563e-a58c-ae5272295469",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-13",
+          "2007-07-27",
+          "2007-08-02",
+          "2007-10-04"
+        ],
+        "times": [
+          "2007-05-13T05:21:00Z",
+          "2007-05-13T06:22:00Z",
+          "2007-05-13T07:10:00Z",
+          "2007-05-13T08:10:00Z",
+          "2007-07-27T06:30:00Z",
+          "2007-08-02T14:00:00Z",
+          "2007-10-04T11:30:00Z",
+          "2007-10-04T12:30:00Z"
+        ],
+        "visits": 8,
+        "period_days": 144,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Jan Mayen",
+          "Oceania"
+        ],
+        "area_km2": 6.386096422429114
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.5,
+              78.98
+            ],
+            [
+              11.13,
+              79.04
+            ],
+            [
+              11.143,
+              79.045
+            ],
+            [
+              11.13,
+              79.0433
+            ],
+            [
+              9.5,
+              78.98
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "359a1f23-8341-50fd-97f4-ef45ba6731e7",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-14",
+          "2007-08-03",
+          "2007-10-03",
+          "2007-10-05"
+        ],
+        "times": [
+          "2007-05-14T01:09:00Z",
+          "2007-05-14T01:23:00Z",
+          "2007-05-14T01:48:00Z",
+          "2007-08-03T02:40:00Z",
+          "2007-10-03T14:30:00Z",
+          "2007-10-03T15:00:00Z",
+          "2007-10-05T01:00:00Z"
+        ],
+        "visits": 7,
+        "period_days": 143,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Lance",
+          "Oceania"
+        ],
+        "area_km2": 1.5595498285138212
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.26,
+              78.97
+            ],
+            [
+              12.448,
+              78.8917
+            ],
+            [
+              12.26,
+              78.977
+            ],
+            [
+              12.26,
+              78.97
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a9b0ca24-d679-5e29-8ed5-6524a94651eb",
+      "properties": {
+        "station": "Kb4",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-07-26",
+          "2007-10-03"
+        ],
+        "times": [
+          "2007-07-26T02:40:00Z",
+          "2007-07-26T02:45:00Z",
+          "2007-07-26T02:50:00Z",
+          "2007-07-26T03:00:00Z",
+          "2007-07-26T03:40:00Z",
+          "2007-07-26T04:20:00Z",
+          "2007-10-03T15:30:00Z",
+          "2007-10-03T16:00:00Z"
+        ],
+        "visits": 8,
+        "period_days": 69,
+        "warn": "multiple-vessels",
+        "vessels": [
+          "Jan Mayen",
+          "Lance"
+        ],
+        "distance_km": 0.14971915721165394
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.193,
+            78.91
+          ],
+          [
+            12.2,
+            78.91
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14581124-1036-5c65-b7cb-c836d67034aa",
+      "properties": {
+        "station": "RIB",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-10-07"
+        ],
+        "times": [
+          "2007-10-07T17:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.16,
+          80.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4646c061-4ea7-5e33-8357-61947485c253",
+      "properties": {
+        "station": "D11",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-17"
+        ],
+        "times": [
+          "2007-05-17T19:32:00Z",
+          "2007-05-17T20:21:00Z",
+          "2007-05-17T20:58:00Z",
+          "2007-05-17T21:49:00Z"
+        ],
+        "visits": 4,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.29,
+          78.233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "307a9943-eaac-51f2-a836-8cfe38f59ddc",
+      "properties": {
+        "station": "SH",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-10-07"
+        ],
+        "times": [
+          "2007-10-07T10:30:00Z",
+          "2007-10-07T11:00:00Z",
+          "2007-10-07T11:30:00Z",
+          "2007-10-07T12:00:00Z",
+          "2007-10-07T12:30:00Z",
+          "2007-10-07T13:00:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.34,
+          80.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "461dca54-c7f0-532e-96bd-468e3e11cf5f",
+      "properties": {
+        "station": "V14",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-08-02"
+        ],
+        "times": [
+          "2007-08-02T11:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Oceania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.477,
+          79.0067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac705f81-3e7d-55d8-a3f0-f9817cb2ad49",
+      "properties": {
+        "station": "D4",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-18"
+        ],
+        "times": [
+          "2007-05-18T06:59:00Z",
+          "2007-05-18T07:21:00Z",
+          "2007-05-18T07:39:00Z"
+        ],
+        "visits": 3,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.85,
+          78.322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9374a08c-eb7a-591c-9da1-d689dc7c624f",
+      "properties": {
+        "station": "EK60-10",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T11:23:00Z",
+          "2007-05-16T13:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6335,
+          80.0113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bdbcbf43-0326-51ba-9e70-97d47e520b55",
+      "properties": {
+        "station": "EK60-12",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T14:35:00Z",
+          "2007-05-16T14:56:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0317,
+          79.0279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "187a4607-a4d3-5182-8eee-6fe593930bbf",
+      "properties": {
+        "station": "EK60-13",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T15:40:00Z",
+          "2007-05-16T15:57:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0475,
+          80.0446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42acf3ca-f681-5847-bd30-c115ac8d197a",
+      "properties": {
+        "station": "EK60-2",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T02:10:00Z",
+          "2007-05-16T02:35:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 0.15550946564986287
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.3208,
+            78.8779
+          ],
+          [
+            8.32805,
+            78.8779
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f69bcbb1-c48c-5ff8-8a03-678eccc0ff59",
+      "properties": {
+        "station": "EK60-3",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T03:29:00Z",
+          "2007-05-16T03:50:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3393,
+          78.8946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "901f5ec8-0451-52df-bee0-bc5baa6fd52e",
+      "properties": {
+        "station": "EK60-4",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T04:26:00Z",
+          "2007-05-16T04:42:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8218,
+          78.9113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7228eec6-1867-50e6-ba26-d54a2011f739",
+      "properties": {
+        "station": "EK60-42",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T23:45:00Z",
+          "2007-05-16T23:59:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6268,
+          79.1113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "75241712-0dd7-5e33-8324-be6784a2b6fd",
+      "properties": {
+        "station": "EK60-5",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T05:50:00Z",
+          "2007-05-16T06:05:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8054,
+          79.9279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15521c79-7431-5ee9-bd2f-183cdc5b4677",
+      "properties": {
+        "station": "EK60-6",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T06:56:00Z",
+          "2007-05-16T07:10:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4331,
+          79.9446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66de1bfc-0bd6-589c-b410-35c6113afedf",
+      "properties": {
+        "station": "EK60-7",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T07:58:00Z",
+          "2007-05-16T08:11:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4749,
+          78.9613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5272dd7-6df2-5ea8-9d0b-a0056e669c4a",
+      "properties": {
+        "station": "EK60-8",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T09:08:00Z",
+          "2007-05-16T09:27:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1092,
+          78.9779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22778afd-23c2-576a-bc1c-8c191ab0f454",
+      "properties": {
+        "station": "EK60-9",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T10:23:00Z",
+          "2007-05-16T10:40:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0955,
+          79.9946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "869e2ca5-4128-58da-975c-e6ce4366b8b5",
+      "properties": {
+        "station": "EK60-KF inner",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-17"
+        ],
+        "times": [
+          "2007-05-17T04:39:00Z",
+          "2007-05-17T05:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2517,
+          79.1446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db397ba5-9ee3-5908-96e4-4c91152ad049",
+      "properties": {
+        "station": "EK60-KF middle",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-17"
+        ],
+        "times": [
+          "2007-05-17T03:12:00Z",
+          "2007-05-17T03:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6268,
+          79.1279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b150e4e-c405-5e6e-8eed-d842eececb89",
+      "properties": {
+        "station": "EK60-KF outer",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T23:00:00Z",
+          "2007-05-16T23:13:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6063,
+          80.0946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d1d5b78c-d0d8-5664-85d3-d79aa071b977",
+      "properties": {
+        "station": "EK60-KRF inner",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T20:04:00Z",
+          "2007-05-16T20:16:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.76,
+          80.0779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9752f930-762d-5d6c-aa1f-f569cdfdf31a",
+      "properties": {
+        "station": "EK60-KRF outer",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T18:28:00Z",
+          "2007-05-16T18:40:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6111,
+          80.0613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e670c7d-1413-518f-b0e0-6aa9f5236ada",
+      "properties": {
+        "station": "V6 / EK60-1",
+        "expedition": "MariClim-2007",
+        "year": 2007,
+        "dates": [
+          "2007-05-16"
+        ],
+        "times": [
+          "2007-05-16T01:00:00Z",
+          "2007-05-16T01:23:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8804,
+          78.8613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8b4bc23-d0e3-5311-9be2-6554fb8c8e68",
+      "properties": {
+        "station": "RIB",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-10-07",
+          "2007-10-08"
+        ],
+        "times": [
+          "2007-10-07T16:00:00Z",
+          "2007-10-07T18:00:00Z",
+          "2007-10-08T08:00:00Z",
+          "2007-10-08T08:30:00Z",
+          "2007-10-08T09:00:00Z",
+          "2007-10-08T09:30:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.16,
+          80.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a422e3f-060e-5455-9140-9a0ef0985c13",
+      "properties": {
+        "station": "Chyp1",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-24"
+        ],
+        "times": [
+          "2007-07-24T18:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.307,
+          78.871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c08b077a-9f42-55c6-8739-38a8ff9a5a5d",
+      "properties": {
+        "station": "D12",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-24"
+        ],
+        "times": [
+          "2007-07-24T14:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.919,
+          78.234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a62a0e5-e9e5-535a-8aea-6ffd3f1d2b93",
+      "properties": {
+        "station": "D2b",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-23"
+        ],
+        "times": [
+          "2007-07-23T22:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.817,
+          78.383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3f39283f-f518-593f-9e7a-431486dabb76",
+      "properties": {
+        "station": "D3",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-24"
+        ],
+        "times": [
+          "2007-07-24T00:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.578,
+          78.339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5b1858bf-502b-5b80-b476-2879443e3636",
+      "properties": {
+        "station": "D4b",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-24"
+        ],
+        "times": [
+          "2007-07-24T03:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.394,
+          78.156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed415e5b-85a8-557b-92cc-35e97f1f59d6",
+      "properties": {
+        "station": "D5",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-24"
+        ],
+        "times": [
+          "2007-07-24T04:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.952,
+          78.031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a741d51-17f8-5255-b2fd-ae97bf9c7e16",
+      "properties": {
+        "station": "D7",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-24"
+        ],
+        "times": [
+          "2007-07-24T06:20:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.184,
+          78.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "192e20dc-39f2-5a4e-a129-b6dfe6da64da",
+      "properties": {
+        "station": "D9",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-24"
+        ],
+        "times": [
+          "2007-07-24T09:50:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.157,
+          78.234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "baa2517b-feaf-5458-84b7-04dbe8bbe195",
+      "properties": {
+        "station": "KE2",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-22"
+        ],
+        "times": [
+          "2007-07-22T18:40:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.289,
+          78.236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b85fe4e-1e6b-5ae8-b182-9121eee361cf",
+      "properties": {
+        "station": "KE4",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-23"
+        ],
+        "times": [
+          "2007-07-23T02:40:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.869,
+          78.248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b46972fb-19e7-57ed-977d-708aca5c17c1",
+      "properties": {
+        "station": "KE6",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-22"
+        ],
+        "times": [
+          "2007-07-22T21:40:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.137,
+          78.316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a20ed249-d14c-5bb4-8e2a-51dffc1632b0",
+      "properties": {
+        "station": "KE7",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-23"
+        ],
+        "times": [
+          "2007-07-23T04:09:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.998,
+          78.284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3c5630f4-17e3-5eda-a905-665236177aac",
+      "properties": {
+        "station": "KE8",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-23"
+        ],
+        "times": [
+          "2007-07-23T09:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.076,
+          78.242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8eae926b-ab33-5081-b678-b2d3adcdb36c",
+      "properties": {
+        "station": "KE9",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-23"
+        ],
+        "times": [
+          "2007-07-23T07:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.207,
+          78.279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a97ed9a-580a-5ef0-9e20-0ad962976ae0",
+      "properties": {
+        "station": "KE1",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-22"
+        ],
+        "times": [
+          "2007-07-22T14:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.03,
+          78.167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "717e32cc-233d-59b3-8759-06747738dbfc",
+      "properties": {
+        "station": "KE3",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-22"
+        ],
+        "times": [
+          "2007-07-22T23:55:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.707,
+          78.327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4220a7f2-8f9c-569b-bd1f-41b3fa3dd29d",
+      "properties": {
+        "station": "KE5",
+        "expedition": "NON07",
+        "year": 2007,
+        "dates": [
+          "2007-07-22"
+        ],
+        "times": [
+          "2007-07-22T16:20:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.286,
+          78.236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9714d20d-89fb-50be-9ecf-af632e0a12c3",
+      "properties": {
+        "station": "Stig's hole",
+        "expedition": "Cleopatra-2007",
+        "year": 2007,
+        "dates": [
+          "2007-03-06",
+          "2007-04-23",
+          "2007-05-01",
+          "2007-06-05",
+          "2007-07-16",
+          "2007-08-22",
+          "2007-09-04"
+        ],
+        "times": [
+          "2007-03-06T11:30:00Z",
+          "2007-04-23T14:30:00Z",
+          "2007-05-01T10:45:00Z",
+          "2007-06-05T12:50:00Z",
+          "2007-06-05T13:00:00Z",
+          "2007-06-05T13:15:00Z",
+          "2007-06-05T13:40:00Z",
+          "2007-07-16T09:00:00Z",
+          "2007-07-16T09:25:00Z",
+          "2007-07-16T09:45:00Z",
+          "2007-07-16T10:10:00Z",
+          "2007-08-22T14:30:00Z",
+          "2007-09-04T11:00:00Z",
+          "2007-09-04T11:20:00Z",
+          "2007-09-04T11:40:00Z",
+          "2007-09-04T12:00:00Z"
+        ],
+        "visits": 16,
+        "period_days": 182,
+        "vessel": "CONVEYANCE-MISSING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.29,
+          80.2659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44400d23-bc9a-569a-8eed-94726dd13952",
+      "properties": {
+        "station": "309",
+        "expedition": "2007-04-EXPEDITION-MISSING",
+        "year": 2007,
+        "dates": [
+          "2007-04-19"
+        ],
+        "times": [
+          "2007-04-19T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "CONVEYANCE-MISSING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97,
+          67.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2597a17-ef56-5833-8d60-4dfe2c09dd82",
+      "properties": {
+        "station": "392",
+        "expedition": "2007-05-EXPEDITION-MISSING",
+        "year": 2007,
+        "dates": [
+          "2007-05-22"
+        ],
+        "times": [
+          "2007-05-22T12:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "CONVEYANCE-MISSING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.37,
+          67.45
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    7.263,
+    67.45,
+    22.34,
+    80.27
+  ]
+}

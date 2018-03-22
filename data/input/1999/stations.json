@@ -1,0 +1,1578 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "9a78b5df-1eba-5d8e-a6f7-d2d985928d5f",
+      "properties": {
+        "station": "MØ 049B",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-17"
+        ],
+        "times": [
+          "1999-05-17T04:45:00Z",
+          "1999-05-17T05:10:00Z",
+          "1999-05-17T14:45:00Z",
+          "1999-05-17T16:20:00Z",
+          "1999-05-17T17:00:00Z",
+          "1999-05-17T17:15:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 0.7248524001200034
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27,
+            77.45
+          ],
+          [
+            27.03,
+            77.45
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b4adb95-0ad0-5e4b-b0c8-dc32e46a2604",
+      "properties": {
+        "station": "MØ 031A",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-09"
+        ],
+        "times": [
+          "1999-05-09T11:00:00Z",
+          "1999-05-09T14:05:00Z",
+          "1999-05-09T14:20:00Z",
+          "1999-05-09T14:30:00Z",
+          "1999-05-09T16:00:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 4.880947970957415
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.92,
+            76.92
+          ],
+          [
+            33,
+            76.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "033a1609-09aa-5ae3-bec4-543598717150",
+      "properties": {
+        "station": "MØ 033A",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-11",
+          "1999-05-12"
+        ],
+        "times": [
+          "1999-05-11T16:20:00Z",
+          "1999-05-11T16:35:00Z",
+          "1999-05-11T16:50:00Z",
+          "1999-05-11T19:20:00Z",
+          "1999-05-11T19:40:00Z",
+          "1999-05-11T20:10:00Z",
+          "1999-05-12T16:00:00Z"
+        ],
+        "visits": 7,
+        "period_days": 0,
+        "vessel": "Lance",
+        "area_km2": 28.188296830626808
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.82,
+              76.82
+            ],
+            [
+              32.86,
+              76.8
+            ],
+            [
+              32.53,
+              76.8
+            ],
+            [
+              33.13,
+              76.75
+            ],
+            [
+              32.82,
+              76.82
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "98a37991-0dbb-5443-b2a2-6cf88b739bc5",
+      "properties": {
+        "station": "MØ 034A",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-12",
+          "1999-05-13"
+        ],
+        "times": [
+          "1999-05-12T22:55:00Z",
+          "1999-05-13T10:50:00Z",
+          "1999-05-13T13:20:00Z",
+          "1999-05-13T13:50:00Z",
+          "1999-05-13T16:15:00Z",
+          "1999-05-13T16:35:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance",
+        "area_km2": 5.2983085704223525
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.89,
+              76.64
+            ],
+            [
+              33.12,
+              76.63
+            ],
+            [
+              33.17,
+              76.65
+            ],
+            [
+              33.31,
+              76.65
+            ],
+            [
+              32.89,
+              76.64
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "324fee96-d227-52ee-ad60-c9c23ba46d26",
+      "properties": {
+        "station": "MØ 015T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-07"
+        ],
+        "times": [
+          "1999-05-07T12:45:00Z",
+          "1999-05-07T13:00:00Z",
+          "1999-05-07T15:48:00Z",
+          "1999-05-07T16:02:00Z",
+          "1999-05-07T16:23:00Z",
+          "1999-05-07T17:30:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance",
+        "area_km2": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.42,
+              75.87
+            ],
+            [
+              34.41,
+              75.87
+            ],
+            [
+              34.4,
+              75.87
+            ],
+            [
+              34.42,
+              75.87
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4efa1a2b-4c35-5ae5-abe8-217dc00bdea0",
+      "properties": {
+        "station": "MØ 035A",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-14"
+        ],
+        "times": [
+          "1999-05-14T13:00:00Z",
+          "1999-05-14T17:10:00Z",
+          "1999-05-14T17:50:00Z",
+          "1999-05-14T18:50:00Z",
+          "1999-05-14T19:25:00Z",
+          "1999-05-14T20:05:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance",
+        "area_km2": 2.976912815867039
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.33,
+              76.12
+            ],
+            [
+              32.62,
+              76.08
+            ],
+            [
+              32.67,
+              76.08
+            ],
+            [
+              32.33,
+              76.12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e61dabdf-3899-5ce8-b6e9-69858f38e2ef",
+      "properties": {
+        "station": "MØ 050B",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-18"
+        ],
+        "times": [
+          "1999-05-18T19:45:00Z",
+          "1999-05-18T21:45:00Z",
+          "1999-05-18T22:45:00Z",
+          "1999-05-18T22:55:00Z",
+          "1999-05-18T23:10:00Z"
+        ],
+        "visits": 5,
+        "period_days": 0,
+        "vessel": "Lance",
+        "area_km2": 3.3539745192387787
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.17,
+              77.37
+            ],
+            [
+              27.26,
+              77.62
+            ],
+            [
+              27.16,
+              77.37
+            ],
+            [
+              27.17,
+              77.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "721f9fdc-6218-5001-9583-65d451866f94",
+      "properties": {
+        "station": "MØ 051B",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-20"
+        ],
+        "times": [
+          "1999-05-20T04:15:00Z",
+          "1999-05-20T04:30:00Z",
+          "1999-05-20T04:40:00Z",
+          "1999-05-20T15:00:00Z",
+          "1999-05-20T19:30:00Z",
+          "1999-05-20T20:00:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance",
+        "area_km2": 9.321019487224916
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.95,
+              77.13
+            ],
+            [
+              28.13,
+              77
+            ],
+            [
+              28.14,
+              77.03
+            ],
+            [
+              27.95,
+              77.13
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12522f81-e122-5dc4-96cd-65ad2ae62a99",
+      "properties": {
+        "station": "MØ 052B",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-21"
+        ],
+        "times": [
+          "1999-05-21T16:00:00Z",
+          "1999-05-21T16:15:00Z",
+          "1999-05-21T16:30:00Z",
+          "1999-05-21T16:55:00Z",
+          "1999-05-21T20:00:00Z",
+          "1999-05-21T20:30:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 1.141998045934951
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.67,
+            76.46
+          ],
+          [
+            27.68,
+            76.47
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74871296-ed3c-5667-849a-dd4f9397ab27",
+      "properties": {
+        "station": "MØ 003T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-05"
+        ],
+        "times": [
+          "1999-05-05T13:54:00Z",
+          "1999-05-05T14:21:00Z",
+          "1999-05-05T14:41:00Z",
+          "1999-05-05T17:19:00Z",
+          "1999-05-05T17:31:00Z",
+          "1999-05-05T19:05:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Lance",
+        "distance_km": 1.1119508023343176
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.12,
+            76.41
+          ],
+          [
+            27.12,
+            76.4
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39a045b3-364c-5c94-987e-2edb45a33285",
+      "properties": {
+        "station": "MØ 005T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-06"
+        ],
+        "times": [
+          "1999-05-06T01:00:00Z",
+          "1999-05-06T01:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.45,
+          76.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b7d0785d-2876-509d-9fb5-edb8286fe221",
+      "properties": {
+        "station": "MØ 006T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-06"
+        ],
+        "times": [
+          "1999-05-06T04:02:00Z",
+          "1999-05-06T04:48:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.07,
+          76.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "820a1d88-92c3-5934-b32d-817a33299d6a",
+      "properties": {
+        "station": "MØ 007T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-06"
+        ],
+        "times": [
+          "1999-05-06T06:50:00Z",
+          "1999-05-06T07:52:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.67,
+          76.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7919d975-0b78-5626-a25b-eaf56ca6fc82",
+      "properties": {
+        "station": "MØ 008T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-06"
+        ],
+        "times": [
+          "1999-05-06T13:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.98,
+          76.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f2d43a0-e4ce-5cb4-bc93-608237b3266e",
+      "properties": {
+        "station": "MØ 009T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-06"
+        ],
+        "times": [
+          "1999-05-06T16:15:00Z",
+          "1999-05-06T16:45:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.63,
+          76.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38b4cb88-5602-52b0-94c0-89875d0671c7",
+      "properties": {
+        "station": "MØ 010T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-06"
+        ],
+        "times": [
+          "1999-05-06T19:15:00Z",
+          "1999-05-06T20:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.35,
+          76.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0c3f7b3-0026-5301-90eb-285dc1724921",
+      "properties": {
+        "station": "MØ 011T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-06"
+        ],
+        "times": [
+          "1999-05-06T22:04:00Z",
+          "1999-05-06T22:40:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.98,
+          76.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "637f3b7f-e36d-5ed3-8b5d-71404e97c6fe",
+      "properties": {
+        "station": "MØ 012T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-07"
+        ],
+        "times": [
+          "1999-05-07T00:50:00Z",
+          "1999-05-07T02:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.67,
+          76.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e09d5e8d-6aba-5404-864a-01570e378a40",
+      "properties": {
+        "station": "MØ 014T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-07"
+        ],
+        "times": [
+          "1999-05-07T06:50:00Z",
+          "1999-05-07T07:20:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9,
+          75.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84147d68-8fbd-5ebb-9d5f-0d3b66165ce1",
+      "properties": {
+        "station": "MØ 004T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-05"
+        ],
+        "times": [
+          "1999-05-05T22:30:00Z",
+          "1999-05-05T23:30:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.77,
+          76.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f97dceb5-972d-5404-9455-cfb911b145f5",
+      "properties": {
+        "station": "MØ 013T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-07"
+        ],
+        "times": [
+          "1999-05-07T04:10:00Z",
+          "1999-05-07T04:55:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.37,
+          76.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "54a5fc66-3905-5eea-86ea-ec42a53cbe50",
+      "properties": {
+        "station": "MØ 002T",
+        "expedition": "MARINØK-1999",
+        "year": 1999,
+        "dates": [
+          "1999-05-05"
+        ],
+        "times": [
+          "1999-05-05T03:50:00Z",
+          "1999-05-05T05:15:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Lance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.37,
+          76.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68f20fb6-76a4-5fbd-9e03-0e572fae4186",
+      "properties": {
+        "station": "882",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-09-26",
+          "1999-09-27",
+          "1999-09-28"
+        ],
+        "times": [
+          "1999-09-26T08:30:00Z",
+          "1999-09-26T09:25:00Z",
+          "1999-09-26T09:30:00Z",
+          "1999-09-26T12:00:00Z",
+          "1999-09-26T13:00:00Z",
+          "1999-09-26T13:05:00Z",
+          "1999-09-26T15:10:00Z",
+          "1999-09-26T15:35:00Z",
+          "1999-09-26T16:40:00Z",
+          "1999-09-26T17:10:00Z",
+          "1999-09-26T17:50:00Z",
+          "1999-09-26T19:10:00Z",
+          "1999-09-26T20:00:00Z",
+          "1999-09-26T20:15:00Z",
+          "1999-09-27T08:00:00Z",
+          "1999-09-27T09:00:00Z",
+          "1999-09-27T10:00:00Z",
+          "1999-09-27T12:00:00Z",
+          "1999-09-27T12:35:00Z",
+          "1999-09-27T13:00:00Z",
+          "1999-09-27T13:20:00Z",
+          "1999-09-27T13:30:00Z",
+          "1999-09-27T13:45:00Z",
+          "1999-09-27T16:00:00Z",
+          "1999-09-27T17:50:00Z",
+          "1999-09-27T18:00:00Z",
+          "1999-09-27T18:10:00Z",
+          "1999-09-27T18:25:00Z",
+          "1999-09-27T18:40:00Z",
+          "1999-09-27T19:00:00Z",
+          "1999-09-27T22:00:00Z",
+          "1999-09-27T23:00:00Z",
+          "1999-09-28T04:00:00Z",
+          "1999-09-28T06:00:00Z",
+          "1999-09-28T08:30:00Z",
+          "1999-09-28T10:00:00Z",
+          "1999-09-28T12:00:00Z",
+          "1999-09-28T12:30:00Z",
+          "1999-09-28T13:00:00Z",
+          "1999-09-28T13:20:00Z",
+          "1999-09-28T14:00:00Z",
+          "1999-09-28T15:00:00Z",
+          "1999-09-28T16:00:00Z",
+          "1999-09-28T17:15:00Z"
+        ],
+        "visits": 44,
+        "period_days": 2,
+        "vessel": "Jan Mayen",
+        "area_km2": 261.9802986577767
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.9,
+              82.43
+            ],
+            [
+              30.68,
+              82.68
+            ],
+            [
+              30.9,
+              82.63
+            ],
+            [
+              30.6,
+              82.63
+            ],
+            [
+              30.7,
+              82.63
+            ],
+            [
+              30.7,
+              82.6
+            ],
+            [
+              30.73,
+              82.58
+            ],
+            [
+              31.27,
+              82.47
+            ],
+            [
+              30.6,
+              82.52
+            ],
+            [
+              30.73,
+              82.52
+            ],
+            [
+              30.73,
+              82.51
+            ],
+            [
+              31,
+              82.5
+            ],
+            [
+              31.22,
+              82.48
+            ],
+            [
+              31.92,
+              82.47
+            ],
+            [
+              31.67,
+              82.47
+            ],
+            [
+              32.9,
+              82.43
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4254bc9d-0e2d-5071-87b1-2933f0d488b8",
+      "properties": {
+        "station": "890",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-10-03",
+          "1999-10-04",
+          "1999-10-05"
+        ],
+        "times": [
+          "1999-10-03T12:00:00Z",
+          "1999-10-03T15:00:00Z",
+          "1999-10-03T15:10:00Z",
+          "1999-10-03T15:30:00Z",
+          "1999-10-03T15:35:00Z",
+          "1999-10-03T15:50:00Z",
+          "1999-10-03T16:00:00Z",
+          "1999-10-03T16:15:00Z",
+          "1999-10-03T16:35:00Z",
+          "1999-10-03T16:55:00Z",
+          "1999-10-03T17:15:00Z",
+          "1999-10-03T17:30:00Z",
+          "1999-10-03T17:45:00Z",
+          "1999-10-04T12:30:00Z",
+          "1999-10-04T13:00:00Z",
+          "1999-10-04T13:20:00Z",
+          "1999-10-04T14:05:00Z",
+          "1999-10-04T14:15:00Z",
+          "1999-10-04T14:25:00Z",
+          "1999-10-04T16:00:00Z",
+          "1999-10-04T17:00:00Z",
+          "1999-10-04T22:50:00Z",
+          "1999-10-04T23:10:00Z",
+          "1999-10-04T23:50:00Z",
+          "1999-10-05T02:55:00Z",
+          "1999-10-05T03:15:00Z",
+          "1999-10-05T03:45:00Z",
+          "1999-10-05T05:58:00Z",
+          "1999-10-05T06:55:00Z",
+          "1999-10-05T09:00:00Z"
+        ],
+        "visits": 30,
+        "period_days": 1,
+        "vessel": "Jan Mayen",
+        "area_km2": 2.011751438052695
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.1,
+              76.75
+            ],
+            [
+              8.17,
+              76.58
+            ],
+            [
+              8.17,
+              76.6
+            ],
+            [
+              8.1,
+              76.75
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c790976-305d-58eb-959c-10cc0c982aae",
+      "properties": {
+        "station": "Vestisen",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-09-30",
+          "1999-10-01",
+          "1999-10-02",
+          "1999-10-04",
+          "1999-10-05",
+          "1999-10-06",
+          "1999-10-11",
+          "1999-10-21"
+        ],
+        "times": [
+          "1999-09-30T09:00:00Z",
+          "1999-10-01T15:00:00Z",
+          "1999-10-02T18:30:00Z",
+          "1999-10-04T12:30:00Z",
+          "1999-10-05T20:20:00Z",
+          "1999-10-05T20:45:00Z",
+          "1999-10-06T08:45:00Z",
+          "1999-10-06T09:30:00Z",
+          "1999-10-06T10:45:00Z",
+          "1999-10-06T11:00:00Z",
+          "1999-10-06T11:10:00Z",
+          "1999-10-06T13:30:00Z",
+          "1999-10-06T14:10:00Z",
+          "1999-10-06T14:40:00Z",
+          "1999-10-06T14:50:00Z",
+          "1999-10-06T15:15:00Z",
+          "1999-10-06T16:00:00Z",
+          "1999-10-06T17:20:00Z",
+          "1999-10-06T17:40:00Z",
+          "1999-10-06T18:15:00Z",
+          "1999-10-06T18:30:00Z",
+          "1999-10-06T19:15:00Z",
+          "1999-10-11T19:00:00Z",
+          "1999-10-21T19:15:00Z"
+        ],
+        "visits": 24,
+        "period_days": 21,
+        "vessel": "Jan Mayen",
+        "area_km2": 5493.959003068419
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.12,
+              80.683333
+            ],
+            [
+              2.37,
+              78.35
+            ],
+            [
+              7.7,
+              76.666667
+            ],
+            [
+              8.1,
+              76.6
+            ],
+            [
+              7.683333,
+              76.2
+            ],
+            [
+              7.7,
+              76.183333
+            ],
+            [
+              7.966667,
+              76.016667
+            ],
+            [
+              7.966667,
+              75.933333
+            ],
+            [
+              8.05,
+              75.85
+            ],
+            [
+              8.05,
+              75.833333
+            ],
+            [
+              8.05,
+              75.816667
+            ],
+            [
+              8.5,
+              75.7
+            ],
+            [
+              8.733333,
+              75.816667
+            ],
+            [
+              8.883333,
+              75.85
+            ],
+            [
+              8.966667,
+              75.65
+            ],
+            [
+              9.116667,
+              75.616667
+            ],
+            [
+              9.583333,
+              75.5
+            ],
+            [
+              9.633333,
+              75.483333
+            ],
+            [
+              9.616667,
+              75.433333
+            ],
+            [
+              9.616667,
+              75.35
+            ],
+            [
+              4.133333,
+              77.866667
+            ],
+            [
+              7.12,
+              80.683333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3d2382d0-31e3-5350-a16b-d136415c2dff",
+      "properties": {
+        "station": "885",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-09-29",
+          "1999-09-30"
+        ],
+        "times": [
+          "1999-09-29T21:20:00Z",
+          "1999-09-29T23:00:00Z",
+          "1999-09-30T00:30:00Z",
+          "1999-09-30T00:36:00Z",
+          "1999-09-30T01:10:00Z",
+          "1999-09-30T02:05:00Z"
+        ],
+        "visits": 6,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "area_km2": 4.200532309472533
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.85,
+              81.25
+            ],
+            [
+              8.26,
+              81.18
+            ],
+            [
+              8.27,
+              81.18
+            ],
+            [
+              7.03,
+              81.18
+            ],
+            [
+              7.97,
+              81.15
+            ],
+            [
+              7.85,
+              81.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ab827c2b-e6ea-542a-87f3-5c8a5d0e4893",
+      "properties": {
+        "station": "886",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-10-01"
+        ],
+        "times": [
+          "1999-10-01T01:30:00Z",
+          "1999-10-01T06:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen",
+        "distance_km": 9.76299043672643
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.35,
+            79.63
+          ],
+          [
+            0.75,
+            79.58
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3f089d5a-7cc5-5ad1-bbdb-10e06ace0762",
+      "properties": {
+        "station": "881",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-09-25"
+        ],
+        "times": [
+          "1999-09-25T06:45:00Z",
+          "1999-09-25T08:00:00Z"
+        ],
+        "visits": 2,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2,
+          81.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2f846e8f-0e23-544c-abe1-dfc59c639cd5",
+      "properties": {
+        "station": "875",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-09-23"
+        ],
+        "times": [
+          "1999-09-23T10:33:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.05,
+          79.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b9ca85f-d6d1-563b-8e91-056275d01704",
+      "properties": {
+        "station": "878",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-09-24"
+        ],
+        "times": [
+          "1999-09-24T19:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.96,
+          81.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61374bf2-66ff-5a41-8b01-43769f601144",
+      "properties": {
+        "station": "884",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-09-29"
+        ],
+        "times": [
+          "1999-09-29T11:10:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.75,
+          81.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "02acee50-6631-56b0-9912-5ff10538b30a",
+      "properties": {
+        "station": "889",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-10-03"
+        ],
+        "times": [
+          "1999-10-03T10:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.03,
+          76.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "64571ddb-95fa-5c5f-bc2f-a7f16aed6b25",
+      "properties": {
+        "station": "890_ ZP 31",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-10-05"
+        ],
+        "times": [
+          "1999-10-05T04:30:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1,
+          76.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e87003b7-d328-53f8-bc30-910eff29557d",
+      "properties": {
+        "station": "891",
+        "expedition": "Fellestokt-1999",
+        "year": 1999,
+        "dates": [
+          "1999-10-05"
+        ],
+        "times": [
+          "1999-10-05T13:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Jan Mayen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.17,
+          76.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19dff7a3-4d18-5d25-8d5e-c0428db0c4af",
+      "properties": {
+        "station": "Kb0",
+        "expedition": "BIODAFF-1999",
+        "year": 1999,
+        "dates": [
+          "1999-07-01"
+        ],
+        "times": [
+          "1999-07-01T21:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35,
+          79.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96549427-174a-5c21-ade1-cd078a7e7459",
+      "properties": {
+        "station": "Kb1",
+        "expedition": "BIODAFF-1999",
+        "year": 1999,
+        "dates": [
+          "1999-07-01"
+        ],
+        "times": [
+          "1999-07-01T23:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.38,
+          79.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3281d56b-e04d-505e-829d-e4fc3116b7eb",
+      "properties": {
+        "station": "Kb2",
+        "expedition": "BIODAFF-1999",
+        "year": 1999,
+        "dates": [
+          "1999-07-01"
+        ],
+        "times": [
+          "1999-07-01T01:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74,
+          78.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61f46ac9-6ff3-53f8-8a5e-21be91844fd9",
+      "properties": {
+        "station": "Kb3",
+        "expedition": "BIODAFF-1999",
+        "year": 1999,
+        "dates": [
+          "1999-07-01"
+        ],
+        "times": [
+          "1999-07-01T07:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95,
+          78.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04a2343f-4849-52c6-a526-bb3331065a61",
+      "properties": {
+        "station": "Kb4",
+        "expedition": "BIODAFF-1999",
+        "year": 1999,
+        "dates": [
+          "1999-07-01"
+        ],
+        "times": [
+          "1999-07-01T09:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27,
+          78.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56c832a7-57ad-5039-86c2-dac5af1e790a",
+      "properties": {
+        "station": "Kb5",
+        "expedition": "BIODAFF-1999",
+        "year": 1999,
+        "dates": [
+          "1999-07-01"
+        ],
+        "times": [
+          "1999-07-01T10:45:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47,
+          78.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1fd7ab1c-f6db-540e-8d3c-757ace286f9e",
+      "properties": {
+        "station": "Kb6",
+        "expedition": "BIODAFF-1999",
+        "year": 1999,
+        "dates": [
+          "1999-07-01"
+        ],
+        "times": [
+          "1999-07-01T16:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.42,
+          78.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84301e5e-1416-51ad-b224-07d37c4ed750",
+      "properties": {
+        "station": "Kb7",
+        "expedition": "BIODAFF-1999",
+        "year": 1999,
+        "dates": [
+          "1999-07-01"
+        ],
+        "times": [
+          "1999-07-01T18:00:00Z"
+        ],
+        "visits": 1,
+        "period_days": 0,
+        "vessel": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39,
+          78.97
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    0.35,
+    75.35,
+    34.42,
+    82.68
+  ]
+}
