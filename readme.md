@@ -1,7 +1,9 @@
 # marine-db
 ECMAScript 2015 source code for processing and publishing Norwegian Polar Institute's marine data.
 
+![Geographic distribution of taxon occurrences](data/view/geo/occurrence-20km-grid.png)
 ![Marine database collections](data/marine-db-collections.png)
+
 
 ## Install
 
@@ -11,15 +13,15 @@ The command line tools require <a href="https://nodejs.org/en/">Node.js</a> (>= 
 ```
 mkdir -p ~/npolar && cd ~/npolar
 git clone https://github.com/npolar/marine-db
-cd marine-db/node
+cd marine-db
 yarn
 ```
 
 ## Processing
 **Create master**
 ```
-cd ~/npolar/marine-db # must run from project root
-./bin/marinedb-create-master
+cd ~/npolar/marine-db
+./bin/create-master
 ```
 This command converts input data in `data/input` and `data/deposit` into [ND-JSON](http://ndjson.org/) in `data/master`.
 
