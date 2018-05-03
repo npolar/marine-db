@@ -1,0 +1,11 @@
+data/*
+data/excel
+data/processed
+data/log
+data/deposit
+legacy*
+dataset.md
+deploy-test.sh
+data-example
+node_modules
+yarn*
