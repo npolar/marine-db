@@ -1,8 +1,7 @@
-// @todo Check that none of the unaccepted and all of the accepted are in taxon-db
 // @return Array of tuples [ unaccepted, accepted ]
 export const taxonFixes = [
 
-  // Higher raanked taxa
+  // Higher ranked taxa
 
   ['Chrysophyta', 'Chrysophyceae'], // -> class
   ['Ciliate', 'Ciliata'],
@@ -27,13 +26,16 @@ export const taxonFixes = [
   ['Disco fiordicus', 'Pertsovius fjordicus'],
 
   ['Erythrops erythrophthalma', 'Erythrops erythrophthalmus'], //typo? http://www.marinespecies.org/aphia.php?p=taxdetails&id=852968
+  ['Entomoneis kjelmanii', 'Entomoneis kjellmanii'], // typo
 
+  ['Goniaulax gracilis', 'Gonyaulax gracilis'], // typo
   ['Gymndinium', 'Gymnodinium'], // typo
   ['Gymnodinium brevis', 'Gymnodinium breve'], //typo
   ['Gymnodinium flagellare', 'Gymnodinium'], // -> genus: https://www.gbif.org/species/8661776
   ['Gymnodinium gaelatum', 'Gymnodinium galeatum'], //typo
   ['Gymnodinium gracilientum', 'Gymnodinium gracilentum'],
-  ['Gymnodinium pulchellum', 'Takayama pulchella'], // synonym https://www.gbif.org/species/7516124
+  ['Gymnodinium pulchellum', 'Takayama pulchella'], // unaccepted synonym https://www.gbif.org/species/7516124 / http://www.marinespecies.org/aphia.php?p=taxdetails&id=233085
+  ['Gymnodium simplex', 'Gymnodinium simplex'], // typo
   ['Gymnodinium wulfii', 'Gymnodinium wulffii'], //typo
 
   ['Heterorhabdus compactus', 'Paraheterorhabdus compactus'],
@@ -47,6 +49,7 @@ export const taxonFixes = [
   ['Myrionecta rubra', 'Mesodinium rubrum'],
   ['Monoculoides pacardi', 'Monoculodes packardi'], //typo
 
+  ['Navicula vanhoefenii', 'Navicula vanhoeffenii'], // typo
   ['Nitzschia granii', 'Pseudo-nitzschia granii'],
 
   ['Preperidinium meunieri', 'Preperidinium meunierii'], //typo
