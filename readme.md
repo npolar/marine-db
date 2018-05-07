@@ -1,9 +1,7 @@
 # marine-db
 ECMAScript 2015 source code for processing and publishing Norwegian Polar Institute's marine data.
 
-![Geographic distribution of taxon occurrences](data/view/geo/occurrence-20km-grid.png)
 ![Marine database collections](data/marine-db-collections.png)
-
 
 ## Install
 
@@ -30,3 +28,5 @@ The processing aims at improving the overall data quality, by normalising and sc
 Data with unrecognised scientific names, unknown gear, invalid dates, etc. are rejected.
 
 All schema validation errors are logged, see `data/log`;
+
+Traceability => taxonVerbatim

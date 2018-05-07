@@ -6,14 +6,17 @@ export const taxonFixes = [
   ['Chrysophyta', 'Chrysophyceae'], // -> class
   ['Ciliate', 'Ciliata'],
   ['Coccolithophora', 'Prymnesiophyceae'], // -> class
+  //Ciliophora
   ['Dinophyta', 'Dinophyceae'],
   ['Eupagurus', 'Pagurus'],
+  ['Gammaridea', 'Gammaridae'], // -> family
   ['Heterokontophyta', 'Ochrophyta'],
   ['Hydromedusae', 'Hydrozoa'],
   ['Mysidacea', 'Mysida'], // -> order
+  ['Strombididae', 'Strombidiidae'], // family
   ['Turbellaria', 'Tubularia'], // typo
+
   // Asteroidea?
-  // Gammaridea?
 
   // Species & genera A-Z
   ['Arrhis phyllony', 'Arrhis phyllonyx'], //typo
@@ -50,7 +53,7 @@ export const taxonFixes = [
   ['Monoculoides pacardi', 'Monoculodes packardi'], //typo
 
   ['Navicula vanhoefenii', 'Navicula vanhoeffenii'], // typo
-  ['Nitzschia granii', 'Pseudo-nitzschia granii'],
+  //['Nitzschia granii', 'Pseudo-nitzschia granii'],
 
   ['Preperidinium meunieri', 'Preperidinium meunierii'], //typo
 
