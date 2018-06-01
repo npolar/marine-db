@@ -6,13 +6,23 @@ export const taxonFixes = [
   ['Chrysophyta', 'Chrysophyceae'], // -> class
   ['Ciliate', 'Ciliata'],
   ['Coccolithophora', 'Prymnesiophyceae'], // -> class
-  //Ciliophora
-  ['Dinophyta', 'Dinophyceae'],
+  // Ciliophora
+  ['Dinophyta', 'Dinophyceae'], // -> class
+  ['Dinoflagellatae', 'Dinophyceae'], // -> class
+  ['Dinoflagellate', 'Dinophyceae'], // -> class
   ['Eupagurus', 'Pagurus'],
   ['Gammaridea', 'Gammaridae'], // -> family
   ['Heterokontophyta', 'Ochrophyta'],
   ['Hydromedusae', 'Hydrozoa'],
   ['Mysidacea', 'Mysida'], // -> order
+  ['Pennales', 'Bacillariophyceae'], // -> order
+  ['Pennate', 'Bacillariophyceae'], //> -> order
+  ['Diatoms', 'Bacillariophyceae'],
+  // https://en.wikipedia.org/wiki/Pennales
+  // In some taxonomic schemes,[2] the pennate diatoms are divided into two groups:
+  // pennate diatoms without a raphe, known as araphids (order Fragilariophyceae),
+  // and pennate diatoms with a raphe, known as raphids (order Bacillariophyceae).
+
   ['Strombididae', 'Strombidiidae'], // family
   ['Turbellaria', 'Tubularia'], // typo
 
@@ -21,6 +31,8 @@ export const taxonFixes = [
   // Species & genera A-Z
   ['Arrhis phyllony', 'Arrhis phyllonyx'], //typo
 
+  ['Bacteriosira', 'Bacterosira'], // typo
+  ['Bacteriosira bathyomphala', 'Bacterosira bathyomphala'], //typo
   ['Chaetoceros lacinosus', 'Chaetoceros laciniosus'], // phylum Ochrophyta
   ['Chaetoceros terens', 'Chaetoceros teres'], // typo
   //['Coccolithus pelagicus', 'Coccosphaera pelagica'], // synomym -> https://api.gbif.org/v1/species/7601850
@@ -32,6 +44,7 @@ export const taxonFixes = [
   ['Entomoneis kjelmanii', 'Entomoneis kjellmanii'], // typo
 
   ['Goniaulax gracilis', 'Gonyaulax gracilis'], // typo
+  ['Gyrodinium flagelare', 'Gyrodinium flagellare'], //typo
   ['Gymndinium', 'Gymnodinium'], // typo
   ['Gymnodinium brevis', 'Gymnodinium breve'], //typo
   ['Gymnodinium flagellare', 'Gymnodinium'], // -> genus: https://www.gbif.org/species/8661776
@@ -54,6 +67,9 @@ export const taxonFixes = [
 
   ['Navicula vanhoefenii', 'Navicula vanhoeffenii'], // typo
   //['Nitzschia granii', 'Pseudo-nitzschia granii'],
+  ["Nitzschia leavissima", "Nitzschia levissima"],
+
+  ['Oncaea conifera', 'Triconia conifera'], // http://www.marinespecies.org/aphia.php?p=taxdetails&id=128957
 
   ['Preperidinium meunieri', 'Preperidinium meunierii'], //typo
 
@@ -65,7 +81,6 @@ export const taxonFixes = [
   ['Thalasiossira borealis', 'Thalassiosira borealis'], //typo
   ['Thalasiossira pacyfica', 'Thalassiosira pacifica'], //typo
   ['Tharybis groenlandicus', 'Tharybis groenlandica'], //typo
-  ['Triconia conifera', 'Oncaea conifera'],
   ['Tintinnus inquilinum', 'Tintinnus inquilinus'], //typo?
 
   ['Undeuchaeta spectabilis', 'Pseudochirella spectabilis'],
