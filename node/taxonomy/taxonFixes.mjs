@@ -23,7 +23,8 @@ export const taxonFixes = [
   // pennate diatoms without a raphe, known as araphids (order Fragilariophyceae),
   // and pennate diatoms with a raphe, known as raphids (order Bacillariophyceae).
 
-  ['Strombididae', 'Strombidiidae'], // family
+  ['Scuticociliata', 'Scuticociliatia'],// typo -> subclass http://www.marinespecies.org/aphia.php?p=taxdetails&id=414712
+  ['Strombididae', 'Strombidiidae'], // typo -> family
   ['Turbellaria', 'Tubularia'], // typo
 
   // Asteroidea?
@@ -33,6 +34,10 @@ export const taxonFixes = [
 
   ['Bacteriosira', 'Bacterosira'], // typo
   ['Bacteriosira bathyomphala', 'Bacterosira bathyomphala'], //typo
+  ['Bacteriosira bathyomphola', 'Bacterosira bathyomphala'], //typo
+  // or -> Coscinodiscus bathyomphalus ?
+  // http://www.marinespecies.org/aphia.php?p=taxdetails&id=162930
+
   ['Chaetoceros lacinosus', 'Chaetoceros laciniosus'], // phylum Ochrophyta
   ['Chaetoceros terens', 'Chaetoceros teres'], // typo
   //['Coccolithus pelagicus', 'Coccosphaera pelagica'], // synomym -> https://api.gbif.org/v1/species/7601850
@@ -59,6 +64,7 @@ export const taxonFixes = [
   ['Kathodinium', 'Katodinium'], //typo
   ['Kathodinium glaucum', 'Katodinium glaucum'], //typo
 
+  ["Laboea strobila", "Laboea strobilum"], // typo
   ['Lubbockia brevis', 'Homeognathia brevis'],
 
   ['Monstrilloidae', 'Monstrillidae'], //typo? https://www.gbif.org/species/9127
