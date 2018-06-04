@@ -2,11 +2,9 @@
 export const taxonFixes = [
 
   // Higher ranked taxa
-
   ['Chrysophyta', 'Chrysophyceae'], // -> class
   ['Ciliate', 'Ciliata'],
   ['Coccolithophora', 'Prymnesiophyceae'], // -> class
-  // Ciliophora
   ['Dinophyta', 'Dinophyceae'], // -> class
   ['Dinoflagellatae', 'Dinophyceae'], // -> class
   ['Dinoflagellate', 'Dinophyceae'], // -> class
@@ -26,8 +24,6 @@ export const taxonFixes = [
   ['Scuticociliata', 'Scuticociliatia'],// typo -> subclass http://www.marinespecies.org/aphia.php?p=taxdetails&id=414712
   ['Strombididae', 'Strombidiidae'], // typo -> family
   ['Turbellaria', 'Tubularia'], // typo
-
-  // Asteroidea?
 
   // Species & genera A-Z
   ['Arrhis phyllony', 'Arrhis phyllonyx'], //typo
@@ -64,7 +60,7 @@ export const taxonFixes = [
   ['Kathodinium', 'Katodinium'], //typo
   ['Kathodinium glaucum', 'Katodinium glaucum'], //typo
 
-  ["Laboea strobila", "Laboea strobilum"], // typo
+  ["Laboea strobilum", "Laboea strobila"], // typo http://www.marinespecies.org/aphia.php?p=taxdetails&id=101264
   ['Lubbockia brevis', 'Homeognathia brevis'],
 
   ['Monstrilloidae', 'Monstrillidae'], //typo? https://www.gbif.org/species/9127
@@ -98,3 +94,61 @@ export const taxonFixes = [
   ['Uronema marina', 'Uronema marinum'] // phylum Ciliophora
 
 ];
+
+
+ // 65 Invalid taxon: "Pachysphaera"
+ // 60 Invalid taxon: "Phalacroma rotundatum"
+ // 54 Invalid taxon: "Flagellate"
+ // 52 Invalid taxon: "Laboea strobilum"
+ // 34 Invalid taxon: "Cyst"
+ // 27 Invalid taxon: "Gymnodinium krasnal"
+ // 27 Invalid taxon: "Dinobryon statospores"
+ // 24 Invalid taxon: "Polariella glacialis"
+ // 24 Invalid taxon: "Euglena"
+ // 22 Invalid taxon: "Choreotrich ciliate"
+ // 19 Invalid taxon: "Neoceratium arcticum"
+ // 14 Invalid taxon: "Nitzschia granii"
+ // 12 Invalid taxon: "Odentella aurita"
+ // 12 Invalid taxon: "Centriceae"
+ // 10 Invalid taxon: "Spores"
+ // 10 Invalid taxon: "Halosphaeracos"
+ //  9 Invalid taxon: "Calciodinelloideae"
+ //  8 Invalid taxon: "Choanoflagellata"
+ //  8 Invalid taxon: "Amphidoma acuminata"
+ //  7 Invalid taxon: "Tintinnus"
+ //  7 Invalid taxon: "Pierscionek"
+ //  6 Invalid taxon: "Lesardia elongata"
+ //  6 Invalid taxon: "Fecal pelet"
+ //  6 Invalid taxon: "Chrysophycea"
+ //  6 Invalid taxon: "Choanoflagellida"
+ //  6 Invalid taxon: "Ceratium"
+ //  5 Invalid taxon: "Spora"
+ //  5 Invalid taxon: "Ciliataolbrzym"
+ //  5 Invalid taxon: "Chrysotila carteri"
+ //  4 Invalid taxon: "Tunicata"
+ //  4 Invalid taxon: "Raphidiophyceae"
+ //  4 Invalid taxon: "Monads"
+ //  4 Invalid taxon: "Gymnodinium estuariale"
+ //  4 Invalid taxon: "Cochlodinium pulchellum"
+ //  3 Invalid taxon: "Unidentified cells"
+ //  3 Invalid taxon: "Thalassiosira pacyficaphoto"
+ //  3 Invalid taxon: "Thalassiosira anguste"
+ //  3 Invalid taxon: "Scuticocilliatae"
+ //  3 Invalid taxon: "Gyrodinium wulfii"
+ //  3 Invalid taxon: "Chrysocist"
+ //  2 Invalid taxon: "Uniflgellates"
+ //  2 Invalid taxon: "Unifagellates"
+ //  2 Invalid taxon: "Strombidium spiralissloneczko"
+ //  2 Invalid taxon: "Strombidium spiralis"
+ //  2 Invalid taxon: "Strobilidium spiralis"
+ //  2 Invalid taxon: "Scuticociliatida"
+ //  2 Invalid taxon: "Ribbon diatoms"
+ //  2 Invalid taxon: "Nitzschiabananik bokeim"
+ //  2 Invalid taxon: "Nitzschia arctica"
+ //  2 Invalid taxon: "Naviculatasma"
+ //  2 Invalid taxon: "Microcystis"
+ //  2 Invalid taxon: "Meringosphaerazielone"
+ //  2 Invalid taxon: "Indeterm spores"
+ //  2 Invalid taxon: "Heterocapsa rotudnata"
+ //  2 Invalid taxon: "Favella meunieri"
+ //  2 Invalid taxon: "Dinoflagella

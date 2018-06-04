@@ -41,9 +41,11 @@ function fixFlagellates(t) {
     t.rank = 'superkingdom';
   }
 
-  const someFlagellate = ["Flagellate", "Bifagellatae", "Choanoflagellata",
-  "Flagellatae wiele", "Monoflagellate", "Monoflagellates","Monoflagellatae",
-  "Choanoflagellatea"];
+  const someFlagellate = ["Flagellate", "Bifagellatae",
+    "Choanoflagellatea", "Choanoflagellata",
+    "Choanoflagellida",
+    "Flagellatae wiele", "Monoflagellate", "Monoflagellates","Monoflagellatae",
+  ];
 
   if (someFlagellate.includes(t.taxon)) {
     t.verbatimTaxon = t.taxon;
