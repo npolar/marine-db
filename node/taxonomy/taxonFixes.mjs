@@ -1,4 +1,9 @@
 // @return Array of tuples [ unaccepted, accepted ]
+//@todo Merging
+// Neoscolecithrix sp. should be merged with Neoscolecithrix farrani
+// Themisto sp. should be merged with Themisto abyssorum 0-5 mm
+// Aetideidae CV should be merged with Bradyidius similis
+// Bivalvia juveniles should be merged with bivalvia veliger
 export const taxonFixes = [
 
   // Higher ranked taxa
@@ -21,7 +26,6 @@ export const taxonFixes = [
   // In some taxonomic schemes,[2] the pennate diatoms are divided into two groups:
   // pennate diatoms without a raphe, known as araphids (order Fragilariophyceae),
   // and pennate diatoms with a raphe, known as raphids (order Bacillariophyceae).
-
   ['Scuticociliata', 'Scuticociliatia'],// typo -> subclass http://www.marinespecies.org/aphia.php?p=taxdetails&id=414712
   ['Strombididae', 'Strombidiidae'], // typo -> family
   ['Turbellaria', 'Tubularia'], // typo
@@ -37,6 +41,7 @@ export const taxonFixes = [
 
   ['Chaetoceros lacinosus', 'Chaetoceros laciniosus'], // phylum Ochrophyta
   ['Chaetoceros terens', 'Chaetoceros teres'], // typo
+  ['Chrysotila carteri','Chrysotila carterae'],
   //['Coccolithus pelagicus', 'Coccosphaera pelagica'], // synomym -> https://api.gbif.org/v1/species/7601850
 
   ['Dinophysis rotundata', 'Phalacroma rotundatum'],
@@ -44,6 +49,8 @@ export const taxonFixes = [
 
   ['Erythrops erythrophthalma', 'Erythrops erythrophthalmus'], //typo? http://www.marinespecies.org/aphia.php?p=taxdetails&id=852968
   ['Entomoneis kjelmanii', 'Entomoneis kjellmanii'], // typo
+  ['Eusirus holmi', 'Eusirus holmii'], // typo
+
 
   ['Goniaulax gracilis', 'Gonyaulax gracilis'], // typo
   ['Gyrodinium flagelare', 'Gyrodinium flagellare'], //typo
