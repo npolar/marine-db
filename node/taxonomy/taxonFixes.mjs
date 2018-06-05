@@ -2,8 +2,9 @@
 export const taxonFixes = [
 
   // Higher ranked taxa
-  ['Chrysophyta', 'Chrysophyceae'], // -> class
-  ['Ciliate', 'Ciliata'],
+  ['Chrysophyta', 'Ochrophyta'], // -> phylum
+  ['Chrysophycea', 'Chrysophyceae'], // -> class
+  ['Ciliate', 'Ciliata'], // ->
   ['Coccolithophora', 'Prymnesiophyceae'], // -> class
   ['Dinophyta', 'Dinophyceae'], // -> class
   ['Dinoflagellatae', 'Dinophyceae'], // -> class
@@ -60,7 +61,7 @@ export const taxonFixes = [
   ['Kathodinium', 'Katodinium'], //typo
   ['Kathodinium glaucum', 'Katodinium glaucum'], //typo
 
-  ["Laboea strobilum", "Laboea strobila"], // typo http://www.marinespecies.org/aphia.php?p=taxdetails&id=101264
+  ['Laboea strobilum', 'Laboea strobila'], // typo http://www.marinespecies.org/aphia.php?p=taxdetails&id=101264
   ['Lubbockia brevis', 'Homeognathia brevis'],
 
   ['Monstrilloidae', 'Monstrillidae'], //typo? https://www.gbif.org/species/9127
@@ -69,19 +70,23 @@ export const taxonFixes = [
 
   ['Navicula vanhoefenii', 'Navicula vanhoeffenii'], // typo
   //['Nitzschia granii', 'Pseudo-nitzschia granii'],
-  ["Nitzschia leavissima", "Nitzschia levissima"],
+  ['Nitzschia leavissima', 'Nitzschia levissima'],
+  ['Neoceratium arcticum', 'Ceratium arcticum'], // unaccepted http://www.marinespecies.org/aphia.php?p=taxdetails&id=495629
 
   ['Oncaea conifera', 'Triconia conifera'], // http://www.marinespecies.org/aphia.php?p=taxdetails&id=128957
-
+  // Strobilidium spiralis -> Pelagostrobilidium spirale http://www.marinespecies.org/aphia.php?p=taxdetails&id=341692
   ['Preperidinium meunieri', 'Preperidinium meunierii'], //typo
+
+  ['Polariella glacialis', 'Polarella glacialis'], // typo
 
   ['Sagitta elegans', 'Parasagitta elegans'],
   ['Sagitta maxima', 'Pseudosagitta maxima'],
   ['Scolocithricella minor', 'Scolecithricella minor'], //typo
-  ['Strombidium estatum', 'Strombidium'], // -> genus, unknown species epithet ("estatum")
+  ['Strombidium estatum', 'Strombidium'], // -> genus, unknown species epithet ('estatum')
 
   ['Thalasiossira borealis', 'Thalassiosira borealis'], //typo
   ['Thalasiossira pacyfica', 'Thalassiosira pacifica'], //typo
+  ['Thalassiosira pacyficaphoto', 'Thalassiosira pacifica'], //typo
   ['Tharybis groenlandicus', 'Tharybis groenlandica'], //typo
   ['Tintinnus inquilinum', 'Tintinnus inquilinus'], //typo?
 

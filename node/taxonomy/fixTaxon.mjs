@@ -2,7 +2,8 @@ import {taxonFixes} from './taxonFixes';
 import {fixSample} from '../sample/fixSample';
 
 function moveNonTaxonomicSuffixesToStage(t) {
-  ['cyst', 'cysts', 'larvae', 'zoea', 'pilidium', 'colony'].forEach(part =>  {
+  ['cyst', 'cysts', 'larvae', 'zoea', 'pilidium', 'colony', 'krasnal'].forEach(part =>  {
+    // krasnal means dwarf
     const re = new RegExp(`\\s${(part)}$`);
     const m = t.taxon.match(re);
     if (m) {
@@ -41,10 +42,11 @@ function fixFlagellates(t) {
     t.rank = 'superkingdom';
   }
 
-  const someFlagellate = ["Flagellate", "Bifagellatae",
-    "Choanoflagellatea", "Choanoflagellata",
-    "Choanoflagellida",
-    "Flagellatae wiele", "Monoflagellate", "Monoflagellates","Monoflagellatae",
+  const someFlagellate = ["Bifagellatae",
+    "Choanoflagellatea", "Choanoflagellata", "Choanoflagellida",
+    "Flagellate","Flagellatae wiele",
+    "Monoflagellate", "Monoflagellates","Monoflagellatae",
+    "Uniflgellates", "Unifagellates"
   ];
 
   if (someFlagellate.includes(t.taxon)) {
@@ -67,6 +69,7 @@ function fixUnit(unit) {
 export function fixTaxon(t) {
 
   const verbatimTaxon = t.taxon;
+  t.taxon = t.taxon.trim();
   t.sample = fixSample(t).sample;
   t = moveNonTaxonomicSuffixesToStage(t);
   t = fixFlagellates(t);
