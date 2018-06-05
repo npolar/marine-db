@@ -1,6 +1,9 @@
 import {taxonFixes} from './taxonFixes';
 import {fixSample} from '../sample/fixSample';
 
+// //(t) => ["", "Cyst", "Cyst sp.", "Spores", "Spora", "Fecal pelet", "Indeterm spores", "Unidentified cells", "Unknown"].includes(String(t.taxon)),
+
+
 function moveNonTaxonomicSuffixesToStage(t) {
   ['cyst', 'cysts', 'larvae', 'zoea', 'pilidium', 'colony', 'krasnal'].forEach(part =>  {
     // krasnal means dwarf
