@@ -1,13 +1,18 @@
 import {taxonFixes} from './taxonFixes';
 import {fixSample} from '../sample/fixSample';
 
-// //(t) => ["", "Cyst", "Cyst sp.", "Spores", "Spora", "Fecal pelet", "Indeterm spores", "Unidentified cells", "Unknown"].includes(String(t.taxon)),
-
-
+//["Cyst", "Cyst sp.", "Spores", "Spora", "Fecal pelet", "Indeterm spores", "Unidentified cells", "Unknown"].includes(String(t.taxon)),
+// => ?
 function moveNonTaxonomicSuffixesToStage(t) {
-  ['cyst', 'cysts', 'larvae', 'zoea', 'pilidium', 'colony', 'krasnal'].forEach(part =>  {
-    // krasnal means dwarf
-    const re = new RegExp(`\\s${(part)}$`);
+  // these MUST not equal a species epithet
+  ['ciliate', 'colony', 'cyst', 'cysts',
+  'krasnal', // means dwarf
+  'larvae',
+  'pilidium',
+  'statospores',
+  'zoea'].forEach(part =>  {
+
+    const re = new RegExp(`\\s${(part)}$`); // notice the space before
     const m = t.taxon.match(re);
     if (m) {
       t.taxon = t.taxon.replace(re, '');
@@ -65,7 +70,7 @@ function fixName(name, fixes=taxonFixes) {
   return (m && m[1]) ? m[1] : name ;
 }
 
-function fixUnit(unit) {
+function fixUnitString(unit) {
   return String(unit).replace(/^(ind|cells|N)[\s\/]/, '').replace(/³/g, '3').replace(/²/g, '2').trim();
 }
 
@@ -99,13 +104,32 @@ export function fixTaxon(t) {
     //console.warn(`WARN taxon name standardised "${t.taxon}" <- "${verbatimTaxon}"`);
   }
 
-  t.density = (t.density === null) ? null : Number(t.density);
+  // @todo => fixOccurrence
+  if (t.density === "+") {
+    t.density = null;
+    t.op = "gt";
+    t.length = "0";
+  } else {
+    t.density = (t.density === null) ? null : Number(t.density);
+  }
+
   t.length = String(t.length);
   if ((/cells\/L/i).test(t.unit)) {
     t.unit = 'L';
   }
-  t.samplesizeunit = fixUnit(t.unit);
-  delete t.unit;
+  // @todo => fixOccurrence
+  if (!t.samplesizeunit && t.unit) {
+    t.samplesizeunit = fixUnitString(t.unit);
+    delete t.unit;
+  }
+  if ((!t.samplesizeunit || t.samplesizeunit == "undefined")) {
+
+    if (/PHT/.test(t.sample)) {
+      t.samplesizeunit = 'L';
+    } else {
+      console.warn('SAMPLESIZEUNIT missing', JSON.stringify(t));
+    }
+  }
 
   if (!t.samplesize) {
     t.samplesize = 1;

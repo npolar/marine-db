@@ -7,6 +7,7 @@
 export const taxonFixes = [
 
   // Higher ranked taxa
+  ['Choreotrich', 'Choreotrichia'], // -> subclass
   ['Chrysophyta', 'Ochrophyta'], // -> phylum
   ['Chrysophycea', 'Chrysophyceae'], // -> class
   ['Ciliate', 'Ciliata'], // ->
@@ -20,17 +21,45 @@ export const taxonFixes = [
   ['Hydromedusae', 'Hydrozoa'],
   ['Mysidacea', 'Mysida'], // -> order
   ['Pennales', 'Bacillariophyceae'], // -> order
-  ['Pennate', 'Bacillariophyceae'], //> -> order
-  ['Diatoms', 'Bacillariophyceae'],
+  ['Pennate', 'Bacillariophyceae'], // -> order
+  ['Diatoms', 'Bacillariophyceae'], // -> order
+  ['Ribbon diatoms', 'Bacillariophyceae'], // -> order
   // https://en.wikipedia.org/wiki/Pennales
   // In some taxonomic schemes,[2] the pennate diatoms are divided into two groups:
   // pennate diatoms without a raphe, known as araphids (order Fragilariophyceae),
   // and pennate diatoms with a raphe, known as raphids (order Bacillariophyceae).
-  ['Scuticociliata', 'Scuticociliatia'],// typo -> subclass http://www.marinespecies.org/aphia.php?p=taxdetails&id=414712
+
+  ['Scuticociliata', 'Scuticociliatia'], // typo -> subclass http://www.marinespecies.org/aphia.php?p=taxdetails&id=414712
+  ['Scuticocilliatae', 'Scuticociliatia'], // typo
   ['Strombididae', 'Strombidiidae'], // typo -> family
   ['Turbellaria', 'Tubularia'], // typo
 
   // Species & genera A-Z
+ //11 Invalid taxon "Centriceae"
+ // 9 Invalid taxon "Halosphaeracos"
+ // 7 Invalid taxon "Choanoflagellata"
+ // 6 Invalid taxon "Tintinnus"
+ // 6 Invalid taxon "Pierscionek"
+ // 4 Invalid taxon "Ciliataolbrzym"
+ // 3 Invalid taxon "Raphidiophyceae"
+ // 3 Invalid taxon "Monads"
+ // 3 Invalid taxon "Chrysocist"
+
+ // 1 Invalid taxon "Protoperidinium marielebourae"
+ // 1 Invalid taxon "Nitzschiabananik bokeim"
+ // 1 Invalid taxon "Nitzschia arctica"
+ // 1 Invalid taxon "Naviculatasma"
+ // 1 Invalid taxon "Microcystis"
+ // 1 Invalid taxon "Meringosphaerazielone"
+ // 1 Invalid taxon "Leegardia sol"
+
+
+ // 1 Invalid taxon "Fragilariopsis pseudonanna"
+ // 1 Invalid taxon "Dinoflagellata"
+ // 1 Invalid taxon "Dinocyst"
+ // 1 Invalid taxon "Cerataulina pelagica"
+ // 1 Invalid taxon "Alexandrium minimum"
+ // 1 Invalid taxon "Actinocyclus"
   ['Arrhis phyllony', 'Arrhis phyllonyx'], //typo
 
   ['Bacteriosira', 'Bacterosira'], // typo
@@ -41,8 +70,7 @@ export const taxonFixes = [
 
   ['Chaetoceros lacinosus', 'Chaetoceros laciniosus'], // phylum Ochrophyta
   ['Chaetoceros terens', 'Chaetoceros teres'], // typo
-  ['Chrysotila carteri','Chrysotila carterae'],
-  //['Coccolithus pelagicus', 'Coccosphaera pelagica'], // synomym -> https://api.gbif.org/v1/species/7601850
+  ['Chrysotila carteri','Chrysotila carterae'], // typo, see also (further down) Pleurochrysis carterae
 
   ['Dinophysis rotundata', 'Phalacroma rotundatum'],
   ['Disco fiordicus', 'Pertsovius fjordicus'],
@@ -51,23 +79,30 @@ export const taxonFixes = [
   ['Entomoneis kjelmanii', 'Entomoneis kjellmanii'], // typo
   ['Eusirus holmi', 'Eusirus holmii'], // typo
 
+  ['Favella meunieri', 'Schmidingerella meunieri'], // synonym http://www.marinespecies.org/aphia.php?p=taxdetails&id=732864
 
   ['Goniaulax gracilis', 'Gonyaulax gracilis'], // typo
-  ['Gyrodinium flagelare', 'Gyrodinium flagellare'], //typo
   ['Gymndinium', 'Gymnodinium'], // typo
   ['Gymnodinium brevis', 'Gymnodinium breve'], //typo
+  ["Gymnodinium estuariale", 'Gymnodinium'], // -> genus (unknown epithet)
   ['Gymnodinium flagellare', 'Gymnodinium'], // -> genus: https://www.gbif.org/species/8661776
+   // 1 Invalid taxon "Gymnodinium fusiforme"
   ['Gymnodinium gaelatum', 'Gymnodinium galeatum'], //typo
   ['Gymnodinium gracilientum', 'Gymnodinium gracilentum'],
   ['Gymnodinium pulchellum', 'Takayama pulchella'], // unaccepted synonym https://www.gbif.org/species/7516124 / http://www.marinespecies.org/aphia.php?p=taxdetails&id=233085
   ['Gymnodium simplex', 'Gymnodinium simplex'], // typo
   ['Gymnodinium wulfii', 'Gymnodinium wulffii'], //typo
+  ['Gyrodinium flagelare', 'Gyrodinium flagellare'], //typo
+  ['Gyrodinium wulfii', 'Gyrodinium wulffii'],
 
   ['Heterorhabdus compactus', 'Paraheterorhabdus compactus'],
+  // 1 Invalid taxon "Heterocapsa triquerta"
+  // 1 Invalid taxon "Heterocapsa rotudnata"
 
   ['Kathodinium', 'Katodinium'], //typo
   ['Kathodinium glaucum', 'Katodinium glaucum'], //typo
 
+  ['Lesardia elongata', 'Lessardia elongata'], // typo http://www.marinespecies.org/aphia.php?p=taxdetails&id=232703
   ['Laboea strobilum', 'Laboea strobila'], // typo http://www.marinespecies.org/aphia.php?p=taxdetails&id=101264
   ['Lubbockia brevis', 'Homeognathia brevis'],
 
@@ -78,6 +113,8 @@ export const taxonFixes = [
   ['Navicula vanhoefenii', 'Navicula vanhoeffenii'], // typo
   //['Nitzschia granii', 'Pseudo-nitzschia granii'],
   ['Nitzschia leavissima', 'Nitzschia levissima'],
+  // 1 Invalid taxon "Nitzschiabananik bokeim"
+  // 1 Invalid taxon "Nitzschia arctica"
   ['Neoceratium arcticum', 'Ceratium arcticum'], // unaccepted http://www.marinespecies.org/aphia.php?p=taxdetails&id=495629
 
   ['Oncaea conifera', 'Triconia conifera'], // http://www.marinespecies.org/aphia.php?p=taxdetails&id=128957
@@ -91,76 +128,30 @@ export const taxonFixes = [
   ['Scolocithricella minor', 'Scolecithricella minor'], //typo
   ['Strombidium estatum', 'Strombidium'], // -> genus, unknown species epithet ('estatum')
 
-  ['Thalasiossira borealis', 'Thalassiosira borealis'], //typo
+
+  // 1 Invalid taxon "Strombidium spiralissloneczko"
+  // 1 Invalid taxon "Strombidium spiralis"
+  // 1 Invalid taxon "Strobilidium spiralis"
+  // 1 Invalid taxon "Scuticociliatida"
+
+  ['Thalasiossira borealis', 'Thalassiosira borealis'], // typo
+  ['Thalasiosira hyalina', 'Thalassiosira hyalina'], // typo
   ['Thalasiossira pacyfica', 'Thalassiosira pacifica'], //typo
   ['Thalassiosira pacyficaphoto', 'Thalassiosira pacifica'], //typo
+  ["Thalassiosira anguste", 'Thalassiosira'], // -> genus, unknown species epithet ('anguste')
   ['Tharybis groenlandicus', 'Tharybis groenlandica'], //typo
   ['Tintinnus inquilinum', 'Tintinnus inquilinus'], //typo?
 
+    // 1 Invalid taxon "Thallassionema nitzschioides"
+    // 1 Invalid taxon "Thalasiosira hyalina"
+    // 1 Invalid taxon "Teleaulax marina"
+
   ['Undeuchaeta spectabilis', 'Pseudochirella spectabilis'],
 
-  ['Pleurochrysis carterae', 'Chrysotila carteri'],
+  ['Pleurochrysis carterae', 'Chrysotila carterae'], // synonym http://www.marinespecies.org/aphia.php?p=taxdetails&id=837255
   ['Prorocentrum minimum', 'Prorocentrum cordatum'],
   ['Phalacroma rotundata', 'Phalacroma rotundatum'], // phylum Myzozoa
 
   ['Uronema marina', 'Uronema marinum'] // phylum Ciliophora
 
 ];
-
-
- // 65 Invalid taxon: "Pachysphaera"
- // 60 Invalid taxon: "Phalacroma rotundatum"
- // 54 Invalid taxon: "Flagellate"
- // 52 Invalid taxon: "Laboea strobilum"
- // 34 Invalid taxon: "Cyst"
- // 27 Invalid taxon: "Gymnodinium krasnal"
- // 27 Invalid taxon: "Dinobryon statospores"
- // 24 Invalid taxon: "Polariella glacialis"
- // 24 Invalid taxon: "Euglena"
- // 22 Invalid taxon: "Choreotrich ciliate"
- // 19 Invalid taxon: "Neoceratium arcticum"
- // 14 Invalid taxon: "Nitzschia granii"
- // 12 Invalid taxon: "Odentella aurita"
- // 12 Invalid taxon: "Centriceae"
- // 10 Invalid taxon: "Spores"
- // 10 Invalid taxon: "Halosphaeracos"
- //  9 Invalid taxon: "Calciodinelloideae"
- //  8 Invalid taxon: "Choanoflagellata"
- //  8 Invalid taxon: "Amphidoma acuminata"
- //  7 Invalid taxon: "Tintinnus"
- //  7 Invalid taxon: "Pierscionek"
- //  6 Invalid taxon: "Lesardia elongata"
- //  6 Invalid taxon: "Fecal pelet"
- //  6 Invalid taxon: "Chrysophycea"
- //  6 Invalid taxon: "Choanoflagellida"
- //  6 Invalid taxon: "Ceratium"
- //  5 Invalid taxon: "Spora"
- //  5 Invalid taxon: "Ciliataolbrzym"
- //  5 Invalid taxon: "Chrysotila carteri"
- //  4 Invalid taxon: "Tunicata"
- //  4 Invalid taxon: "Raphidiophyceae"
- //  4 Invalid taxon: "Monads"
- //  4 Invalid taxon: "Gymnodinium estuariale"
- //  4 Invalid taxon: "Cochlodinium pulchellum"
- //  3 Invalid taxon: "Unidentified cells"
- //  3 Invalid taxon: "Thalassiosira pacyficaphoto"
- //  3 Invalid taxon: "Thalassiosira anguste"
- //  3 Invalid taxon: "Scuticocilliatae"
- //  3 Invalid taxon: "Gyrodinium wulfii"
- //  3 Invalid taxon: "Chrysocist"
- //  2 Invalid taxon: "Uniflgellates"
- //  2 Invalid taxon: "Unifagellates"
- //  2 Invalid taxon: "Strombidium spiralissloneczko"
- //  2 Invalid taxon: "Strombidium spiralis"
- //  2 Invalid taxon: "Strobilidium spiralis"
- //  2 Invalid taxon: "Scuticociliatida"
- //  2 Invalid taxon: "Ribbon diatoms"
- //  2 Invalid taxon: "Nitzschiabananik bokeim"
- //  2 Invalid taxon: "Nitzschia arctica"
- //  2 Invalid taxon: "Naviculatasma"
- //  2 Invalid taxon: "Microcystis"
- //  2 Invalid taxon: "Meringosphaerazielone"
- //  2 Invalid taxon: "Indeterm spores"
- //  2 Invalid taxon: "Heterocapsa rotudnata"
- //  2 Invalid taxon: "Favella meunieri"
- //  2 Invalid taxon: "Dinoflagella
