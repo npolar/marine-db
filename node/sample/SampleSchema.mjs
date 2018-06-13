@@ -5,8 +5,7 @@ import {GearVocab} from './GearVocab.mjs';
 
 const sampleSchemaPath = path.resolve('web/schema/sample-schema.json');
 const sampleSchema = JSON.parse(fs.readFileSync(sampleSchemaPath));
-const gearEnum = new GearVocab().schema.enum;
-sampleSchema.properties.gear.enum = gearEnum;
+sampleSchema.properties.gear.enum = new GearVocab().schema.enum;
 
 export class SampleSchema extends JsonSchema {
   constructor(schema=sampleSchema) {

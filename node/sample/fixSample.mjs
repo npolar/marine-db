@@ -11,9 +11,7 @@ export function fixSample(s) {
   }
   s.sample = s.sample.replace(/[\s,"']+/g, '_');
   s.station = fixStationTerm(s.station);
-
   s.gear = fixGearTerm(s.gear);
-
   if (s.time) {
     s.time = fixTime(s.time);
   }
