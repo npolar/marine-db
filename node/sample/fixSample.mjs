@@ -1,20 +1,29 @@
 import {fixTime} from '../event/fixTime';
+import {fixStationTerm} from '../event/fixStationTerm';
+import {fixGearTerm} from './fixGearTerm';
+import {SampleSchema} from './SampleSchema';
+
+const sampleschema = new SampleSchema();
 
 export function fixSample(s) {
-  s.sample = String(s.sample).trim();
+
+  s.sample = s.sample.replace(/[\s,"']+/g, '_');
+  s.station = fixStationTerm(s.station);
+
+  s.gear = fixGearTerm(s.gear);
 
   if (s.time) {
     s.time = fixTime(s.time);
   }
+  s = sampleschema.fixTypes(s);
 
-  // After 2014, the sample name might not be unique across expeditions
-  if (/^[A-Z]{3}\-[0-9]{1,}$/i.test(s.sample)) {
-    if (!s.expedition) {
-      throw `No expedition for sample ${s.sample}`;
-    }
-    if (!s.time || new Date(s.time).getFullYear() >= 2014) {
-      s.sample = `${s.expedition}/${s.sample}`.trim();
-    }
+  // 2014 to 2017: the sample is not guaranteed to be unique across expeditions
+  if ((/201[4567]$/).test(s.expedition)) {
+    s.sample = `${s.expedition}$${s.sample}`.trim();
   }
+  if (null === s.depth_bottom) {
+    delete s.depth_bottom;
+  }
+
   return s;
 }
