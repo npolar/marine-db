@@ -1,0 +1,138 @@
+{
+  "$id": "https://data.npolar.no/marine/schema/sample-schema.json",
+  "type": "object",
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "properties": {
+    "expedition": {
+      "$id": "#/properties/expedition",
+      "type": "string",
+      "pattern": "^[a-zA-ZæøåÆØÅ0-9\\s\\-_\\/u]+$",
+      "title": "Expedition code",
+      "@todo": "Disallow: space",
+      "examples": [
+        "Alkekonge2010"
+      ]
+    },
+    "station": {
+      "$id": "#/properties/station",
+      "type": "string",
+      "pattern": "^[a-zA-ZæøåÆØÅ0-9\\.\\(\\),\\s\\+\\-_\\/u]+$",
+      "title": "Station name",
+      "@todo": "Disallow: space , + ",
+      "examples": [
+        "Kb3"
+      ]
+    },
+    "latitude": {
+      "$id": "#/properties/latitude",
+      "type": "number",
+      "title": "Latitude",
+      "minimum": -90,
+      "maximum": 90,
+      "examples": [
+        78.310302734375
+      ]
+    },
+    "longitude": {
+      "$id": "#/properties/longitude",
+      "type": "number",
+      "minimum": -180,
+      "maximum": 180,
+      "title": "Longitude",
+      "examples": [
+        16.043899536132812
+      ]
+    },
+    "depth_bottom": {
+      "$id": "#/properties/depth_bottom",
+      "type": ["number","null"],
+      "title": "Depth_bottom",
+      "examples": [
+        30
+      ]
+    },
+    "time": {
+      "$id": "#/properties/time",
+      "type": "string",
+      "format": "date-time",
+      "title": "Sampling time in UTC",
+      "default": "",
+      "examples": [
+        "2010-07-17T12:50:00Z"
+      ]
+    },
+    "gear": {
+      "$id": "#/properties/gear",
+      "type": "string",
+      "pattern": "^[a-zA-Zµ0-9\\s\\-_\\/u]+$",
+      "title": "Gear",
+      "examples": [
+        "Ship CTD"
+      ]
+    },
+    "depth_from": {
+      "$id": "#/properties/depth_from",
+      "type": ["number","null"],
+      "title": "Depth_from",
+      "examples": [
+        50
+      ]
+    },
+    "depth_to": {
+      "$id": "#/properties/depth_to",
+      "type": ["number","null"],
+      "title": "Depth_to",
+      "examples": [
+        25
+      ]
+    },
+    "filtered_volume": {
+      "$id": "#/properties/filtered_volume",
+      "type": ["number","null"],
+      "title": "Filtered_volume",
+      "examples": [
+        ""
+      ]
+    },
+    "sample_type": {
+      "$id": "#/properties/sample_type",
+      "type": "string",
+      "title": "Sample_type",
+      "default": "",
+      "examples": [
+        "CTD"
+      ]
+    },
+    "responsible": {
+      "$id": "#/properties/responsible",
+      "type": "string",
+      "title": "Responsible",
+      "default": "",
+      "examples": [
+        "Alexey Pavlov"
+      ]
+    },
+    "sampleRemarks": {
+      "$id": "#/properties/sampleRemarks",
+      "type": "string",
+      "title": "Comments on sample",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "sample": {
+      "$id": "#/properties/sample",
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 64,
+      "pattern": "^[a-zA-ZæøåÆØÅ0-9\\-_\\/u]+$",
+      "title": "Sample",
+      "default": "",
+      "examples": [
+        "ALK10-1"
+      ]
+    }
+  }
+}
