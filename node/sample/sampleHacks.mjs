@@ -19,12 +19,15 @@ export const sampleHacks = (s) => {
   if (!s.sample && s.id) {
     s.sample = s.id;
   }
-
-  s.sample = String(s.sample).trim();
-
+  if (!s.sampleRemarks && s.comment) {
+    s.sampleRemarks = s.comment;
+  }
+  
   delete s.sample_name;
   delete s.sample_id;
   delete s.sampleid;
+  delete s.comment;
+
   if (!s.samplesizeunit && s.unit) {
     s.samplesizeunit = s.unit;
     delete s.unit;

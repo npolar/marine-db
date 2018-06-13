@@ -6,7 +6,9 @@ import {SampleSchema} from './SampleSchema';
 const sampleschema = new SampleSchema();
 
 export function fixSample(s) {
-
+  if (0 === String(s.sample).length) {
+    throw "Cannot fix sample without name";
+  }
   s.sample = s.sample.replace(/[\s,"']+/g, '_');
   s.station = fixStationTerm(s.station);
 

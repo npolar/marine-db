@@ -3,6 +3,7 @@ const badGear = [
   [/^co2.?chambers?$/i, 'CO2 chamber'],
   [/^mik.?1500.?[μµ]m$/ui, 'MIK-net 1500 µm'],
   [/^wp3.?1000/ui, 'WP3 1000 µm'],
+  [/^wp2.?64/ui, 'WP2 64 µm'],
   [/^multinet.?200.?[μµ]m$/ui, 'Multinet 200 µm'],
   [/^multinet.?64.?[μµ]m$/ui, 'Multinet 64 µm'],
   [/^handnet.?20.?[μµ]m$/ui, 'Handnet 20 µm'], // μ !== µ
