@@ -1,5 +1,5 @@
 Expedition,Sample name,Station,Latitude (decimals),Longitude (decimals),Bottom depth (m),Sampling date (UTC),Gear,Sampling depth (m) from,Sampling depth (m) to,Filtration volume (ml),Sample type,Responsible,Comment
-ARCEx2016,PHT-001,vMf1-769,77.8317,16.4865,65,18/05/2016 04:00,Niskin bottle,60,,,Phytoplankton taxonomy,Philipp Assmy,
+ARCEx2016,PHT-001,vMf1-769,77.8317,16.4865,65,18/05/2016 04:00:00,Niskin bottle,60,,,Phytoplankton taxonomy,Philipp Assmy,
 ARCEx2016,PHT-002,vMf1-769,77.8317,16.4865,65,18/05/2016 04:00,Niskin bottle,15,,,Phytoplankton taxonomy,Philipp Assmy,
 ARCEx2016,PHT-003,vMf1-771,77.8317,16.4865,65,18/05/2016 05:00,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,
 ARCEx2016,PHT-004,vMf1-771,77.8317,16.4865,65,18/05/2016 05:00,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,
