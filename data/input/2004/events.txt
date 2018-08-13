@@ -126,29 +126,29 @@ time	longitude	latitude	station	vessel	expedition	gear	sample_ids	depths	sample_
 2004-07-21T06:00:00Z			V10	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 06|04BIO 07|04BIO 08|04BIO 09|04BIO 10"	260-175|175-150|150-70|70-30|30-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	273
 2004-07-21T09:00:00Z			V12	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 11|04BIO 12|04BIO 13|04BIO 14|04BIO 15"	220-175|175-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	230
 2004-07-21T12:30:00Z			Kb0	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 16"	320-230	taxonomy	mesozooplankton	330
-2004-07-21T12:30:00Z			Kb1	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 17"	230-150	taxonomy	mesozooplankton	330	
-2004-07-21T12:30:00Z			Kb2	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 18"	150-60	taxonomy	mesozooplankton	330
-2004-07-21T12:30:00Z			Kb3	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 19"	60-20	taxonomy	mesozooplankton	330
-2004-07-21T12:30:00Z			Kb9	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 25"	20-0	taxonomy	mesozooplankton	330
-2004-07-21T14:00:00Z			Kb4	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 20"	20-0	taxonomy	mesozooplankton	350
-2004-07-21T14:00:00Z			Kb5	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 21"	340-225	taxonomy	mesozooplankton	350
-2004-07-21T14:00:00Z			Kb6	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 22"	225-175	taxonomy	mesozooplankton	350
-2004-07-21T14:00:00Z			Kb7	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 23"	175-75	taxonomy	mesozooplankton	350
-2004-07-21T14:00:00Z			Kb8	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 24"	75-20	taxonomy	mesozooplankton	350
-2004-07-21T15:00:00Z			Kb10	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 26"	310-182	taxonomy	mesozooplankton	330
-2004-07-21T15:00:00Z			Kb11	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 27"	182-140	taxonomy	mesozooplankton	330
-2004-07-21T15:00:00Z			Kb12	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 28"	140-60	taxonomy	mesozooplankton	330
-2004-07-21T15:00:00Z			Kb13	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 29"	60-25	taxonomy	mesozooplankton	330
-2004-07-21T15:00:00Z			Kb14	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 30"	25-0	taxonomy	mesozooplankton	330
-2004-07-21T17:00:00Z			Kb15	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 31"	340-180	taxonomy	mesozooplankton	350
-2004-07-21T17:00:00Z			Kb16	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 32"	180-90	taxonomy	mesozooplankton	350
-2004-07-21T17:00:00Z			Kb17	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 33"	90-50	taxonomy	mesozooplankton	350
-2004-07-21T17:00:00Z			Kb18	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 34"	50-20	taxonomy	mesozooplankton	350
-2004-07-21T17:00:00Z			Kb19	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 35"	20-0	taxonomy	mesozooplankton	350
-2004-07-21T19:00:00Z			Kb20	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 36"	85-45	taxonomy	mesozooplankton	97
-2004-07-21T19:00:00Z			Kb21	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 37"	45-25	taxonomy	mesozooplankton	97
-2004-07-21T19:00:00Z			Kb22	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 38"	25-10	taxonomy	mesozooplankton	97
-2004-07-21T19:00:00Z			Kb23	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 39"	10-0	taxonomy	mesozooplankton	97
+2004-07-21T12:30:00Z			Kb0	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 17"	230-150	taxonomy	mesozooplankton	330
+2004-07-21T12:30:00Z			Kb0	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 18"	150-60	taxonomy	mesozooplankton	330
+2004-07-21T12:30:00Z			Kb0	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 19"	60-20	taxonomy	mesozooplankton	330
+2004-07-21T12:30:00Z			Kb2	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 25"	20-0	taxonomy	mesozooplankton	330
+2004-07-21T14:00:00Z			Kb1	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 20"	20-0	taxonomy	mesozooplankton	350
+2004-07-21T14:00:00Z			Kb1	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 21"	340-225	taxonomy	mesozooplankton	350
+2004-07-21T14:00:00Z			Kb1	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 22"	225-175	taxonomy	mesozooplankton	350
+2004-07-21T14:00:00Z			Kb1	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 23"	175-75	taxonomy	mesozooplankton	350
+2004-07-21T14:00:00Z			Kb1	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 24"	75-20	taxonomy	mesozooplankton	350
+2004-07-21T15:00:00Z			Kb2	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 26"	310-182	taxonomy	mesozooplankton	330
+2004-07-21T15:00:00Z			Kb2	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 27"	182-140	taxonomy	mesozooplankton	330
+2004-07-21T15:00:00Z			Kb2	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 28"	140-60	taxonomy	mesozooplankton	330
+2004-07-21T15:00:00Z			Kb2	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 29"	60-25	taxonomy	mesozooplankton	330
+2004-07-21T15:00:00Z			Kb2	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 30"	25-0	taxonomy	mesozooplankton	330
+2004-07-21T17:00:00Z			Kb3	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 31"	340-180	taxonomy	mesozooplankton	350
+2004-07-21T17:00:00Z			Kb3	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 32"	180-90	taxonomy	mesozooplankton	350
+2004-07-21T17:00:00Z			Kb3	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 33"	90-50	taxonomy	mesozooplankton	350
+2004-07-21T17:00:00Z			Kb3	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 34"	50-20	taxonomy	mesozooplankton	350
+2004-07-21T17:00:00Z			Kb3	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 35"	20-0	taxonomy	mesozooplankton	350
+2004-07-21T19:00:00Z			Kb5	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 36"	85-45	taxonomy	mesozooplankton	97
+2004-07-21T19:00:00Z			Kb5	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 37"	45-25	taxonomy	mesozooplankton	97
+2004-07-21T19:00:00Z			Kb5	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 38"	25-10	taxonomy	mesozooplankton	97
+2004-07-21T19:00:00Z			Kb5	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 39"	10-0	taxonomy	mesozooplankton	97
 2004-07-23T17:00:00Z	29.499267	82.405733	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"Multinet 200 µm"	"04CAB 01-1|04CAB 01-2|04CAB 01-3|04CAB 01-4|04CAB 01-5"	1200-600|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
 2004-07-23T17:00:00Z	29.499267	82.405733	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	GEAR-MISSING	"04CAB 03-1"	1200-600	taxonomy		0
 2004-07-23T17:00:00Z	29.499267	82.405733	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"WP3 1000 µm"	"04CAB 03-2|04CAB 03-3|04CAB 03-4|04CAB 03-5|04CAB 03-6"	50-0|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
