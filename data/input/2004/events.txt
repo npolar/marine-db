@@ -1,0 +1,253 @@
+time	longitude	latitude	station	vessel	expedition	gear	sample_ids	depths	sample_types	sample_subtypes	depth_bottom	comment
+2004-05-08T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	"WP2 200 µm"	"2004UV 01|2004UV 09"	50-10|10-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	330
+2004-05-08T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	Bottle	"2004UV 28-1|2004UV 28-2|2004UV 28-3|2004UV 28-4|2004UV 28-5"	5-0|8-5|15-8|25-15|35-25	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton	330
+2004-05-10T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	"WP2 200 µm"	"2004UV 02|2004UV 10"	50-10|10-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	330
+2004-05-10T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	Bottle	"2004UV 18-1|2004UV 18-2|2004UV 18-3|2004UV 18-4|2004UV 18-5|2004UV 29-1|2004UV 29-2|2004UV 29-3|2004UV 29-4|2004UV 29-5"	5-0|8-5|15-8|25-15|35-25|5-0|8-5|15-8|25-15|35-25	lipids|lipids|lipids|lipids|lipids|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	|||||phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton	330
+2004-05-14T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	"WP2 200 µm"	"2004UV 03|2004UV 11"	50-10|10-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	330
+2004-05-14T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	Bottle	"2004UV 19-1|2004UV 19-2|2004UV 19-3|2004UV 19-4|2004UV 19-5|2004UV 19-6|2004UV 30-1|2004UV 30-2|2004UV 30-3|2004UV 30-4|2004UV 30-5|2004UV 30-6"	5-0|8-5|15-8|25-15|35-25|50-35|5-0|8-5|15-8|25-15|35-25|50-35	lipids|lipids|lipids|lipids|lipids|lipids|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	||||||phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton	330
+2004-05-18T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	"WP2 200 µm"	"2004UV 04|2004UV 12"	50-10|10-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	330
+2004-05-18T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	Bottle	"2004UV 20-1|2004UV 20-2|2004UV 20-3|2004UV 20-4|2004UV 20-5|2004UV 31-1|2004UV 31-2|2004UV 31-3|2004UV 31-4|2004UV 31-5"	5-0|8-5|15-8|25-15|35-25|5-0|8-5|15-8|25-15|35-25	lipids|lipids|lipids|lipids|lipids|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	|||||phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton	330
+2004-05-18T12:00:00Z	11.94	78.96	Kb3	Haarek	2004UV	"WP2 200 µm"	UV04-1|UV04-2	10-0|50-10	lipids|lipids	|	329
+2004-05-21T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	"WP2 200 µm"	"2004UV 05|2004UV 13"	50-10|10-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	330
+2004-05-21T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	Bottle	"2004UV 21-1|2004UV 21-2|2004UV 21-3|2004UV 21-4|2004UV 21-5|2004UV 32-1|2004UV 32-2|2004UV 32-3|2004UV 32-4|2004UV 32-5"	5-0|8-5|15-8|25-15|35-25|5-0|8-5|15-8|25-15|35-25	lipids|lipids|lipids|lipids|lipids|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	|||||phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton	330
+2004-05-24T12:31:00Z			STATION-MISSING	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD206"	250-0	ctd		257
+2004-05-25T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	"WP2 200 µm"	"2004UV 06|2004UV 14"	50-10|10-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	330
+2004-05-25T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	Bottle	"2004UV 22-1|2004UV 22-2|2004UV 22-3|2004UV 22-4|2004UV 22-5|2004UV 33-1|2004UV 33-2|2004UV 33-3|2004UV 33-4|2004UV 33-5"	8-5|15-8|25-15|35-25|5-0|5-0|8-5|15-8|25-15|35-25	lipids|lipids|lipids|lipids|lipids|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	|||||phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton	330
+2004-05-25T10:06:00Z	29.8875	77.043	"Barents Sea"	"Jan Mayen"	OTI2004	"Tucker trawl"	"OTI04 ZOO23-1|OTI04 ZOO23-2"	50-0|50-0	experiment|experiment	|	225
+2004-05-25T10:38:00Z	29.874183	77.056683	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD207"	220-0	ctd		226
+2004-05-25T12:00:00Z	11.94	78.96	Kb3	Haarek	2004UV	"WP2 200 µm"	UV04-3|UV04-4	10-0|50-10	lipids|lipids	|	329
+2004-05-25T20:18:00Z	29.859417	77.18795	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD208"	195-0	ctd		206
+2004-05-25T21:31:00Z	29.84565	77.184583	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD209"	195-0	ctd		200
+2004-05-26T00:00:00Z	29.836	77.205833	"Barents Sea"	"Jan Mayen"	OTI2004	"WP2 200 µm"	"OTI04 LIP01"	40-0	lipids		196200
+2004-05-26T06:39:00Z	29.8652	77.17885	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD210"	1-0	ctd		197
+2004-05-26T13:10:00Z	29.836	77.206167	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO24"	50-0	experiment		197
+2004-05-26T13:17:00Z	29.836	77.206167	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO25"	50-0	experiment		199
+2004-05-26T13:26:00Z	29.836	77.206167	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO26"	50-0	experiment		198
+2004-05-26T13:31:00Z	29.836	77.206167	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO27"	50-0	experiment		198
+2004-05-26T13:36:00Z	29.836	77.206167	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO28"	150-0	lipids		198
+2004-05-26T13:49:00Z	29.836	77.206167	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO29"	150-0	lipids		198
+2004-05-26T17:02:00Z	29.83425	77.232333	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD211"	185-0	ctd		194
+2004-05-26T17:36:00Z	29.841	77.2345	"Barents Sea"	"Jan Mayen"	OTI2004	"Multinet 200 µm"	"OTI04 ZOO01-1|OTI04 ZOO01-2|OTI04 ZOO01-3|OTI04 ZOO01-4"	193-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	196
+2004-05-26T18:50:00Z	29.855333	77.236833	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO02"	50-0	taxonomy	mesozooplankton	195
+2004-05-26T19:05:00Z	29.855333	77.236833	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO03"	100-50	taxonomy	mesozooplankton	195
+2004-05-26T19:30:00Z	29.879667	77.2355	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO04"	185-100	taxonomy	mesozooplankton	195
+2004-05-26T21:25:00Z	29.879683	77.168217	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD212"	185-0	ctd		193
+2004-05-27T07:55:00Z	29.872667	77.213167	"Barents Sea"	"Jan Mayen"	OTI2004	"Multinet 200 µm"	"OTI04 ZOO06-1|OTI04 ZOO06-2|OTI04 ZOO06-3"	175-150|150-100|100-50	taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton	195
+2004-05-27T09:40:00Z	29.853717	77.209967	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD213"	185-0	ctd		197
+2004-05-27T10:35:00Z	29.8385	77.208833	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO05"	188-100	taxonomy	mesozooplankton	198
+2004-05-27T13:09:00Z	29.782333	77.206833	"Barents Sea"	"Jan Mayen"	OTI2004	"Multinet 200 µm"	"OTI04 ZOO07-1|OTI04 ZOO07-2|OTI04 ZOO07-3|OTI04 ZOO07-4|OTI04 ZOO07-5"	50-40|40-30|30-20|20-10|10-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	199
+2004-05-27T14:00:00Z	29.782333	77.206833	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO09"	50-0	taxonomy	mesozooplankton	199
+2004-05-27T14:10:00Z	29.782333	77.206833	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO08"	100-50	taxonomy	mesozooplankton	199
+2004-05-27T14:36:00Z	29.751	77.208	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD214"	185-0	ctd		196
+2004-05-27T23:06:00Z	29.589333	77.206667	"Barents Sea"	"Jan Mayen"	OTI2004	"Multinet 200 µm"	"OTI04 ZOO10-1|OTI04 ZOO10-2|OTI04 ZOO10-3|OTI04 ZOO10-4"	180-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	199
+2004-05-28T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	"WP2 200 µm"	"2004UV 07|2004UV 15"	50-10|10-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	330
+2004-05-28T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	Bottle	"2004UV 23-1|2004UV 23-2|2004UV 23-3|2004UV 23-4|2004UV 23-5|2004UV 23-6|2004UV 34-1|2004UV 34-2|2004UV 34-3|2004UV 34-4|2004UV 34-5|2004UV 34-6"	5-0|8-5|15-8|25-15|35-25|60-35|5-0|8-5|15-8|25-15|35-25|60-35	lipids|lipids|lipids|lipids|lipids|lipids|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	||||||phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton	330
+2004-05-28T06:36:00Z	29.442617	77.2007	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD215"	190-0	ctd		198
+2004-05-28T10:10:00Z	29.397167	77.1905	"Barents Sea"	"Jan Mayen"	OTI2004	"Multinet 200 µm"	"OTI04 ZOO12-1|OTI04 ZOO12-2|OTI04 ZOO12-3|OTI04 ZOO12-4"	180-100|100-50|50-25|25-0	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	202
+2004-05-28T12:10:00Z	29.364933	77.182483	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD216"	185-0	ctd		196
+2004-05-28T12:46:00Z	29.354333	77.18	"Barents Sea"	"Jan Mayen"	OTI2004	"Multinet 200 µm"	"OTI04 ZOO16-1|OTI04 ZOO16-2|OTI04 ZOO16-3|OTI04 ZOO16-4"	50-40|40-30|30-20|20-10	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	195
+2004-05-28T13:07:00Z	29.348217	77.178867	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD217"	185-0	ctd		193
+2004-05-28T13:20:00Z	29.340667	77.1775	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO13"	185-100	taxonomy	mesozooplankton	193
+2004-05-28T13:35:00Z	29.340667	77.1775	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO14"	100-50	taxonomy	mesozooplankton	193
+2004-05-28T13:45:00Z	29.340667	77.1775	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO15"	50-0	taxonomy	mesozooplankton	193
+2004-05-28T17:09:00Z	29.299667	77.171233	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD218"	180-0	ctd		188
+2004-05-28T22:05:00Z	29.325233	77.165983	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD219"	175-0	ctd		185
+2004-05-28T22:38:00Z	29.328433	77.164767	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD220"	175-0	ctd		185
+2004-05-28T23:00:00Z	29.332667	77.163833	"Barents Sea"	"Jan Mayen"	OTI2004	"Multinet 200 µm"	"OTI04 ZOO18-1|OTI04 ZOO18-2|OTI04 ZOO18-3|OTI04 ZOO18-4"	170-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	185
+2004-05-28T23:36:00Z	29.330833	77.159333	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO17"	175-100	taxonomy	mesozooplankton	186
+2004-05-28T23:54:00Z	29.568667	77.205833	"Barents Sea"	"Jan Mayen"	OTI2004	"Multinet 200 µm"	"OTI04 ZOO11-1|OTI04 ZOO11-2|OTI04 ZOO11-3|OTI04 ZOO11-4|OTI04 ZOO11-5"	50-40|40-30|30-20|20-10|10-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	200
+2004-05-29T00:00:00Z	29.330833	77.159333	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO19"	100-50	taxonomy	mesozooplankton	187
+2004-05-29T00:15:00Z	29.330833	77.159333	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO20"	50-0	taxonomy	mesozooplankton	187
+2004-05-29T00:26:00Z	29.3325	77.160167	"Barents Sea"	"Jan Mayen"	OTI2004	"Multinet 200 µm"	"OTI04 ZOO21-1|OTI04 ZOO21-2|OTI04 ZOO21-3|OTI04 ZOO21-4"	50-40|40-30|30-20|20-10	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	187
+2004-05-29T05:00:00Z	29.331	77.159333	"Barents Sea"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO30"	50-0	lipids		170
+2004-05-29T05:50:00Z	29.3635	77.161667	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD221"	180-0	ctd		191
+2004-05-29T07:17:00Z	29.47755	77.14925	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD222"	195-0	ctd		204
+2004-05-29T07:59:00Z	29.5731	77.1188	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD223"	195-0	ctd		204
+2004-05-29T08:33:00Z	29.678683	77.0925	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD224"	195-0	ctd		201
+2004-05-29T11:22:00Z	29.863917	77.059167	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD225"	215-0	ctd		221
+2004-05-29T11:54:00Z	29.88075	77.016633	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD226"	225-0	ctd		231
+2004-05-29T12:27:00Z	29.955183	76.95135	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD227"	230-0	ctd		239
+2004-05-29T12:59:00Z	30.018417	76.89755	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD228"	240-0	ctd		248
+2004-05-29T13:33:00Z	30.111683	76.827833	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD229"	250-0	ctd		259
+2004-05-29T14:11:00Z	30.206767	76.749717	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD230"	250-0	ctd		257
+2004-05-29T14:58:00Z	30.3532	76.640267	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD231"	270-0	ctd		279
+2004-05-29T15:52:00Z	30.5148	76.5113	"Barents Sea"	"Jan Mayen"	OTI2004	"Ship CTD"	"OTI04 CTD232"	290-0	ctd		290
+2004-05-30T10:31:00Z			"Bear Island"	"Jan Mayen"	OTI2004	"WP3 1000 µm"	"OTI04 ZOO31"	200-0	lipids		317
+2004-06-01T12:00:00Z	11.94	78.96	Kb3	Haarek	2004UV	"WP2 200 µm"	UV04-5|UV04-6	10-0|50-10	lipids|lipids	|	329
+2004-06-02T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	"WP2 200 µm"	"2004UV 08|2004UV 16"	50-10|10-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	330
+2004-06-02T00:00:00Z	11.943667	78.959	Kb3	Haarek	2004UV	Bottle	"2004UV 24-1|2004UV 24-2|2004UV 24-3|2004UV 24-4|2004UV 24-5|2004UV 24-6|2004UV 35-1|2004UV 35-2|2004UV 35-3|2004UV 35-4|2004UV 35-5|2004UV 35-6"	15-8|25-15|35-25|60-35|5-0|8-5|5-0|8-5|15-8|25-15|35-25|60-35	lipids|lipids|lipids|lipids|lipids|lipids|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	||||||phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton	330
+2004-06-08T00:00:00Z			Kb1	"Jan Mayen"	2004UV	Bottle	"2004UV 25-1|2004UV 25-2|2004UV 25-3|2004UV 25-4|2004UV 25-5|2004UV 25-6|2004UV 36-1|2004UV 36-2|2004UV 36-3|2004UV 36-4|2004UV 36-5"	5-0|8-5|15-8|25-15|30-25|35-30|5-0|8-5|15-8|35-25|25-15	lipids|lipids|lipids|lipids|lipids|lipids|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	||||||phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton	340
+2004-06-08T00:00:00Z			Kb2	"Jan Mayen"	2004UV	Bottle	"2004UV 26-1|2004UV 26-2|2004UV 26-3|2004UV 26-4|2004UV 26-5|2004UV 37-1|2004UV 37-2|2004UV 37-3|2004UV 37-4|2004UV 37-5"	5-0|8-5|15-8|25-15|35-25|5-0|8-5|15-8|25-15|35-25	lipids|lipids|lipids|lipids|lipids|taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	|||||phytoplankton|phytoplankton|phytoplankton|phytoplankton|phytoplankton	300
+2004-06-08T00:00:00Z	11.943667	78.959	Kb3	"Jan Mayen"	2004UV	Bottle	"2004UV 27|2004UV 38-1|2004UV 38-2|2004UV 38-3|2004UV 38-4"	8-0|5-0|8-5|15-8|20-15	lipids|taxonomy|taxonomy|taxonomy|taxonomy	|phytoplankton|phytoplankton|phytoplankton|phytoplankton	330
+2004-06-08T05:30:00Z			V6	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-1-1|04Ek60-1-2|04Ek60-1-3|04Ek60-1-4|04Ek60-1-5	1100-600|200-50|50-20|20-0|600-200	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	1125
+2004-06-08T07:30:00Z			V6	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-2	1100-0	taxonomy	mesozooplankton	1125
+2004-06-08T08:58:00Z			V6	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-3	600-0	taxonomy	mesozooplankton	1125
+2004-06-08T09:25:00Z			V6	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-4	200-0	taxonomy	mesozooplankton	1125
+2004-06-08T09:40:00Z			V6	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-5	50-0	taxonomy	mesozooplankton	1125
+2004-06-08T11:35:00Z	8.57	78.931667	V10	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-6-1|04Ek60-6-2|04Ek60-6-3|04Ek60-6-4|04Ek60-6-5	250-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	269
+2004-06-08T12:04:00Z	8.57	78.931667	V10	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-7	250-0	taxonomy	mesozooplankton	269
+2004-06-08T12:30:00Z	8.57	78.931667	V10	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-8	200-0	taxonomy	mesozooplankton	269
+2004-06-08T12:44:00Z	8.57	78.931667	V10	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-9	50-0	taxonomy	mesozooplankton	269
+2004-06-08T16:20:00Z			Kb0	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-10	300-0	taxonomy	mesozooplankton	329
+2004-06-08T16:43:00Z			Kb0	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-11	200-0	taxonomy	mesozooplankton	329
+2004-06-08T16:55:00Z			Kb0	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-12	50-0	taxonomy	mesozooplankton	329
+2004-06-08T17:30:00Z			Kb0	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-13-1|04Ek60-13-2|04Ek60-13-3|04Ek60-13-4|04Ek60-13-5	320-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	329
+2004-06-08T17:30:00Z	11.416667	79.01	Kb1	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-14-1|04Ek60-14-2|04Ek60-14-3|04Ek60-14-4|04Ek60-14-5	349-200|200-100|100-50|50-10|10-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	351
+2004-06-08T22:37:00Z	11.421667	79.006667	Kb1	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-15	360-0	taxonomy	mesozooplankton	375
+2004-06-08T23:10:00Z	11.421667	79.006667	Kb1	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-16	200-0	taxonomy	mesozooplankton	375
+2004-06-08T23:30:00Z	11.421667	79.006667	Kb1	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-17	50-0	taxonomy	mesozooplankton	375
+2004-06-08T23:43:00Z	11.421667	79.006667	Kb1	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-18	20-0	taxonomy	mesozooplankton	375
+2004-06-09T02:30:00Z	11.745	78.978333	Kb2	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-19	230-0	taxonomy	mesozooplankton	237
+2004-06-09T02:45:00Z	11.745	78.978333	Kb2	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-20	200-0	taxonomy	mesozooplankton	237
+2004-06-09T03:00:00Z	11.748333	78.98	Kb2	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-21	50-0	taxonomy	mesozooplankton	191
+2004-06-09T03:10:00Z	11.75	78.98	Kb2	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-22	20-0	taxonomy	mesozooplankton	181
+2004-06-09T03:40:00Z	11.731667	78.976667	Kb2	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-23-1|04Ek60-23-2|04Ek60-23-3|04Ek60-23-4|04Ek60-23-5	290-200|200-100|100-50|50-10|10-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	301
+2004-06-09T03:40:00Z	11.946667	78.956667	Kb3	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-24-1|04Ek60-24-2|04Ek60-24-3|04Ek60-24-4	330-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	345
+2004-06-09T05:45:00Z	11.953333	78.951667	Kb3	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-25	330-0	taxonomy	mesozooplankton	333
+2004-06-09T06:00:00Z	11.958333	78.951667	Kb3	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-26	200-0	taxonomy	mesozooplankton	291
+2004-06-09T06:20:00Z	11.961667	78.95	Kb3	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-27	50-0	taxonomy	mesozooplankton	285
+2004-06-09T06:30:00Z	11.963333	78.95	Kb3	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-28	20-0	taxonomy	mesozooplankton	285
+2004-06-09T19:00:00Z	12.205	78.918333	Kb4	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-29-1|04Ek60-29-2	55-20|20-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	55
+2004-06-09T19:15:00Z	12.205	78.921667	Kb4	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-30	47-0	taxonomy	mesozooplankton	47
+2004-06-09T19:35:00Z	12.205	78.921667	Kb4	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-31	20-0	taxonomy	mesozooplankton	47
+2004-06-09T23:20:00Z	12.428333	78.896667	Kb5	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-32-1|04Ek60-32-2|04Ek60-32-3	70-50|50-20|20-0	taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton	80
+2004-06-10T00:01:00Z	12.425	78.883333	Kb5	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-33	75-0	taxonomy	mesozooplankton	79
+2004-06-10T00:15:00Z	12.425	78.883333	Kb5	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-34	50-0	taxonomy	mesozooplankton	79
+2004-06-10T00:25:00Z	12.425	78.883333	Kb5	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-35	20-0	taxonomy	mesozooplankton	79
+2004-06-10T08:40:00Z	11.948333	78.94	Kb3	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-36	100-0	taxonomy	mesozooplankton	280
+2004-06-10T09:05:00Z	11.941667	78.94	Kb3	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-37-1|04Ek60-37-2|04Ek60-37-3|04Ek60-37-4|04Ek60-37-5	330-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	343
+2004-06-10T15:00:00Z	11.428333	78.005	Kb1	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-38-1|04Ek60-38-2|04Ek60-38-3|04Ek60-38-4|04Ek60-38-5	320-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	377
+2004-06-10T20:20:00Z	11.428333	78.005	Kb1	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-39	270-0	taxonomy	mesozooplankton	377
+2004-06-10T20:45:00Z	11.428333	78.005	Kb1	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-40	200-0	taxonomy	mesozooplankton	377
+2004-06-10T21:00:00Z	11.428333	78.005	Kb1	Lance	EK60-2004	"WP3 1000 µm"	04Ek60-41	50-0	taxonomy	mesozooplankton	377
+2004-06-10T21:30:00Z	8.541667	78.94	V10	Lance	EK60-2004	"Multinet 200 µm"	04Ek60-42-1|04Ek60-42-2|04Ek60-42-3|04Ek60-42-4|04Ek60-42-5	290-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	304
+2004-07-04T02:00:00Z	28.77875	79.408783	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"WP3 1000 µm"	"04CAB 06-1|04CAB 06-2|04CAB 06-3"	290-100|100-50|50-0	taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-07-21T03:30:00Z			V6	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 01|04BIO 02|04BIO 03|04BIO 04|04BIO 05"	500-390|390-280|280-60|60-30|30-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	1100
+2004-07-21T06:00:00Z			V10	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 06|04BIO 07|04BIO 08|04BIO 09|04BIO 10"	260-175|175-150|150-70|70-30|30-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	273
+2004-07-21T09:00:00Z			V12	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 11|04BIO 12|04BIO 13|04BIO 14|04BIO 15"	220-175|175-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	230
+2004-07-21T12:30:00Z			Kb0	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 16"	320-230	taxonomy	mesozooplankton	330
+2004-07-21T12:30:00Z			Kb1	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 17"	230-150	taxonomy	mesozooplankton	330	
+2004-07-21T12:30:00Z			Kb2	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 18"	150-60	taxonomy	mesozooplankton	330
+2004-07-21T12:30:00Z			Kb3	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 19"	60-20	taxonomy	mesozooplankton	330
+2004-07-21T12:30:00Z			Kb9	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 25"	20-0	taxonomy	mesozooplankton	330
+2004-07-21T14:00:00Z			Kb4	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 20"	20-0	taxonomy	mesozooplankton	350
+2004-07-21T14:00:00Z			Kb5	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 21"	340-225	taxonomy	mesozooplankton	350
+2004-07-21T14:00:00Z			Kb6	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 22"	225-175	taxonomy	mesozooplankton	350
+2004-07-21T14:00:00Z			Kb7	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 23"	175-75	taxonomy	mesozooplankton	350
+2004-07-21T14:00:00Z			Kb8	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 24"	75-20	taxonomy	mesozooplankton	350
+2004-07-21T15:00:00Z			Kb10	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 26"	310-182	taxonomy	mesozooplankton	330
+2004-07-21T15:00:00Z			Kb11	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 27"	182-140	taxonomy	mesozooplankton	330
+2004-07-21T15:00:00Z			Kb12	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 28"	140-60	taxonomy	mesozooplankton	330
+2004-07-21T15:00:00Z			Kb13	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 29"	60-25	taxonomy	mesozooplankton	330
+2004-07-21T15:00:00Z			Kb14	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 30"	25-0	taxonomy	mesozooplankton	330
+2004-07-21T17:00:00Z			Kb15	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 31"	340-180	taxonomy	mesozooplankton	350
+2004-07-21T17:00:00Z			Kb16	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 32"	180-90	taxonomy	mesozooplankton	350
+2004-07-21T17:00:00Z			Kb17	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 33"	90-50	taxonomy	mesozooplankton	350
+2004-07-21T17:00:00Z			Kb18	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 34"	50-20	taxonomy	mesozooplankton	350
+2004-07-21T17:00:00Z			Kb19	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 35"	20-0	taxonomy	mesozooplankton	350
+2004-07-21T19:00:00Z			Kb20	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 36"	85-45	taxonomy	mesozooplankton	97
+2004-07-21T19:00:00Z			Kb21	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 37"	45-25	taxonomy	mesozooplankton	97
+2004-07-21T19:00:00Z			Kb22	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 38"	25-10	taxonomy	mesozooplankton	97
+2004-07-21T19:00:00Z			Kb23	Oceania	BIODAFF-2004	"Multinet 200 µm"	"04BIO 39"	10-0	taxonomy	mesozooplankton	97
+2004-07-23T17:00:00Z	29.499267	82.405733	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"Multinet 200 µm"	"04CAB 01-1|04CAB 01-2|04CAB 01-3|04CAB 01-4|04CAB 01-5"	1200-600|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-07-23T17:00:00Z	29.499267	82.405733	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	GEAR-MISSING	"04CAB 03-1"	1200-600	taxonomy		0
+2004-07-23T17:00:00Z	29.499267	82.405733	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"WP3 1000 µm"	"04CAB 03-2|04CAB 03-3|04CAB 03-4|04CAB 03-5|04CAB 03-6"	50-0|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-07-24T01:00:00Z	29.552267	82.400217	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"Multinet 200 µm"	"04CAB 02-1|04CAB 02-2|04CAB 02-3|04CAB 02-4|04CAB 02-5"	1200-600|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-07-28T01:30:00Z	28.7786	79.408783	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	GEAR-MISSING	"04CAB 04-1|04CAB 04-2"	20-0|300-200	taxonomy|taxonomy	|	0
+2004-07-28T01:30:00Z	28.7786	79.408783	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"Multinet 200 µm"	"04CAB 04-3|04CAB 04-4|04CAB 04-5|04CAB 04-6|04CAB 04-7"	50-20|200-100|100-50|50-12|12-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-07-28T13:00:00Z	28.77875	79.441133	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"Multinet 200 µm"	"04CAB 05-1|04CAB 05-2|04CAB 05-3|04CAB 05-4|04CAB 05-5"	290-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-07-30T01:21:00Z	30.21095	79.902367	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"Multinet 200 µm"	"04CAB 07-1|04CAB 07-2|04CAB 07-3|04CAB 07-4|04CAB 07-5"	220-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-07-30T02:30:00Z	30.1468	80.939	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"WP3 1000 µm"	"04CAB 09-1|04CAB 09-2|04CAB 09-3"	200-100|100-50|50-0	taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-07-30T12:30:00Z	30.1652	79.937317	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"Multinet 200 µm"	"04CAB 08-1|04CAB 08-2|04CAB 08-3|04CAB 08-4|04CAB 08-5"	220-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-07-31T00:30:00Z	30.955983	80.022583	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"Multinet 200 µm"	"04CAB 10-1|04CAB 10-2|04CAB 10-3"	88-50|50-13|13-0	taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-07-31T16:30:00Z	30.6533	80.124567	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"Multinet 200 µm"	"04CAB 11-1|04CAB 11-2|04CAB 11-3|04CAB 11-4"	200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-08-01T17:00:00Z	30.6533	80.024567	"Northern Barents Sea"	"Jan Mayen"	CABANERA-2004	"WP3 1000 µm"	"04CAB 13-1|04CAB 13-2|04CAB 13-3"	200-100|100-50|50-0	taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-08-22T19:30:00Z			"ST1 BF"	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-1	180-0	taxonomy	mesozooplankton	180
+2004-08-22T19:45:00Z			"ST1 BF"	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-2	180-0	taxonomy	mesozooplankton	180
+2004-08-23T00:30:00Z			"ST5 KF"	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-3	300-0	taxonomy	mesozooplankton	320
+2004-08-24T00:30:00Z			"ST8 Hinlopen"	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-4|MD_04-5	200-0|200-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	0
+2004-08-26T16:00:00Z			"ST11 Ice"	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-6|MD_04-7	300-0|300-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	0
+2004-08-27T18:00:00Z			ST12	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-8|MD_04-9	300-0|300-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	0
+2004-08-27T20:30:00Z			ST13	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-10|MD_04-11|MD_04-12	300-0|300-0|120-0	taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-08-27T20:30:00Z			ST14	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-13	300-0	taxonomy	mesozooplankton	0
+2004-08-27T23:30:00Z			ST14	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-14	300-0	taxonomy	mesozooplankton	0
+2004-08-28T02:30:00Z			ST15	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-15|MD_04-16	300-0|300-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	0
+2004-08-28T04:30:00Z			ST16	"Jan Mayen"	UNIS-AB202-2004	"WP2 200 µm"	MD_04-17|MD_04-18	160-0|160-0	taxonomy|taxonomy	mesozooplankton|mesozooplankton	0
+2004-08-31T01:00:00Z	7.77	78.9	V6	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-1|AB320_04-2|AB320_04-3|AB320_04-4|AB320_04-5	1100-600|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	1130
+2004-08-31T04:30:00Z	7.774333	78.904	V6	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04V6 WP3-1|04V6 WP3-2|04V6 WP3-3"	600-200|200-0|1100-600	taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton	1142
+2004-08-31T06:30:00Z	7.672	78.94	V6	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04V6 MPS-1|04V6 MPS-2|04V6 MPS-3|04V6 MPS-4|04V6 MPS-5"	1100-600|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	1160
+2004-08-31T08:30:00Z	8.533167	78.9345	V10	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04V10 MPS-1|04V10 MPS-2|04V10 MPS-3|04V10 MPS-4|04V10 MPS-5"	260-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	333
+2004-08-31T09:00:00Z	8.54	78.94	V10	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-10|AB320_04-6|AB320_04-7|AB320_04-8|AB320_04-9	20-0|260-200|200-100|100-50|50-20	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-08-31T09:55:00Z	10.82015	78.025367	V15	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04V15 MPS-1|04V15 MPS-2|04V15 MPS-3|04V15 MPS-4|04V15 MPS-5"	322-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	333
+2004-08-31T11:45:00Z	10.9	78.026	V15	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-11|AB320_04-12|AB320_04-13|AB320_04-14|AB320_04-15	322-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	333
+2004-08-31T13:30:00Z	11.507733	78.989733	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Kb1 MPS-1|04Kb1 MPS-2|04Kb1 MPS-3|04Kb1 MPS-4|04Kb1 MPS-5"	302-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	311
+2004-08-31T13:30:00Z	11.41	79.01	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-16|AB320_04-17|AB320_04-18|AB320_04-19|AB320_04-20	300-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	311
+2004-08-31T19:30:00Z	11.93125	78.950667	Kb3	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Kb3 MPS-1|04Kb3 MPS-2|04Kb3 MPS-3|04Kb3 MPS-4|04Kb3 MPS-5"	355-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	354
+2004-08-31T19:30:00Z	11.94	78.96	Kb3	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-21|AB320_04-22|AB320_04-23|AB320_04-24|AB320_04-25	345-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	354
+2004-08-31T20:45:00Z	11.66	78.99	Kb2	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-26|AB320_04-27|AB320_04-28|AB320_04-29|AB320_04-30	300-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	358
+2004-08-31T21:00:00Z	11.680517	78.93435	Kb2	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Kb2 MPS-1|04Kb2 MPS-2|04Kb2 MPS-3|04Kb2 MPS-4"	300-200|200-100|50-20|100-50	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	321
+2004-08-31T23:00:00Z	11.39925	79.007333	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Kb1 MPS 1-1|04Kb1 MPS 1-2|04Kb1 MPS 1-3|04Kb1 MPS 1-4|04Kb1 MPS 1-5"	355-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	390
+2004-08-31T23:50:00Z	11.366183	79.0101	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Tucker trawl"	"04Kb1 TT-1"	200-0	taxonomy		373
+2004-09-01T00:40:00Z	11.325767	79.01535	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Tucker trawl"	"04Kb1 TT-2"	300-0	taxonomy		339
+2004-09-01T00:44:00Z	11.401217	79.007533	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Pelagic trawl"	"04Kb1 PT-1"	180-0	taxonomy		389
+2004-09-01T01:05:00Z	11.48165	78.999017	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Pelagic trawl"	"04Kb1 PT-2"	200-0	taxonomy		361
+2004-09-01T01:40:00Z	11.46065	79.003533	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Tucker trawl"	"04Kb1 TT-3"	100-0	taxonomy		370
+2004-09-01T01:41:00Z	11.522067	78.98925	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Bottom trawl"	"04Kb1 BT-1"	290-0	taxonomy		300
+2004-09-01T02:05:00Z	11.405167	79.006983	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Bottom trawl"	"04Kb1 BT-2"	380-0	taxonomy		390
+2004-09-01T10:00:00Z	11.4215	79.003833	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Kb1 MPS2-1|04Kb1 MPS2-2|04Kb1 MPS2-3|04Kb1 MPS2-4|04Kb1 MPS2-5"	365-200|200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	387
+2004-09-01T11:30:00Z	11.505217	78.996567	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Tucker trawl"	"04Kb1 TT 1"	200-0	taxonomy		388
+2004-09-01T12:30:00Z	11.502	78.997867	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Tucker trawl"	"04Kb1 TT 2"	100-0	taxonomy		389
+2004-09-01T14:41:00Z	11.41855	79.0043	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Pelagic trawl"	"04Kb1 PT 1"	170-150	taxonomy		389
+2004-09-01T15:32:00Z	11.452	79.001017	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Pelagic trawl"	"04Kb1 PT 2"	300-0	taxonomy		371
+2004-09-01T15:34:00Z	11.4772	78.995433	Kb1	"Jan Mayen"	UNIS-AB320-2004	"Bottom trawl"	"04Kb1 BT-3"	340-0	taxonomy		351
+2004-09-01T23:31:00Z			Smeerenburgfjorden	"Jan Mayen"	UNIS-AB320-2004	"Pelagic trawl"	"04SMEER PT"	120-0	lipids		202
+2004-09-02T00:30:00Z			"MN9 SMB"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-31|AB320_04-32|AB320_04-33|AB320_04-34	200-100|100-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	217
+2004-09-02T05:00:00Z			MN10	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-35|AB320_04-36|AB320_04-37|AB320_04-38|AB320_04-39	600-300|300-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	796
+2004-09-02T10:00:00Z			MN11	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-40|AB320_04-41|AB320_04-42|AB320_04-43|AB320_04-44	600-300|300-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	2033
+2004-09-02T13:45:00Z			MN12	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-45|AB320_04-46|AB320_04-47|AB320_04-48|AB320_04-49	600-300|300-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	1950
+2004-09-02T23:15:00Z	11.68785	81.998767	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Ice1 MPS 1-1|04Ice1 MPS 1-2|04Ice1 MPS 1-3|04Ice1 MPS 1-4|04Ice1 MPS 1-5"	1100-600|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	1137
+2004-09-03T02:40:00Z	11.87135	81.994633	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice1 WP3 1"	1100-600	taxonomy	mesozooplankton	1186
+2004-09-03T04:00:00Z	11.953167	81.992433	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice1 WP3 2"	600-200	taxonomy	mesozooplankton	1190
+2004-09-03T04:40:00Z	11.983617	81.990733	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice1 WP3 3"	200-50	taxonomy	mesozooplankton	1186
+2004-09-03T05:00:00Z	11.99745	81.989583	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice1 WP3 4"	50-20	taxonomy	mesozooplankton	1182
+2004-09-03T05:30:00Z	11.99745	81.989583	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice1 WP3 5"	20-0	taxonomy	mesozooplankton	1183
+2004-09-03T10:30:00Z			"MN13 Ice West"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-50|AB320_04-51|AB320_04-52|AB320_04-53|AB320_04-54	600-300|300-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	1084
+2004-09-03T11:10:00Z	12.10015	81.98315	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Ice1 MPS 3-1|04Ice1 MPS 3-2|04Ice1 MPS 3-3|04Ice1 MPS 3-4|04Ice1 MPS 3-5"	1100-600|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	1081
+2004-09-03T12:23:00Z	12.125533	81.981983	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice1 WP3 6"	1100-600	taxonomy	mesozooplankton	1079
+2004-09-03T13:00:00Z	12.10015	81.98315	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice1 WP3 7"	600-200	taxonomy	mesozooplankton	0
+2004-09-03T13:30:00Z	12.125533	81.981983	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice1 WP3 8"	200-50	taxonomy	mesozooplankton	0
+2004-09-03T14:00:00Z	12.10015	81.98315	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice1 WP3 9"	50-20	taxonomy	mesozooplankton	0
+2004-09-03T15:12:00Z	12.130933	81.965117	"Ice north west of Spitsbergen"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice1 WP3 10"	20-0	taxonomy	mesozooplankton	1153
+2004-09-04T13:36:00Z	20.905867	82.446983	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"Ship CTD"	"04Ice2 CTD 1"	1200-0	ctd		3800
+2004-09-04T14:26:00Z	20.9378	82.448983	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Ice2 CTD-1|04Ice2 CTD-2|04Ice2 CTD-3|04Ice2 CTD-4|04Ice2 CTD-5"	1200-600|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-09-04T15:53:00Z	21.0117	82.4515	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice2 WP3 1"	1200-600	taxonomy	mesozooplankton	0
+2004-09-04T17:32:00Z	21.097283	82.450567	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice2 WP3 2"	600-200	taxonomy	mesozooplankton	0
+2004-09-04T18:15:00Z	21.127067	82.4491	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice2 WP3 3"	200-50	taxonomy	mesozooplankton	0
+2004-09-04T18:37:00Z	21.139583	82.448217	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice2 WP3 4"	50-20	taxonomy	mesozooplankton	0
+2004-09-04T18:47:00Z	21.1444	82.447767	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice2 WP3 5"	20-0	taxonomy	mesozooplankton	0
+2004-09-04T19:30:00Z			"Ice East"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-55|AB320_04-56|AB320_04-57|AB320_04-58|AB320_04-59	600-300|300-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	3800
+2004-09-04T22:48:00Z	21.15015	82.444467	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Ice2 MPS 2-1|04Ice2 MPS 2-2|04Ice2 MPS 2-3|04Ice2 MPS 2-4|04Ice2 MPS 2-5"	1200-600|600-200|200-50|50-20|20-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-09-05T00:10:00Z	21.133717	82.448583	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice2 WP3 6"	1200-600	taxonomy	mesozooplankton	0
+2004-09-05T01:34:00Z	21.130833	82.453133	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice2 WP3 7"	600-200	taxonomy	mesozooplankton	0
+2004-09-05T01:40:00Z	21.130983	82.453517	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice2 WP3 8"	200-50	taxonomy	mesozooplankton	0
+2004-09-05T02:22:00Z	21.133667	82.455467	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice2 WP3 9"	50-20	taxonomy	mesozooplankton	0
+2004-09-05T02:38:00Z	21.134167	82.456133	"Ice station east"	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04Ice2 WP3 10"	20-0	taxonomy	mesozooplankton	0
+2004-09-05T21:30:00Z			TE1	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-60|AB320_04-61|AB320_04-62|AB320_04-63|AB320_04-64	600-300|300-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-09-06T00:30:00Z			TE2	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-65|AB320_04-66|AB320_04-67|AB320_04-68|AB320_04-69	600-300|300-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-09-06T05:00:00Z	22.263733	80.2881	Rijpfjorden	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Rij MPS 1-1|04Rij MPS 1-3|04Rij MPS 1-4|04Rij MPS 1-5"	250-200|200-100|100-50|50-20	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-09-06T05:00:00Z	22.263733	80.2881	Rijpfjorden	"Jan Mayen"	UNIS-AB320-2004	GEAR-MISSING	"04Rij MPS 1-2"	20-0	taxonomy		0
+2004-09-06T05:00:00Z			TE3	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-70|AB320_04-71|AB320_04-72	130-100|100-50|50-0	taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton	0
+2004-09-06T12:00:00Z			Rjipfjorden	"Jan Mayen"	UNIS-AB320-2004	"Bottom trawl"	UN04-1|UN04-2	200-150|200-150	lipids|lipids	|	200
+2004-09-06T15:30:00Z	22.374	80.292933	Rijpfjorden	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	"04Rij MPS 2-1|04Rij MPS 2-2"	50-20|100-50	taxonomy|taxonomy	mesozooplankton|mesozooplankton	230
+2004-09-06T15:30:00Z	22.374	80.292933	Rijpfjorden	"Jan Mayen"	UNIS-AB320-2004	GEAR-MISSING	"04Rij MPS 2-3|04Rij MPS 2-4|04Rij MPS 2-5"	200-100|20-0|250-200	taxonomy|taxonomy|taxonomy	||	0
+2004-09-06T15:30:00Z			Rijpfjord	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-73|AB320_04-74|AB320_04-75|AB320_04-76|AB320_04-77	230-200|200-150|150-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	230
+2004-09-07T13:30:00Z			"outside Rijpfjord"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-78|AB320_04-79|AB320_04-80	190-100|100-50|50-0	taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton	200
+2004-09-08T07:16:00Z	19.791217	79.648467	Hinlopen	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04H WP3 1"	230-0	lipids		241
+2004-09-08T07:46:00Z	19.786867	79.6455	Hinlopen	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04H WP3 2"	200-0	lipids		250
+2004-09-08T08:11:00Z	19.779417	79.634117	Hinlopen	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04H WP3 3"	200-0	lipids		248
+2004-09-08T08:48:00Z	19.652417	79.634117	Hinlopen	"Jan Mayen"	UNIS-AB320-2004	"WP3 1000 µm"	"04H WP3 4"	200-0	lipids		267
+2004-09-08T12:00:00Z	19.79	79.648	Hinlopen	"Jan Mayen"	UNIS-AB320-2004	"Bottom trawl"	UN04-3	220-150	lipids		240
+2004-09-08T17:00:00Z			"HIN I"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-81|AB320_04-82|AB320_04-83|AB320_04-84	320-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	330
+2004-09-08T22:45:00Z			"HIN II"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-85|AB320_04-86|AB320_04-87|AB320_04-88|AB320_04-89	400-300|300-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	400
+2004-09-09T00:30:00Z			"HIN III"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-90|AB320_04-91|AB320_04-92|AB320_04-93	330-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	350
+2004-09-09T03:30:00Z			"HIN VI"	"Jan Mayen"	UNIS-AB320-2004	"Multinet 200 µm"	AB320_04-94|AB320_04-95|AB320_04-96|AB320_04-97|AB320_04-98	440-300|300-200|200-100|100-50|50-0	taxonomy|taxonomy|taxonomy|taxonomy|taxonomy	mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton|mesozooplankton	455
