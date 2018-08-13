@@ -1,10 +1,10 @@
 Expedition,Sample name,Station,Latitude (decimals),Longitude (decimals),Bottom depth (m),Sampling date (UTC),Gear,Sampling depth (m) from,Sampling depth (m) to,Filtration volume (ml),Sample type,Responsible,Comment
-ARCEx2016,PHT-001,vMf1-769,77.8317,16.4865,65,18/05/2016 04:00:00,Niskin bottle,60,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-002,vMf1-769,77.8317,16.4865,65,18/05/2016 04:00,Niskin bottle,15,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-003,vMf1-771,77.8317,16.4865,65,18/05/2016 05:00,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-004,vMf1-771,77.8317,16.4865,65,18/05/2016 05:00,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-005,vMf1-771,77.8317,16.4865,65,18/05/2016 05:00,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-006,vMf1-771,77.8317,16.4865,65,18/05/2016 05:00,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,
+ARCEx2016,PHT-001,vMf1-769,77.8317,16.4865,65,18/05/2016 04:00:00,Niskin bottle,60,,,Phytoplankton taxonomy,Philipp Assmy,769
+ARCEx2016,PHT-002,vMf1-769,77.8317,16.4865,65,18/05/2016 04:00,Niskin bottle,15,,,Phytoplankton taxonomy,Philipp Assmy,769
+ARCEx2016,PHT-003,vMf1-771,77.8317,16.4865,65,18/05/2016 05:00,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,771
+ARCEx2016,PHT-004,vMf1-771,77.8317,16.4865,65,18/05/2016 05:00,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,771
+ARCEx2016,PHT-005,vMf1-771,77.8317,16.4865,65,18/05/2016 05:00,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,771
+ARCEx2016,PHT-006,vMf1-771,77.8317,16.4865,65,18/05/2016 05:00,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,771
 ARCEx2016,PHT-013,Hornsund,77.0171,16.1393,124,19/05/2016 20:40:00,Niskin bottle,90,,,Phytoplankton taxonomy,Philipp Assmy,818
 ARCEx2016,PHT-014,Hornsund,77.0171,16.1393,124,19/05/2016 20:40:00,Niskin bottle,50,,,Phytoplankton taxonomy,Philipp Assmy,818
 ARCEx2016,PHT-015,Hornsund,77.0171,16.1393,124,19/05/2016 20:40:00,Niskin bottle,12,,,Phytoplankton taxonomy,Philipp Assmy,818
@@ -13,36 +13,36 @@ ARCEx2016,PHT-017,Hornsund,77.0171,16.1393,124,19/05/2016 20:40:01,Niskin bottle
 ARCEx2016,PHT-018,Hornsund,77.0171,16.1393,124,19/05/2016 20:40:01,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,820
 ARCEx2016,PHT-019,Hornsund,77.0171,16.1393,124,19/05/2016 20:40:01,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,820
 ARCEx2016,PHT-020,Hornsund,77.0171,16.1393,124,19/05/2016 20:40:02,Handnet 20 μm,20,,,Phytoplankton taxonomy,Philipp Assmy,821
-ARCEx2016,PHT-022,Storfjorden-859,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,50,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-023,Storfjorden-859,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,36,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-024,Storfjorden-859,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-025,Storfjorden-860,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-026,Storfjorden-860,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-027,Storfjorden-860,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-028,Storfjorden-861,77.9483,20.2427,97,21/05/2016 20:00,Handnet 20 μm,20,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-053,Erik Eriksenstredet-875,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,120,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-054,Erik Eriksenstredet-875,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,90,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-055,Erik Eriksenstredet-875,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,50,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-056,Erik Eriksenstredet-877,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-057,Erik Eriksenstredet-877,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,17,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-058,Erik Eriksenstredet-877,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-059,Erik Eriksenstredet-877,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-060,Erik Eriksenstredet-877,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-061,Erik Eriksenstredet-876,79.1681,26.3686,270,23/05/2016 07:00,Handnet 20 μm,20,,,Phytoplankton taxonomy,Philipp Assmy,
+ARCEx2016,PHT-022,Storfjorden-859,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,50,,,Phytoplankton taxonomy,Philipp Assmy,859
+ARCEx2016,PHT-023,Storfjorden-859,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,36,,,Phytoplankton taxonomy,Philipp Assmy,859
+ARCEx2016,PHT-024,Storfjorden-859,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,859
+ARCEx2016,PHT-025,Storfjorden-860,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,860
+ARCEx2016,PHT-026,Storfjorden-860,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,860
+ARCEx2016,PHT-027,Storfjorden-860,77.9483,20.2427,97,21/05/2016 20:00,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,860
+ARCEx2016,PHT-028,Storfjorden-861,77.9483,20.2427,97,21/05/2016 20:00,Handnet 20 μm,20,,,Phytoplankton taxonomy,Philipp Assmy,861
+ARCEx2016,PHT-053,Erik Eriksenstredet-875,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,120,,,Phytoplankton taxonomy,Philipp Assmy,875
+ARCEx2016,PHT-054,Erik Eriksenstredet-875,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,90,,,Phytoplankton taxonomy,Philipp Assmy,875
+ARCEx2016,PHT-055,Erik Eriksenstredet-875,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,50,,,Phytoplankton taxonomy,Philipp Assmy,875
+ARCEx2016,PHT-056,Erik Eriksenstredet-877,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,877
+ARCEx2016,PHT-057,Erik Eriksenstredet-877,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,17,,,Phytoplankton taxonomy,Philipp Assmy,877
+ARCEx2016,PHT-058,Erik Eriksenstredet-877,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,877
+ARCEx2016,PHT-059,Erik Eriksenstredet-877,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,877
+ARCEx2016,PHT-060,Erik Eriksenstredet-877,79.1681,26.3686,270,23/05/2016 07:00,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,877
+ARCEx2016,PHT-061,Erik Eriksenstredet-876,79.1681,26.3686,270,23/05/2016 07:00,Handnet 20 μm,20,,,Phytoplankton taxonomy,Philipp Assmy,876
 ARCEx2016,PHT-063,"Outside ""ice station""",78.8851,23.2967,,24/05/2016 12:00,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-064,Polar Front-911,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,100,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-065,Polar Front-911,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,50,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-066,Polar Front-912,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,27,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-067,Polar Front-912,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-068,Polar Front-912,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-069,Polar Front-912,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-070,Polar Front-912,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-074,Polar Front-913,77.2594,29.5061,192,25/05/2016 06:30,Handnet 20 μm,20,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-076,Polar Front-929,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,100,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-077,Polar Front-929,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,50,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-078,Polar Front-930,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-079,Polar Front-930,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,14,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-080,Polar Front-930,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-081,Polar Front-930,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-082,Polar Front-930,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,
-ARCEx2016,PHT-083,Polar Front-931,76.2227,29.6355,283,26/05/2016 06:15,Handnet 20 μm,20,,,Phytoplankton taxonomy,Philipp Assmy,
+ARCEx2016,PHT-064,Polar Front-911,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,100,,,Phytoplankton taxonomy,Philipp Assmy,911
+ARCEx2016,PHT-065,Polar Front-911,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,50,,,Phytoplankton taxonomy,Philipp Assmy,911
+ARCEx2016,PHT-066,Polar Front-912,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,27,,,Phytoplankton taxonomy,Philipp Assmy,912
+ARCEx2016,PHT-067,Polar Front-912,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,912
+ARCEx2016,PHT-068,Polar Front-912,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,912
+ARCEx2016,PHT-069,Polar Front-912,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,912
+ARCEx2016,PHT-070,Polar Front-912,77.2594,29.5061,192,25/05/2016 06:30,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,912
+ARCEx2016,PHT-074,Polar Front-913,77.2594,29.5061,192,25/05/2016 06:30,Handnet 20 μm,20,,,Phytoplankton taxonomy,Philipp Assmy,913
+ARCEx2016,PHT-076,Polar Front-929,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,100,,,Phytoplankton taxonomy,Philipp Assmy,929
+ARCEx2016,PHT-077,Polar Front-929,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,50,,,Phytoplankton taxonomy,Philipp Assmy,929
+ARCEx2016,PHT-078,Polar Front-930,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,20,,,Phytoplankton taxonomy,Philipp Assmy,930
+ARCEx2016,PHT-079,Polar Front-930,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,14,,,Phytoplankton taxonomy,Philipp Assmy,930
+ARCEx2016,PHT-080,Polar Front-930,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,10,,,Phytoplankton taxonomy,Philipp Assmy,930
+ARCEx2016,PHT-081,Polar Front-930,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,5,,,Phytoplankton taxonomy,Philipp Assmy,930
+ARCEx2016,PHT-082,Polar Front-930,76.2227,29.6355,283,26/05/2016 06:15,Niskin bottle,0,,,Phytoplankton taxonomy,Philipp Assmy,930
+ARCEx2016,PHT-083,Polar Front-931,76.2227,29.6355,283,26/05/2016 06:15,Handnet 20 μm,20,,,Phytoplankton taxonomy,Philipp Assmy,931
