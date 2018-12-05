@@ -45,22 +45,6 @@ export class JsonSchema {
 
   isValid(d) {
     return this._validate(d);
-    // if (!isValid) {
-    //   const errors = this.errors.map(e => {
-    //     let err = e;
-    //     if ("enum" === e.keyword) {
-    //       const { dataPath, schemaPath, message } = e;
-    //       err = { dataPath, schemaPath, message: `Invalid gear: ${d.gear}` };
-    //     }
-    //     return err;
-    //   });
-    //   console.error(
-    //     "ERROR failed JSON schema validation:",
-    //     JSON.stringify(errors)
-    //   );
-    //   console.error(JSON.stringify(d));
-    // }
-    // return isValid;
   }
 
   isValidEnum(prop, str) {
