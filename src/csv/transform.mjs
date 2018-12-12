@@ -57,13 +57,14 @@ export function transform({
     }
 
     // all rows including header
-    if (row.length > 0 && row.length != headerLength) {
-      let e = `CSV line ${i} length (${
+    if (row.length > 0 && row.length > headerLength) {
+      let e = `CSV row ${i} contains ${
         row.length
-      }) differs from header line (${headerLength}):
+      }) values, header line only ${headerLength}:
 ${line}`;
       throw e;
     }
+    // @todo pad in outputSeparator if < headerLength
 
     // Transform data rows
     for (const t of transformers) {
