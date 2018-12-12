@@ -32,6 +32,9 @@ export function transform({
   if (/^csv/i.test(format)) {
     outputSeparator = ",";
   }
+  if (/^tsv/i.test(format)) {
+    outputSeparator = "\t";
+  }
 
   linereader.on("line", line => {
     let row = split(line, inputSeparator); //inputSeparator is undefined on first line
