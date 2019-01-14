@@ -2,7 +2,7 @@ import test from "ava";
 import {
   decomposeLifeStage,
   decomposeSizeGroup,
-  decomposeidentificationQualifier,
+  decomposeIdentificationQualifier,
   decompose
 } from "../../../src/darwin-core/taxonomy/decompose";
 
@@ -31,7 +31,7 @@ test("decomposeLifeStage", t => {
   t.deepEqual(lifeStage, "cyst");
 });
 
-test("decomposeidentificationQualifier", t => {
+test("decomposeIdentificationQualifier", t => {
   const idqFacit = [
     ["Chrysochromulina sp. cf. Ch. parkeae", "sp. cf. Ch. parkeae"],
     ["Gymnodinium sp. cf G. simplex", "sp. cf G. simplex"],
@@ -45,10 +45,10 @@ test("decomposeidentificationQualifier", t => {
     ["Rhizosolenia setigera", undefined]
   ];
   for (const [was, expected] of idqFacit) {
-    const { identificationQualifier } = decomposeidentificationQualifier(
+    const { identificationQualifier } = decomposeIdentificationQualifier(
       taxon(was)
     );
-    t.deepEqual(identificationQualifier, expected);
+    t.deepEqual(expected, identificationQualifier);
   }
 });
 
@@ -70,10 +70,17 @@ test("decompose", t => {
         sizeGroup: "10-20 µm",
         taxonRank: "species"
       }
+    ],
+    [
+      "Genus aff. species",
+      {
+        scientificName: "Genus",
+        identificationQualifier: "aff. species"
+      }
     ]
   ];
   for (const [was, expected] of decomposeFacit) {
     const taxon = decompose(was);
-    t.deepEqual(taxon, expected);
+    t.deepEqual(expected, taxon);
   }
 });
