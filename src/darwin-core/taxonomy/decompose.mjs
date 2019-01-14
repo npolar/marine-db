@@ -27,7 +27,7 @@ export function decomposeSizeGroup({ scientificName, ...taxon }) {
   return taxon;
 }
 
-const identificationQualifierRegex = /(\s(sp|spp|cf|indet|aff)\..*|(aff)\.\s.*)$/;
+const identificationQualifierRegex = /(\s(sp|spp|cf|indet|aff)\..*|^(aff)\.\s.*)$/;
 
 export function decomposeIdentificationQualifier(
   { scientificName, ...taxon },
