@@ -72,9 +72,16 @@ test("decompose", t => {
       }
     ],
     [
-      "Genus aff. species",
+      "aff. Taxon",
       {
-        scientificName: "Genus",
+        scientificName: "",
+        identificationQualifier: "aff. Taxon"
+      }
+    ],
+    [
+      "Taxon aff. species",
+      {
+        scientificName: "Taxon",
         identificationQualifier: "aff. species"
       }
     ]
