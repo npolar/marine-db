@@ -1,6 +1,8 @@
 const preprocess = s =>
   String(s)
     .replace(/\sident\./, " indet.")
+    .replace(/_/g, "")
+    .replace(/\s{2}/g, " ")
     .trim();
 
 export function decomposeSizeGroup({ scientificName, ...taxon }) {
@@ -25,9 +27,9 @@ export function decomposeSizeGroup({ scientificName, ...taxon }) {
   return taxon;
 }
 
-const identificationQualifierRegex = /\s((sp|spp|cf|indet)\..*$)/;
+const identificationQualifierRegex = /(\s(sp|spp|cf|indet|aff)\..*|(aff)\.\s.*)$/;
 
-export function decomposeidentificationQualifier(
+export function decomposeIdentificationQualifier(
   { scientificName, ...taxon },
   re = identificationQualifierRegex
 ) {
@@ -42,28 +44,39 @@ export function decomposeidentificationQualifier(
     if (taxon.identificationQualifier.startsWith("sp.")) {
       taxon.taxonRank = "species";
     } else if (taxon.identificationQualifier.startsWith("spp.")) {
-      taxon.taxonRank = "genus";
+      taxon.taxonRank = "species";
     }
   }
   return taxon;
 }
 
-export function decomposeLifeStage({ scientificName, ...taxon }) {
+const lifeStages = [
+  "ciliate",
+  "colony",
+  "cyst",
+  "cysts",
+  "krasnal", // means dwarf
+  "larvae",
+  "veliger",
+  "pilidium",
+  "pollen",
+  "statospore",
+  "statospores",
+  "hypnospore",
+  "hypnospores",
+  "spore",
+  "spores",
+  "zoea"
+];
+
+export function decomposeLifeStage(
+  { scientificName, ...taxon },
+  stages = lifeStages
+) {
   scientificName = preprocess(scientificName);
   taxon.scientificName = scientificName;
   // these MUST not equal a species epithet
-  [
-    "ciliate",
-    "colony",
-    "cyst",
-    "cysts",
-    "krasnal", // means dwarf
-    "larvae",
-    "veliger",
-    "pilidium",
-    "statospores",
-    "zoea"
-  ].forEach(part => {
+  stages.forEach(part => {
     const re = new RegExp(`\\s(${part})$`); // notice the space before
     const m = scientificName.trim().match(re);
     if (m) {
@@ -77,7 +90,7 @@ export function decomposeLifeStage({ scientificName, ...taxon }) {
 export const scientificNameDecomposers = [
   decomposeLifeStage,
   decomposeSizeGroup,
-  decomposeidentificationQualifier
+  decomposeIdentificationQualifier
 ];
 
 // Decompose a scientific name into object holding name, identification qualifier, and life stage
