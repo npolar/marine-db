@@ -21,10 +21,13 @@ export const taxonFixes = [
   ["Heterokontophyta", "Ochrophyta"],
   ["Hydromedusae", "Hydrozoa"],
   ["Mysidacea", "Mysida"], // -> order
-  ["Pennales", "Bacillariophyceae"], // -> order
-  ["Pennate", "Bacillariophyceae"], // -> order
-  ["Diatoms", "Bacillariophyceae"], // -> order
+
+  ["Pennales", "Bacillariophyta"], // -> order
+  ["Pennate", "Bacillariophyta"], // -> order
+  ["Pennatae", "Bacillariophyta"], // -> order
+  ["Diatoms", "Bacillariophyta"], // -> order
   ["Ribbon diatoms", "Bacillariophyceae"], // -> order
+  // Pennales are phylum [Bacillariophyta](https://www.gbif.org/species/106310155)
   // https://en.wikipedia.org/wiki/Pennales
   // In some taxonomic schemes,[2] the pennate diatoms are divided into two groups:
   // pennate diatoms without a raphe, known as araphids (order Fragilariophyceae),
