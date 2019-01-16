@@ -10,7 +10,8 @@ export const taxonFixes = [
   ["Choreotrich", "Choreotrichia"], // -> subclass
   ["Chrysophyta", "Ochrophyta"], // -> phylum
   ["Chrysophycea", "Chrysophyceae"], // -> class
-  ["Ciliate", "Ciliata"], // ->
+  ["Ciliate", "Ciliata"], // -> genus
+  ["Ciliatae", "Ciliata"], // -> genus
   ["Coccolithophora", "Prymnesiophyceae"], // -> class
   ["Dinophyta", "Dinophyceae"], // -> class
   ["Dinoflagellatae", "Dinophyceae"], // -> class
@@ -139,6 +140,18 @@ export const taxonFixes = [
   ["Thalassiosira anguste", "Thalassiosira"], // -> genus, unknown species epithet ('anguste')
   ["Tharybis groenlandicus", "Tharybis groenlandica"], //typo
   ["Tintinnus inquilinum", "Tintinnus inquilinus"], //typo?
+  [
+    "Thalassiosira antarctica var. borealis",
+    "Thalassiosira antarctica borealis"
+  ],
+  [
+    "Thalassiosira antarctica var borealis",
+    "Thalassiosira antarctica borealis"
+  ],
+  [
+    "Thalassiosira antarctica variety borealis",
+    "Thalassiosira antarctica borealis"
+  ],
 
   // 1 Invalid taxon "Thallassionema nitzschioides"
   // 1 Invalid taxon "Thalasiosira hyalina"
@@ -153,7 +166,10 @@ export const taxonFixes = [
   ["Uronema marina", "Uronema marinum"] // phylum Ciliophora
 ];
 
-export function fixName(name, fixes = taxonFixes) {
-  const m = fixes.find(([wrong]) => name === wrong);
-  return m && m[1] ? m[1] : name;
+export function fix(name, fixes = new Map(taxonFixes)) {
+  if (fixes.has(name)) {
+    return fixes.get(name);
+  } else {
+    return name;
+  }
 }
