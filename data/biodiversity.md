@@ -44,6 +44,7 @@ The concentration factor is simply the sedimentation volume divided by the count
 {"scientificName":"Gymnodinium", "organismQuantity":2.3439,, "organismQuantityType":"cells/l",
   "individualCount":7.5,"sampleSizeValue":32,"sampleSizeUnit":"l",
   "cellsCounted":1, "countVolumeML":10,"sedimentationVolumeML":100}
+```
 
 **Basis of calculations**
 It's possible to also provide the basis of the cell counts abvove, ie. how the `individualCount` (the number of cells in the sedimentation chamber) is calculated.
@@ -57,10 +58,11 @@ It's possible to also provide the basis of the cell counts abvove, ie. how the `
   "cellsCounted":1, "fieldsInCount":249,"magnification":60,"maxFields":16635.11,
   "countVolumeML":50,"sedimentationVolumeML":1000,"concentrationFactor":20 }
 ```
+
 Here `individualCount = cellsCounted*(maxFields/fieldsInCount)`
 
 ## 3. Taxonomy
 
 ## 4. Events
 
-## 5. Required fiellds
+## 5. Required fields
