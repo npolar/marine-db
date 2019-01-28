@@ -3,12 +3,17 @@ import path from "path";
 import Ajv from "ajv";
 
 const ajvOptions = { allErrors: true };
+const ajvFactory = () => new Ajv(ajvOptions);
+const jsonSchema7 = "http://json-schema.org/draft-07/schema#";
 
 export class JsonSchema {
   constructor({ schema } = {}) {
     if (schema) {
       this.schema = schema;
     }
+  }
+  get schema() {
+    return this._schema;
   }
 
   get errors() {
@@ -23,10 +28,6 @@ export class JsonSchema {
     return this.schema.required || [];
   }
 
-  get schema() {
-    return this._schema;
-  }
-
   set schema(objOrPath) {
     let json;
     if (this.isSchema(objOrPath)) {
@@ -34,12 +35,12 @@ export class JsonSchema {
     } else {
       json = JSON.parse(fs.readFileSync(path.resolve(objOrPath)));
     }
-    const ajv = new Ajv(ajvOptions);
+    const ajv = ajvFactory();
     this._validate = ajv.compile(json);
     this._schema = json;
   }
 
-  isSchema(json, $schema = "http://json-schema.org/draft-07/schema#") {
+  isSchema(json, $schema = jsonSchema7) {
     return json && json.$schema && json.$schema === $schema;
   }
 
