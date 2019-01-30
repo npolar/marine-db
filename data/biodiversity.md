@@ -1,9 +1,9 @@
-# Biodiversity data preparation guide
+## Biodiversity data preparation guide
 
-### 1. Introduction
+### Introduction
 This guide shows how to prepare Darwin Core [occurrence](http://rs.tdwg.org/dwc/terms/#occurrence) records for the [marine-db](https://doi.org/10.21334/marine-db).
 
-Examples (in JSON):
+#### Examples
 
 ```json
 { "scientificName":"Calanus hyperboreus", "organismQuantity":1,"organismQuantityType":"ind/m3" …}
@@ -11,20 +11,18 @@ Examples (in JSON):
 ```
 
 Note how organism quantities are normalised to a standard volume, either `l` or `m3`.
-
 If possible, also provide the actual number of organisms found in a sample (`individualCount`) and the sample volume (`sampleSizeValue` + `sampleSizeUnit`):
 
 ```json
 { "scientificName": "Coccolithus pelagicus","individualCount": 1, "sampleSizeValue": 10, "sampleSizeUnit": "ml" …}
 ```
-
+#### Formulas
 `organismQuantity = individualCount/sampleSizeValue`.
 
 If `organismQuantity` is not provided, it will be calculated when ingesting data.
 If `organismQuantity` is provided, together with `individualCount` and `sampleSizeValue`, the data ingestion will verify the calculations.
 
-
-### 2. Variables
+#### Variables
 
 **Occurrence records**
 
