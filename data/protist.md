@@ -4,7 +4,7 @@
 
 **Darwin Core** [occurrence](https://dwc.tdwg.org/terms/#occurrence) terms
 
-* [organismQuantity](http://rs.tdwg.org/dwc/terms/organismQuantity): Organisms per litre, given by `individualCount/sampleSizeValue`
+* `[organismQuantity](http://rs.tdwg.org/dwc/terms/organismQuantity)`: Organisms per litre, given by `individualCount/sampleSizeValue`
 * [organismQuantityType](http://rs.tdwg.org/dwc/terms/organismQuantityType): "cells/l"
 * [individualCount](http://rs.tdwg.org/dwc/terms/individualCount): The number of organisms found in the sample volume (given by `sampleSizeValue`)
 * [sampleSizeValue](http://rs.tdwg.org/dwc/terms/sampleSizeValue): The sample volume used to calculate the organismQuantity (ie. corrected for filtering/subsampling)
