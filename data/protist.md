@@ -24,7 +24,5 @@
 
 The cells counted is for a lesser volume than the entire sedimentation chamber, since the actual number of fields in the count is less than the maxiumum. Therefore the cells counted are multiplied by the `maxFields/fieldsInCount` ratio to get the number of cells in the entire sedimentation chamber.
 
-## Examples
-@todo
 
-Back to [biodiversity.md].
+Back to [biodiversity](biodiversity.md).
