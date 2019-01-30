@@ -1,68 +1,32 @@
 # Biodiversity data preparation guide
 
-## 1. Introduction
-Primary biodiversity data are lists, where each line is a record of the amount of a specific organism found at a specific location and time.
+### 1. Introduction
+This guide shows how to prepare Darwin Core [occurrence](http://rs.tdwg.org/dwc/terms/#occurrence) records for the [marine-db](https://doi.org/10.21334/marine-db).
 
-This guide shows how to prepare [Darwin Core occurrence]() records for the marine-db.
-@todo Refer to TSV=>JSON command.
-@todo See also...
-
-## 2. Organism quantity
-```json
-{ "scientificName":"Calanus hyperboreus", "organismQuantity":4,"organismQuantityType":"ind/m3" …}
-{ "scientificName": "Emiliania huxleyi","organismQuantity": 4238.2446, "organismQuantityType": "cells/l" …}
-```
-
-### Calculations
-**Regular samples**
-** organismQuantity = individualCount / sampleSizeValue **
-The actual counted number of individual organisms or cells should be provided, if available.
-In the simplest case, `organismQuantity = individualCount / sampleSizeValue`
+Examples (in JSON):
 
 ```json
-{ "scientificName":"Calanus hyperboreus", "organismQuantity":4,"organismQuantityType":"ind/m3",
-  "sampleSizeValue":1000, "sampleSizeUnit": "l", "individualCount":4 …}
-
-{ "scientificName":"Emiliania huxleyi", "organismQuantity":1336.154, "organismQuantityType":"cells/l",
-  "individualCount":66.8077, "sampleSizeValue":50, "sampleSizeUnit":"ml"…}
+{ "scientificName":"Calanus hyperboreus", "organismQuantity":1,"organismQuantityType":"ind/m3" …}
+{ "scientificName": "Emiliania huxleyi","organismQuantity": 123.456, "organismQuantityType": "cells/l" …}
 ```
 
-**Condensed samples**
-Often a number of Niskin bottles are filtered into a smaller volume (e.g. from 32l to 250 ml).
-From the condensate a certain volume is sedimented and before organisms are counted.
+Note how organism quantities are normalised to a standard volume, either `l` or `m3`.
 
-The quantity of cells in the original volume therefore needs to be calculated by multiplying the counted cells by the the concentration factor.
-`organismQuantity [cells/l] = (cellsCounted / sampleVolumeL) * concentrationFactor`
-
-The concentration factor is simply the sedimentation volume divided by the count volume.
-`concentrationFactor = sedimentationVolume / countVolume`
+If possible, also provide the actual number of organisms found in a sample:
 
 ```json
-{"scientificName":"Gymnodinium", "organismQuantity":2.3439, "organismQuantityType":"cells/l",
-  "individualCount":7.5,"sampleSizeValue":32,"sampleSizeUnit":"l"}
-
-{"scientificName":"Gymnodinium", "organismQuantity":2.3439,, "organismQuantityType":"cells/l",
-  "individualCount":7.5,"sampleSizeValue":32,"sampleSizeUnit":"l",
-  "cellsCounted":1, "countVolumeML":10,"sedimentationVolumeML":100}
+{ "scientificName": "Coccolithus pelagicus","individualCount": 1, "sampleSizeValue": 10, "sampleSizeUnit": "ml"}
 ```
 
-**Basis of calculations**
-It's possible to also provide the basis of the cell counts abvove, ie. how the `individualCount` (the number of cells in the sedimentation chamber) is calculated.
+### 2. Variables
 
-```json
-{ "scientificName":"Emiliania huxleyi", "organismQuantity":1336.153,"organismQuantityType":"cells/l",
-  "individualCount":66.808,"sampleSizeValue":50,"sampleSizeUnit":"ml",
-  "cellsCounted":1, "fieldsInCount":249,"magnification":60,"maxFields":16635.11 }
-{ "scientificName":"Emiliania huxleyi", "organismQuantity":1336.153,"organismQuantityType":"cells/l",
-  "individualCount":66.808,"sampleSizeValue":50,"sampleSizeUnit":"ml",
-  "cellsCounted":1, "fieldsInCount":249,"magnification":60,"maxFields":16635.11,
-  "countVolumeML":50,"sedimentationVolumeML":1000,"concentrationFactor":20 }
-```
+**Occurrence records**
 
-Here `individualCount = cellsCounted*(maxFields/fieldsInCount)`
+Any **Darwin Core** [occurrence](https://dwc.tdwg.org/terms/#occurrence) term is allowed:
 
-## 3. Taxonomy
-
-## 4. Events
-
-## 5. Required fields
+* [scientificName](http://rs.tdwg.org/dwc/terms/scientificName): Accepted scientific name of identified taxon
+* [organismQuantity](http://rs.tdwg.org/dwc/terms/organismQuantity): Organisms per volume, given by `individualCount/sampleSizeValue`
+* [organismQuantityType](http://rs.tdwg.org/dwc/terms/organismQuantityType): `cells/l` or `ind/m3`
+* [individualCount](http://rs.tdwg.org/dwc/terms/individualCount): The number of organisms found in the sample volume (given by `sampleSizeValue`)
+* [sampleSizeValue](http://rs.tdwg.org/dwc/terms/sampleSizeValue): The sample volume used to calculate the `organismQuantity` (corrected for filtering/subsampling)
+* [sampleSizeUnit](http://rs.tdwg.org/dwc/terms/sampleSizeUnit): `l` or `m3`
