@@ -12,11 +12,17 @@ Examples (in JSON):
 
 Note how organism quantities are normalised to a standard volume, either `l` or `m3`.
 
-If possible, also provide the actual number of organisms found in a sample:
+If possible, also provide the actual number of organisms found in a sample (`individualCount`) and the sample volume (`sampleSizeValue` + `sampleSizeUnit`):
 
 ```json
-{ "scientificName": "Coccolithus pelagicus","individualCount": 1, "sampleSizeValue": 10, "sampleSizeUnit": "ml"}
+{ "scientificName": "Coccolithus pelagicus","individualCount": 1, "sampleSizeValue": 10, "sampleSizeUnit": "ml" …}
 ```
+
+`organismQuantity = individualCount/sampleSizeValue`.
+
+If `organismQuantity` is not provided, it will be calculated when ingesting data.
+If `organismQuantity` is provided, together with `individualCount` and `sampleSizeValue`, the data ingestion will verify the calculations.
+
 
 ### 2. Variables
 
