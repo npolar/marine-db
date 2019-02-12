@@ -14,7 +14,7 @@ export const taxonFixes = [
 
   // Higher ranked taxa
 
-  ["Centriceae", "Coscinodiscophycidae"], // -> subclass http://www.marinespecies.org/aphia.php?p=taxdetails&id=148971
+  ["Centriceae", "Bacillariophyceae"], // -> class
   // 9 Invalid taxon "Halosphaeracos"
   // 7 Invalid taxon "Choanoflagellata"
   // 6 Invalid taxon "Tintinnus"
@@ -172,11 +172,7 @@ export const taxonFixes = [
   ["Thalassiosira pacyficaphoto", "Thalassiosira pacifica"], //typo
   ["Thalassiosira anguste", "Thalassiosira"], // -> genus, unknown species epithet ('anguste')
   ["Tharybis groenlandicus", "Tharybis groenlandica"], //typo
-  ["Tintinnus inquilinum", "Tintinnus inquilinus"], //typo?
-  // [
-  //   "Thalassiosira antarctica var. borealis",
-  //   "Thalassiosira antarctica borealis"
-  // ],
+  ["Tintinnus inquilinum", "Eutintinnus apertus"], // AT 2019-02 http://www.marinespecies.org/aphia.php?p=taxdetails&id=235770
   [
     "Thalassiosira antarctica var borealis",
     "Thalassiosira antarctica var. borealis"
