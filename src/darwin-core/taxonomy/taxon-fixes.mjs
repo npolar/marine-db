@@ -5,8 +5,24 @@
 // Bivalvia juveniles should be merged with bivalvia veliger
 
 // @return Array of tuples [ unaccepted, accepted ]
+import { fixFlagellates } from "./fix-flagellates.mjs";
+
 export const taxonFixes = [
+  ["Cell", "Eukaryota incertae sedis"],
+  ["Flagellatae (sercowate z kilkoma witkami)", "Eukaryota incertae sedis"],
+  ["Prasinophyceae/Meringosphaera", "Eukaryota incertae sedis"],
+
   // Higher ranked taxa
+
+  ["Centriceae", "Coscinodiscophycidae"], // -> subclass http://www.marinespecies.org/aphia.php?p=taxdetails&id=148971
+  // 9 Invalid taxon "Halosphaeracos"
+  // 7 Invalid taxon "Choanoflagellata"
+  // 6 Invalid taxon "Tintinnus"
+  // 6 Invalid taxon "Pierscionek"
+  // 4 Invalid taxon "Ciliataolbrzym"
+  // 3 Invalid taxon "Raphidiophyceae"
+  // 3 Invalid taxon "Monads"
+  // 3 Invalid taxon "Chrysocist"
   ["Choreotrich", "Choreotrichia"], // -> subclass
   ["Chrysophyta", "Ochrophyta"], // -> phylum
   ["Chrysophycea", "Chrysophyceae"], // -> class
@@ -22,10 +38,10 @@ export const taxonFixes = [
   ["Hydromedusae", "Hydrozoa"],
   ["Mysidacea", "Mysida"], // -> order
 
-  ["Pennales", "Bacillariophyta"], // -> order
-  ["Pennate", "Bacillariophyta"], // -> order
-  ["Pennatae", "Bacillariophyta"], // -> order
-  ["Diatoms", "Bacillariophyta"], // -> order
+  //["Pennales", "Pennales"], // http://www.marinespecies.org/aphia.php?p=taxdetails&id=1304629->
+  ["Pennate", "Bacillariophyceae"], // -> class Bacillariophyceae Haeckel, 1878
+  ["Pennatae", "Bacillariophyceae"], //
+  ["Diatoms", "Bacillariophyceae"], //
   ["Ribbon diatoms", "Bacillariophyceae"], // -> order
   // Pennales are phylum [Bacillariophyta](https://www.gbif.org/species/106310155)
   // https://en.wikipedia.org/wiki/Pennales
@@ -35,20 +51,11 @@ export const taxonFixes = [
 
   ["Scuticociliata", "Scuticociliatia"], // typo -> subclass http://www.marinespecies.org/aphia.php?p=taxdetails&id=414712
   ["Scuticocilliatae", "Scuticociliatia"], // typo
+  ["Scuticociliatida/Oligohymenophorea", "Scuticociliatia"],
   ["Strombididae", "Strombidiidae"], // typo -> family
   ["Turbellaria", "Tubularia"], // typo
 
   // Species & genera A-Z
-  //11 Invalid taxon "Centriceae"
-  // 9 Invalid taxon "Halosphaeracos"
-  // 7 Invalid taxon "Choanoflagellata"
-  // 6 Invalid taxon "Tintinnus"
-  // 6 Invalid taxon "Pierscionek"
-  // 4 Invalid taxon "Ciliataolbrzym"
-  // 3 Invalid taxon "Raphidiophyceae"
-  // 3 Invalid taxon "Monads"
-  // 3 Invalid taxon "Chrysocist"
-
   // 1 Invalid taxon "Protoperidinium marielebourae"
   // 1 Invalid taxon "Nitzschiabananik bokeim"
   // 1 Invalid taxon "Nitzschia arctica"
@@ -71,10 +78,14 @@ export const taxonFixes = [
   // or -> Coscinodiscus bathyomphalus ?
   // http://www.marinespecies.org/aphia.php?p=taxdetails&id=162930
 
+  ["Ceratium longipes", "Tripos longipes"], // http://www.marinespecies.org/aphia.php?p=taxdetails&id=109964
   ["Chaetoceros lacinosus", "Chaetoceros laciniosus"], // phylum Ochrophyta
   ["Chaetoceros terens", "Chaetoceros teres"], // typo
   ["Chrysotila carteri", "Chrysotila carterae"], // typo, see also (further down) Pleurochrysis carterae
-
+  [
+    "Conticribra weissflogii (former Thalassiosira weissflogii)",
+    "Conticribra weissflogii"
+  ],
   ["Dinophysis rotundata", "Phalacroma rotundatum"],
   ["Disco fiordicus", "Pertsovius fjordicus"],
 
@@ -90,11 +101,18 @@ export const taxonFixes = [
   ["Gymnodinium estuariale", "Gymnodinium"], // -> genus (unknown epithet)
   ["Gymnodinium flagellare", "Gymnodinium"], // -> genus: https://www.gbif.org/species/8661776
   // 1 Invalid taxon "Gymnodinium fusiforme"
+
+  // 'Gymndinium arcticum',
+  // 'Gymndinium galeatum',
+  // 'Gymndinium gracilentum',
+  // 'Gymndinium simplex',
+
   ["Gymnodinium gaelatum", "Gymnodinium galeatum"], //typo
   ["Gymnodinium gracilientum", "Gymnodinium gracilentum"],
   ["Gymnodinium pulchellum", "Takayama pulchella"], // unaccepted synonym https://www.gbif.org/species/7516124 / http://www.marinespecies.org/aphia.php?p=taxdetails&id=233085
   ["Gymnodium simplex", "Gymnodinium simplex"], // typo
   ["Gymnodinium wulfii", "Gymnodinium wulffii"], //typo
+  ["Gymnodinium ovatum", "Gyrodinium ovatum"], // http://www.marinespecies.org/aphia.php?p=taxdetails&id=232978 ->
   ["Gyrodinium flagelare", "Gyrodinium flagellare"], //typo
   ["Gyrodinium wulfii", "Gyrodinium wulffii"],
 
@@ -116,15 +134,24 @@ export const taxonFixes = [
   ["Navicula vanhoefenii", "Navicula vanhoeffenii"], // typo
   //['Nitzschia granii', 'Pseudo-nitzschia granii'],
   ["Nitzschia leavissima", "Nitzschia levissima"],
+  ["nitzschia leavissima", "Nitzschia levissima"],
   // 1 Invalid taxon "Nitzschiabananik bokeim"
   // 1 Invalid taxon "Nitzschia arctica"
   ["Neoceratium arcticum", "Ceratium arcticum"], // unaccepted http://www.marinespecies.org/aphia.php?p=taxdetails&id=495629
+  ["Nitzschia sp1(sensu B.-Therriault)", "Nitzschia"],
 
   ["Oncaea conifera", "Triconia conifera"], // http://www.marinespecies.org/aphia.php?p=taxdetails&id=128957
   // Strobilidium spiralis -> Pelagostrobilidium spirale http://www.marinespecies.org/aphia.php?p=taxdetails&id=341692
   ["Preperidinium meunieri", "Preperidinium meunierii"], //typo
-
+  ["Prorocentrum cordatum old Prorocentrum minimum", "Prorocentrum cordatum"],
   ["Polariella glacialis", "Polarella glacialis"], // typo
+  ["Pleurochrysis carterae", "Chrysotila carterae"], // synonym http://www.marinespecies.org/aphia.php?p=taxdetails&id=837255
+  ["Prorocentrum minimum", "Prorocentrum cordatum"],
+  ["Phalacroma rotundata", "Phalacroma rotundatum"], // phylum Myzozoa
+  ["Polarella glacialis/Heterocapsa", "Heterocapsa"], // Re-examined using photo by AT in 2019-02
+
+  ["Rhizosolenia hebetata f. hebetata", "Rhizosolenia hebetata"],
+  ["Rhizosolenia hebetata f. semispina", "Rhizosolenia semispina"],
 
   ["Sagitta elegans", "Parasagitta elegans"],
   ["Sagitta maxima", "Pseudosagitta maxima"],
@@ -136,6 +163,9 @@ export const taxonFixes = [
   // 1 Invalid taxon "Strobilidium spiralis"
   // 1 Invalid taxon "Scuticociliatida"
 
+  // 1 Invalid taxon "Thallassionema nitzschioides"
+
+  ["Teleaulax marina", "Teleaulax"],
   ["Thalasiossira borealis", "Thalassiosira borealis"], // typo
   ["Thalasiosira hyalina", "Thalassiosira hyalina"], // typo
   ["Thalasiossira pacyfica", "Thalassiosira pacifica"], //typo
@@ -143,33 +173,28 @@ export const taxonFixes = [
   ["Thalassiosira anguste", "Thalassiosira"], // -> genus, unknown species epithet ('anguste')
   ["Tharybis groenlandicus", "Tharybis groenlandica"], //typo
   ["Tintinnus inquilinum", "Tintinnus inquilinus"], //typo?
-  [
-    "Thalassiosira antarctica var. borealis",
-    "Thalassiosira antarctica borealis"
-  ],
+  // [
+  //   "Thalassiosira antarctica var. borealis",
+  //   "Thalassiosira antarctica borealis"
+  // ],
   [
     "Thalassiosira antarctica var borealis",
-    "Thalassiosira antarctica borealis"
+    "Thalassiosira antarctica var. borealis"
   ],
   [
     "Thalassiosira antarctica variety borealis",
-    "Thalassiosira antarctica borealis"
+    "Thalassiosira antarctica var. borealis"
   ],
 
-  // 1 Invalid taxon "Thallassionema nitzschioides"
-  // 1 Invalid taxon "Thalasiosira hyalina"
-  // 1 Invalid taxon "Teleaulax marina"
-
   ["Undeuchaeta spectabilis", "Pseudochirella spectabilis"],
-
-  ["Pleurochrysis carterae", "Chrysotila carterae"], // synonym http://www.marinespecies.org/aphia.php?p=taxdetails&id=837255
-  ["Prorocentrum minimum", "Prorocentrum cordatum"],
-  ["Phalacroma rotundata", "Phalacroma rotundatum"], // phylum Myzozoa
-
   ["Uronema marina", "Uronema marinum"] // phylum Ciliophora
 ];
 
 export function fix(name, fixes = new Map(taxonFixes)) {
+  const { scientificName } = fixFlagellates({ scientificName: name });
+  if (scientificName !== name) {
+    name = scientificName;
+  }
   if (fixes.has(name)) {
     return fixes.get(name);
   } else {
