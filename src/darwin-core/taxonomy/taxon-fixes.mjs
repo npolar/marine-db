@@ -43,11 +43,6 @@ export const taxonFixes = [
   ["Pennatae", "Bacillariophyceae"], //
   ["Diatoms", "Bacillariophyceae"], //
   ["Ribbon diatoms", "Bacillariophyceae"], // -> order
-  // Pennales are phylum [Bacillariophyta](https://www.gbif.org/species/106310155)
-  // https://en.wikipedia.org/wiki/Pennales
-  // In some taxonomic schemes,[2] the pennate diatoms are divided into two groups:
-  // pennate diatoms without a raphe, known as araphids (order Fragilariophyceae),
-  // and pennate diatoms with a raphe, known as raphids (order Bacillariophyceae).
 
   ["Scuticociliata", "Scuticociliatia"], // typo -> subclass http://www.marinespecies.org/aphia.php?p=taxdetails&id=414712
   ["Scuticocilliatae", "Scuticociliatia"], // typo
@@ -162,7 +157,6 @@ export const taxonFixes = [
   // 1 Invalid taxon "Strombidium spiralis"
   // 1 Invalid taxon "Strobilidium spiralis"
   // 1 Invalid taxon "Scuticociliatida"
-
   // 1 Invalid taxon "Thallassionema nitzschioides"
 
   ["Teleaulax marina", "Teleaulax"],
