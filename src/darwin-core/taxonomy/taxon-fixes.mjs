@@ -73,7 +73,6 @@ export const taxonFixes = [
   // or -> Coscinodiscus bathyomphalus ?
   // http://www.marinespecies.org/aphia.php?p=taxdetails&id=162930
 
-  ["Ceratium longipes", "Tripos longipes"], // http://www.marinespecies.org/aphia.php?p=taxdetails&id=109964
   ["Chaetoceros lacinosus", "Chaetoceros laciniosus"], // phylum Ochrophyta
   ["Chaetoceros terens", "Chaetoceros teres"], // typo
   ["Chrysotila carteri", "Chrysotila carterae"], // typo, see also (further down) Pleurochrysis carterae
@@ -132,7 +131,7 @@ export const taxonFixes = [
   ["nitzschia leavissima", "Nitzschia levissima"],
   // 1 Invalid taxon "Nitzschiabananik bokeim"
   // 1 Invalid taxon "Nitzschia arctica"
-  ["Neoceratium arcticum", "Ceratium arcticum"], // unaccepted http://www.marinespecies.org/aphia.php?p=taxdetails&id=495629
+
   ["Nitzschia sp1(sensu B.-Therriault)", "Nitzschia"],
 
   ["Oncaea conifera", "Triconia conifera"], // http://www.marinespecies.org/aphia.php?p=taxdetails&id=128957
@@ -175,6 +174,19 @@ export const taxonFixes = [
     "Thalassiosira antarctica variety borealis",
     "Thalassiosira antarctica var. borealis"
   ],
+
+  // PA: According to Gómez 2013 all marine Ceratium species should be replaced with Tripos.
+  // I think we shouldn't use Ceratium (in case of C. articum) and Tripos (in case of T. longipes) but only one of the two.
+  // I would therefore suggest to use the scientific name Tripos arcticum.
+  // Gómez F. (2013) "REINSTATEMENT OF THE DINOFLAGELLATE GENUS Tripos TO REPLACE Neoceratium, MARINE SPECIES OF Ceratium (DINOPHYCEAE, ALVEOLATA)".
+  // CICIMAR Oceánides 28(1): 1-22
+  ["Ceratium", "Tripos"],
+  ["Ceratium arcticum", "Tripos arcticum"],
+  ["Ceratium fusus", "Tripos fusus"],
+  ["Ceratium longipes", "Tripos longipes"], // http://www.marinespecies.org/aphia.php?p=taxdetails&id=109964
+  ["Neoceratium arcticum", "Tripos arcticum"], // unaccepted http://www.marinespecies.org/aphia.php?p=taxdetails&id=495629
+  ["Neoceratium fusus", "Tripos fusus"],
+  ["Neoceratium lineatum", "Tripos lineatum"],
 
   ["Undeuchaeta spectabilis", "Pseudochirella spectabilis"],
   ["Uronema marina", "Uronema marinum"] // phylum Ciliophora
