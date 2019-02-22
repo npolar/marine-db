@@ -113,7 +113,7 @@ export const taxonFixes = [
   ["Gyrodinium wulfii", "Gyrodinium wulffii"],
 
   ["Heterorhabdus compactus", "Paraheterorhabdus compactus"],
-  ["Heterocapsa rotudnata", "Heterocapsa rotudnata"],
+  ["Heterocapsa rotudnata", "Heterocapsa rotundata"],
   // 1 Invalid taxon "Heterocapsa triquerta"
 
   ["Kathodinium", "Katodinium"], //typo
