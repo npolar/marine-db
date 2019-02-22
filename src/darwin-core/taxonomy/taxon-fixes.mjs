@@ -16,13 +16,14 @@ export const taxonFixes = [
 
   ["Centriceae", "Bacillariophyceae"], // -> class
   // 9 Invalid taxon "Halosphaeracos"
-  // 7 Invalid taxon "Choanoflagellata"
+  // 7 Invalid taxon ""
   // 6 Invalid taxon "Tintinnus"
   // 6 Invalid taxon "Pierscionek"
   // 4 Invalid taxon "Ciliataolbrzym"
   // 3 Invalid taxon "Raphidiophyceae"
   // 3 Invalid taxon "Monads"
   // 3 Invalid taxon "Chrysocist"
+  ["Choanoflagellata", "Choanoflagellatea"],
   ["Choreotrich", "Choreotrichia"], // -> subclass
   ["Chrysophyta", "Ochrophyta"], // -> phylum
   ["Chrysophycea", "Chrysophyceae"], // -> class
@@ -80,6 +81,7 @@ export const taxonFixes = [
     "Conticribra weissflogii (former Thalassiosira weissflogii)",
     "Conticribra weissflogii"
   ],
+  ["Chaeroceros concavicornis", "Chaetoceros concavicornis"],
   ["Dinophysis rotundata", "Phalacroma rotundatum"],
   ["Disco fiordicus", "Pertsovius fjordicus"],
 
@@ -111,8 +113,8 @@ export const taxonFixes = [
   ["Gyrodinium wulfii", "Gyrodinium wulffii"],
 
   ["Heterorhabdus compactus", "Paraheterorhabdus compactus"],
+  ["Heterocapsa rotudnata", "Heterocapsa rotudnata"],
   // 1 Invalid taxon "Heterocapsa triquerta"
-  // 1 Invalid taxon "Heterocapsa rotudnata"
 
   ["Kathodinium", "Katodinium"], //typo
   ["Kathodinium glaucum", "Katodinium glaucum"], //typo
@@ -163,6 +165,7 @@ export const taxonFixes = [
   ["Thalasiosira hyalina", "Thalassiosira hyalina"], // typo
   ["Thalasiossira pacyfica", "Thalassiosira pacifica"], //typo
   ["Thalassiosira pacyficaphoto", "Thalassiosira pacifica"], //typo
+  ["Thalassiosira antarctica\\pacyfica", "Thalassiosira antarctica/pacifica"], // typo
   ["Thalassiosira anguste", "Thalassiosira"], // -> genus, unknown species epithet ('anguste')
   ["Tharybis groenlandicus", "Tharybis groenlandica"], //typo
   ["Tintinnus inquilinum", "Eutintinnus apertus"], // AT 2019-02 http://www.marinespecies.org/aphia.php?p=taxdetails&id=235770
